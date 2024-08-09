@@ -1,0 +1,46 @@
+/* Общие стили для страницы */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    width: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Сетка изображений */
+.image-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px; /* Отступы между изображениями */
+    padding: 20px;
+}
+
+.image-item {
+    width: calc(33.33% - 20px); /* Устанавливает ширину блока, чтобы поместилось 3 в ряд */
+    text-align: center; /* Центрирует текст под изображением */
+}
+
+.image-item img {
+    width: 100%; /* Изображение заполняет весь блок */
+    max-width: 400px; /* Ограничивает максимальный размер изображения */
+    border-radius: 8px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.image-item img:hover {
+    transform: scale(1.05); /* Легкое увеличение при наведении */
+}
+
+.caption {
+    font-size: 0.9em;
+    color: #666;
+    margin-top: 5px;
+}

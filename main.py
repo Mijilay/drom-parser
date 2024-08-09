@@ -27,7 +27,7 @@ def get_cars_cards():
         download_images(image_link, filename)
 
 
-def download_images(image_link, filename, folder="cars_image"):
+def download_images(image_link, filename, folder="static/cars_image"):
     response = requests.get(image_link)
     response.raise_for_status()
     filepath = os.path.join(folder, filename)
@@ -37,7 +37,7 @@ def download_images(image_link, filename, folder="cars_image"):
 
 
 def main():
-    Path("cars_image").mkdir(parents=True, exist_ok=True)
+    Path("static/cars_image").mkdir(parents=True, exist_ok=True)
     #cars = ['mercedes-benz', 'tesla', 'ford', 'bmw', 'kia']
 
     #for car in cars:

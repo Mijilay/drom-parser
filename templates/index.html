@@ -5,5 +5,12 @@
 {% block header %}Добро пожаловать на главную страницу!{% endblock %}
 
 {% block content %}
-    <p>Это главная страница вашего веб-приложения на Flask.</p>
+    <div class="image-grid">
+        {% for img_path in imgs %}
+            <div class="image-item">
+                <img src="{{ url_for('static', filename='cars_image/' ~ img_path) }}" alt="Car Image"/>
+                <p class="caption">Текст</p>
+            </div>
+        {% endfor %}
+    </div>
 {% endblock %}

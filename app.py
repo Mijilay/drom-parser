@@ -1,12 +1,15 @@
 from flask import Flask, render_template
 from livereload import Server
+import os
 
 app = Flask(__name__)
 app.debug = True
 
 @app.route('/')
-def home():
-    return render_template('index.html')
+def index():
+    image_folder = os.path.join(app.static_folder, 'cars_image')
+    imgs = [f for f in os.listdir(image_folder) if os.path.isfile(os.path.join(image_folder, f))]
+    return render_template('index.html', imgs=imgs)
 
 @app.route('/about')
 def about():
