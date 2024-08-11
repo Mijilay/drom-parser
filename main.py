@@ -63,6 +63,9 @@ def get_cars_cards(response, car, count):
                 "transmission": cards_text[1].get_text(),
                 "drive": cards_text[2].get_text(),    
             }
+
+        json_filename = f"{car}{count}-{number}.txt"
+        get_json_files(json_filename, cards, folder=f"static/cards/{car}")
             
 
 def get_expansion_link(link):
@@ -78,6 +81,12 @@ def download_images(image_link, filename, folder):
     filepath = os.path.join(folder, filename)
     with open(filepath, 'wb') as file:
         file.write(response.content)
+
+
+def get_json_files(filename, card, folder):
+    filepath = os.path.join(folder, filename)
+    with open(filepath, 'w', encoding='utf8') as file:
+        json.dump(card, file, ensure_ascii=False)
 
 
 def main():
