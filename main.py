@@ -6,11 +6,10 @@ from bs4 import BeautifulSoup
 
 def get_cars_cards(response, car, count, cards_list):
     soup = BeautifulSoup(response.text, 'lxml')
-    cards_tag = soup.find(class_='css-1nvf6xk ejck0o60').find_all(class_='css-1f68fiz ea1vuk60')
-
+    cards_tag = soup.find(attrs={"data-bulletin-list": "true"}).find_all(class_='css-1f68fiz ea1vuk60')
 
     for number, card in enumerate(cards_tag):
-        link_tag = card.find(class_="css-10vnevh e1pqv6mt0").find("a")
+        link_tag = card.find("a")
         car_link = link_tag.get("href")
             
         image_tag = card.find(class_="emt6rd0 css-ac6cb6 e4lamf0").find("img")
