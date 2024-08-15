@@ -71,16 +71,6 @@ def main():
     for car in cars_model:
         os.makedirs(f'static/cards/{car}/media', exist_ok=True)
 
-        url_for_pages = f'https://spb.drom.ru/{car}/all/'
-        params = {"ph": 1, 
-                "unsold": 1}
-        response = requests.get(url_for_pages, params=params)
-        response.raise_for_status()
-
-        soup = BeautifulSoup(response.text, 'lxml')
-
-        pages_tag = soup.find_all(class_="css-14yriw2 e1px31z30")[1]
-
         cards_list = []
 
         for page in count(1, 1):
