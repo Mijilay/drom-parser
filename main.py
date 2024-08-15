@@ -3,6 +3,7 @@ import json
 import os.path
 from urllib.parse import urlsplit, unquote
 from bs4 import BeautifulSoup
+from itertools import count
 
 def get_cars_cards(response, car, count, cards_list):
     soup = BeautifulSoup(response.text, 'lxml')
@@ -65,7 +66,7 @@ def get_json_files(cards, folder):
 
 
 def main():
-    cars_model = ['mercedes-benz', 'peugeot', 'ford', 'bmw', 'mazda']
+    cars_model = ['peugeot', 'mercedes-benz', 'ford', 'bmw', 'mazda']
 
     for car in cars_model:
         os.makedirs(f'static/cards/{car}/media', exist_ok=True)
@@ -79,23 +80,24 @@ def main():
         soup = BeautifulSoup(response.text, 'lxml')
 
         pages_tag = soup.find_all(class_="css-14yriw2 e1px31z30")[1]
-        pages_quantity = int(pages_tag.get_text().split()[0]) // 20
-        if not pages_quantity % 20 == 0:
-            pages_quantity = pages_quantity + 1
-        else:
-            continue
 
         cards_list = []
 
-        for count in range(1, pages_quantity+1):
-            url = f'https://spb.drom.ru/{car}/all/page{count}/'
+        for page in count(1, 1):
+            url = f'https://spb.drom.ru/{car}/all/page{page}/'
             params = {"ph": 1, 
                     "unsold": 1}
             response = requests.get(url, params=params)
             response.raise_for_status()
+            soup = BeautifulSoup(response.text, 'lxml')
+            caar = soup.find(attrs={'data-ftid': "bulletin-list_nearby"})
+            cards = get_cars_cards(response, car, page, cards_list)
+            if caar:
+                break
 
-            cards = get_cars_cards(response, car, count, cards_list)
-        
+            
+            
+
         get_json_files(cards, folder=f"static/cards/{car}/cards_description.json")
 
 
