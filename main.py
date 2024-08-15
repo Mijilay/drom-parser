@@ -66,7 +66,7 @@ def get_json_files(cards, folder):
 
 
 def main():
-    cars_model = ['peugeot', 'mercedes-benz', 'ford', 'bmw', 'mazda']
+    cars_model = ['mercedes-benz', 'peugeot', 'ford', 'bmw', 'mazda']
 
     for car in cars_model:
         os.makedirs(f'static/cards/{car}/media', exist_ok=True)
