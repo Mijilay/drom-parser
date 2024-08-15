@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/vyborg/bmw/x1/620782561.html", "image": "bmw44-9.jpg", "model": "BMW X1", "year": "2013", "price": "1 400 000 ₽", "engine": "2.0 л (150 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/c-class/281508878.html", "image": "mercedes-benz38-17.jpg", "model": "Mercedes-Benz C-Class", "year": "2023", "price": "22 900 000 ₽", "engine": "гибрид,", "transmission": "автомат,", "drive": "4WD"}

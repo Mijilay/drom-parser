@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/7-series/53678801.html", "image": "bmw9-0.jpg", "model": "BMW 7-Series", "year": "2002", "price:": "450 000 ₽", "hp": "4.4 л (333 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "319 574 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/fiesta/543091771.html", "image": "ford4-4.jpg", "model": "Ford Fiesta", "year": "2016", "price:": "820 000 ₽", "hp": "1.6 л (105 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "100 000 км"}

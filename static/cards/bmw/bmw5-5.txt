@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/i3/217968829.html", "image": "bmw5-5.jpg", "model": "BMW i3", "year": "2019", "price:": "2 750 000 ₽", "hp": "184 л.с.,", "engine": "электро,", "transmission": "АКПП,", "drive": "задний,", "mileage": "42 534 км"}

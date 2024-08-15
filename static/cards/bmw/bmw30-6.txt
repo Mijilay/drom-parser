@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/x4/535081640.html", "image": "bmw30-6.jpg", "model": "BMW X4", "year": "2020", "price:": "4 070 000 ₽", "hp": "2.0 л (184 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "103 550 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/vytegra/mazda/mazda3/547821495.html", "image": "mazda21-32.jpg", "model": "Mazda Mazda3", "year": "2005", "price": "400 000 ₽", "engine": "1.6 л (105 л.с.),", "transmission": "бензин,", "drive": "механика,"}

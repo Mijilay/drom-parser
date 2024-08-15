@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/3-series_gran_turismo/104755781.html", "image": "bmw29-18.jpg", "model": "BMW 3-Series Gran Turismo", "year": "2014", "price:": "1 410 000 ₽", "hp": "2.0 л (184 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "260 990 км"}

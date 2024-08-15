@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/sertolovo/ford/kuga/642452066.html", "image": "ford31-8.jpg", "model": "Ford Kuga", "year": "2013", "price": "1 300 000 ₽", "engine": "1.6 л (150 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

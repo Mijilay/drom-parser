@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/c-class/848408626.html", "image": "mercedes-benz26-0.jpg", "model": "Mercedes-Benz C-Class", "year": "2016", "price:": "1 960 777 ₽", "hp": "1.6 л (150 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "140 160 км"}

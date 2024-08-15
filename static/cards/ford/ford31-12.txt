@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/tosno/ford/focus/230765936.html", "image": "ford31-12.jpg", "model": "Ford Focus", "year": "2012", "price": "700 000 ₽", "engine": "1.6 л (125 л.с.),", "transmission": "бензин,", "drive": "робот,"}

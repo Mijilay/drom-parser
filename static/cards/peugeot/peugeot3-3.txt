@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/peugeot/307/830264323.html", "image": "peugeot3-3.jpg", "model": "Peugeot 307", "year": "2004", "price:": "140 000 ₽", "hp": "1.6 л (109 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "354 000 км"}

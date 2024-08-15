@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/glb/308888413.html", "image": "mercedes-benz15-9.jpg", "model": "Mercedes-Benz GLB-Class", "year": "2020", "price:": "3 990 000 ₽", "hp": "2.0 л (224 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "4WD,", "mileage": "82 175 км"}

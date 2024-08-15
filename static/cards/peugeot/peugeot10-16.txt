@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/peugeot/206/350057230.html", "image": "peugeot10-16.jpg", "model": "Peugeot 206", "year": "2004", "price:": "300 000 ₽", "hp": "1.4 л (75 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний"}

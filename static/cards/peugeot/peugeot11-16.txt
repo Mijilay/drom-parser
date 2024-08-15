@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/peugeot/5008/410436583.html", "image": "peugeot11-16.jpg", "model": "Peugeot 5008", "year": "2019", "price:": "2 340 000 ₽", "hp": "1.5 л (130 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "передний,", "mileage": "148 000 км"}

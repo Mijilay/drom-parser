@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/ranger/51883177.html", "image": "ford13-19.jpg", "model": "Ford Ranger", "year": "2022", "price:": "5 700 000 ₽", "hp": "2.0 л (213 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "96 км"}

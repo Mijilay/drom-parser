@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/s-class/896315293.html", "image": "mercedes-benz13-10.jpg", "model": "Mercedes-Benz S-Class", "year": "2005", "price:": "740 000 ₽", "hp": "5.0 л (306 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "400 000 км"}

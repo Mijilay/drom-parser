@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/velikiy-novgorod/mercedes-benz/e-class/147990315.html", "image": "mercedes-benz39-17.jpg", "model": "Mercedes-Benz E-Class", "year": "1979", "price": "100 000 ₽", "engine": "2.4 л (72 л.с.),", "transmission": "дизель,", "drive": "механика,"}

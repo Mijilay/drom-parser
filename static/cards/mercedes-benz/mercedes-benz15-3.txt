@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/cla-class/595879473.html", "image": "mercedes-benz15-3.jpg", "model": "Mercedes-Benz CLA-Class", "year": "2013", "price:": "2 190 000 ₽", "hp": "2.0 л (360 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "4WD,", "mileage": "114 000 км"}

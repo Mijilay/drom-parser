@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/mazda5/227525071.html", "image": "mazda21-5.jpg", "model": "Mazda Mazda5", "year": "2011", "price:": "1 050 000 ₽", "hp": "2.0 л (144 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "210 000 км"}

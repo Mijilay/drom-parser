@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/gla-class/356966483.html", "image": "mercedes-benz8-19.jpg", "model": "Mercedes-Benz GLA-Class", "year": "2017", "price:": "2 549 000 ₽", "hp": "2.0 л (211 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "4WD,", "mileage": "113 915 км"}

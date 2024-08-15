@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/ecosport/896366158.html", "image": "ford16-14.jpg", "model": "Ford EcoSport", "year": "2018", "price:": "1 285 000 ₽", "hp": "1.6 л (122 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "передний,", "mileage": "130 408 км"}

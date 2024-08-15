@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/peugeot/308/461715508.html", "image": "peugeot11-19.jpg", "model": "Peugeot 308", "year": "2018", "price:": "1 300 000 ₽", "hp": "1.5 л (131 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "передний,", "mileage": "180 000 км"}

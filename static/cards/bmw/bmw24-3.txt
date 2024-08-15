@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/3-series/865579398.html", "image": "bmw24-3.jpg", "model": "BMW 3-Series", "year": "1992", "price:": "285 000 ₽", "hp": "1.8 л (113 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "150 000 км"}

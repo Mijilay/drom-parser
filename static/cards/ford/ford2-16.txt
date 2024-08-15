@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/mustang/648963276.html", "image": "ford2-16.jpg", "model": "Ford Mustang", "year": "2002", "price:": "2 600 000 ₽", "hp": "3.8 л (190 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "100 км"}

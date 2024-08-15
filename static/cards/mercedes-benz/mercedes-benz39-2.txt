@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/murino/mercedes-benz/a-class/380838783.html", "image": "mercedes-benz39-2.jpg", "model": "Mercedes-Benz A-Class", "year": "1998", "price": "210 000 ₽", "engine": "1.4 л (82 л.с.),", "transmission": "бензин,", "drive": "механика,"}

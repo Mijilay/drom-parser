@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/x5/114219697.html", "image": "bmw1-9.jpg", "model": "BMW X5", "year": "2020", "price:": "7 150 000 ₽", "hp": "гибрид,", "engine": "автомат,", "transmission": "4WD,", "drive": "76 946 км"}

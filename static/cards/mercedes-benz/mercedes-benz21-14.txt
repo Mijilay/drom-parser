@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/gl-class/184377190.html", "image": "mercedes-benz21-14.jpg", "model": "Mercedes-Benz GL-Class", "year": "2014", "price:": "3 219 000 ₽", "hp": "3.0 л (249 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "146 767 км"}

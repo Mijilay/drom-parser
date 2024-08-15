@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/mondeo/375105794.html", "image": "ford20-5.jpg", "model": "Ford Mondeo", "year": "2004", "price:": "239 999 ₽", "hp": "2.5 л (170 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "300 000 км"}

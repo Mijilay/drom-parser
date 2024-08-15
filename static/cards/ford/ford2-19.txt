@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/mustang/438235963.html", "image": "ford2-19.jpg", "model": "Ford Mustang", "year": "2009", "price:": "2 750 000 ₽", "hp": "4.6 л (315 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "85 360 км"}

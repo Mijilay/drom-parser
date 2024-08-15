@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/gla-class/907982820.html", "image": "mercedes-benz12-17.jpg", "model": "Mercedes-Benz GLA-Class", "year": "2016", "price:": "2 044 000 ₽", "hp": "1.6 л (150 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "113 178 км"}

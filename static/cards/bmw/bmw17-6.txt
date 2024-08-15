@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/x6/674867307.html", "image": "bmw17-6.jpg", "model": "BMW X6", "year": "2019", "price:": "5 470 000 ₽", "hp": "3.0 л (249 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "78 201 км"}

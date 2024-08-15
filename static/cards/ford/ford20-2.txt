@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/mondeo/448373676.html", "image": "ford20-2.jpg", "model": "Ford Mondeo", "year": "1999", "price:": "138 000 ₽", "hp": "1.8 л (115 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "388 090 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/x5/850060117.html", "image": "bmw39-18.jpg", "model": "BMW X5", "year": "2010", "price:": "2 069 000 ₽", "hp": "3.0 л (269 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "4WD,", "mileage": "148 405 км"}

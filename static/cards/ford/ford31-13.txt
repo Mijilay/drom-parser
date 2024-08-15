@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/roshchino/ford/focus/302700227.html", "image": "ford31-13.jpg", "model": "Ford Focus", "year": "2014", "price": "800 000 ₽", "engine": "1.6 л (105 л.с.),", "transmission": "бензин,", "drive": "механика,"}

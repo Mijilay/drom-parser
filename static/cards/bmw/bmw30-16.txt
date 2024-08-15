@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/x1/813715432.html", "image": "bmw30-16.jpg", "model": "BMW X1", "year": "2024", "price:": "7 170 000 ₽", "hp": "2.0 л (204 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "4WD,", "mileage": "95 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/peugeot/406/288550338.html", "image": "peugeot11-11.jpg", "model": "Peugeot 406", "year": "1997", "price:": "255 000 ₽", "hp": "1.8 л (110 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "106 685 км"}

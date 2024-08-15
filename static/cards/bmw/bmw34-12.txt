@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/1-series/234880276.html", "image": "bmw34-12.jpg", "model": "BMW 1-Series", "year": "2019", "price:": "2 599 000 ₽", "hp": "1.5 л (140 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "43 265 км"}

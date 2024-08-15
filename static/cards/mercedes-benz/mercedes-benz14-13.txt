@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/m-class/878784848.html", "image": "mercedes-benz14-13.jpg", "model": "Mercedes-Benz M-Class", "year": "2015", "price:": "2 747 070 ₽", "hp": "3.5 л (249 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "99 561 км"}

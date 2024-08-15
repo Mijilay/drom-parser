@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/peugeot/206/705655623.html", "image": "peugeot12-25.jpg", "model": "Peugeot 206", "year": "2005", "price:": "200 000 ₽", "hp": "1.4 л (75 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "165 481 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/peugeot/2008/533980656.html", "image": "peugeot7-4.jpg", "model": "Peugeot 2008", "year": "2023", "price:": "3 685 000 ₽", "hp": "1.2 л (136 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний"}

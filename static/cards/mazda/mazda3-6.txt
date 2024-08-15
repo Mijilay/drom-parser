@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/demio/778982577.html", "image": "mazda3-6.jpg", "model": "Mazda Demio", "year": "2015", "price:": "880 000 ₽", "hp": "1.5 л (105 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "89 000 км"}

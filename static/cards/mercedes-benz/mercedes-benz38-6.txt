@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/a-class/541141266.html", "image": "mercedes-benz38-6.jpg", "model": "Mercedes-Benz A-Class", "year": "2014", "price:": "1 469 000 ₽", "hp": "1.6 л (122 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "157 086 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/tribute/871777828.html", "image": "mazda19-14.jpg", "model": "Mazda Tribute", "year": "2007", "price": "1 049 000 ₽", "engine": "бензин,", "transmission": "автомат,", "drive": "189 052 км"}

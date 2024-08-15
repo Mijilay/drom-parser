@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/x4/301540264.html", "image": "bmw14-14.jpg", "model": "BMW X4", "year": "2019", "price:": "5 500 000 ₽", "hp": "3.0 л (265 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "4WD,", "mileage": "76 231 км"}

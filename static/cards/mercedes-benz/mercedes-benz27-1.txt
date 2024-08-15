@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/mercedes/819401838.html", "image": "mercedes-benz27-1.jpg", "model": "Mercedes-Benz Mercedes", "year": "2016", "price:": "1 999 000 ₽", "hp": "2.1 л (109 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "задний,", "mileage": "198 000 км"}

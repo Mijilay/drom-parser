@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/explorer/794246040.html", "image": "ford1-14.jpg", "model": "Ford Explorer", "year": "2015", "price:": "2 449 000 ₽", "hp": "3.5 л (345 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "224 404 км"}

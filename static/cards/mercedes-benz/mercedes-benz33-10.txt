@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/glc-class/524393290.html", "image": "mercedes-benz33-10.jpg", "model": "Mercedes-Benz GLC", "year": "2018", "price:": "3 515 000 ₽", "hp": "2.1 л (170 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "81 581 км"}

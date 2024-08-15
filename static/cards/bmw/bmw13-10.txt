@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/3-series/213878735.html", "image": "bmw13-10.jpg", "model": "BMW 3-Series", "year": "1999", "price:": "799 999 ₽", "hp": "2.5 л (170 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "388 000 км"}

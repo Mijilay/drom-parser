@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/x5/168191446.html", "image": "bmw6-13.jpg", "model": "BMW X5", "year": "2023", "price:": "17 500 000 ₽", "hp": "3.0 л (298 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "573 км"}

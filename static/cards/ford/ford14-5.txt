@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/focus/478959029.html", "image": "ford14-5.jpg", "model": "Ford Focus", "year": "2004", "price:": "250 000 ₽", "hp": "2.3 л (145 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "216 500 км"}

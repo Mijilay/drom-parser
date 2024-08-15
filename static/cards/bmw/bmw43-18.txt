@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/8-series/211364590.html", "image": "bmw43-18.jpg", "model": "BMW 8-Series", "year": "2019", "price:": "8 199 000 ₽", "hp": "3.0 л (320 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "4WD,", "mileage": "65 740 км"}

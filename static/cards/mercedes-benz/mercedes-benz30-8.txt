@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/sl-class/216579690.html", "image": "mercedes-benz30-8.jpg", "model": "Mercedes-Benz SL-Class", "year": "2023", "price:": "26 780 000 ₽", "hp": "4.0 л (585 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "4WD,", "mileage": "10 км"}

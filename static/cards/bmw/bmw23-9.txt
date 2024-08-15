@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/7-series/322353768.html", "image": "bmw23-9.jpg", "model": "BMW 7-Series", "year": "2018", "price:": "4 189 000 ₽", "hp": "2.0 л (249 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "задний,", "mileage": "91 971 км"}

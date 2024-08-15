@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/3-series/53260898.html", "image": "bmw10-6.jpg", "model": "BMW 3-Series", "year": "2005", "price:": "670 000 ₽", "hp": "3.0 л (258 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "284 000 км"}

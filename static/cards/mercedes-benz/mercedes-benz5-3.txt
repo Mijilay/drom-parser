@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/c-class/348620982.html", "image": "mercedes-benz5-3.jpg", "model": "Mercedes-Benz C-Class", "year": "2011", "price:": "1 575 090 ₽", "hp": "1.6 л (156 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "94 000 км"}

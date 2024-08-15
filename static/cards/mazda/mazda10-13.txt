@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/mazda3/644347517.html", "image": "mazda10-13.jpg", "model": "Mazda Mazda3", "year": "2008", "price:": "630 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "213 856 км"}

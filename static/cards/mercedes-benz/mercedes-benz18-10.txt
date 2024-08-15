@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/e-class/53929423.html", "image": "mercedes-benz18-10.jpg", "model": "Mercedes-Benz E-Class", "year": "1990", "price:": "380 000 ₽", "hp": "3.0 л (220 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "395 000 км"}

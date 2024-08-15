@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/tourneo/47603098.html", "image": "ford21-5.jpg", "model": "Ford Tourneo", "year": "2004", "price:": "550 000 ₽", "hp": "2.0 л (100 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "передний,", "mileage": "405 000 км"}

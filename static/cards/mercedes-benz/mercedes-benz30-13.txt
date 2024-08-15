@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/vito/751001015.html", "image": "mercedes-benz30-13.jpg", "model": "Mercedes-Benz Vito", "year": "2000", "price:": "463 000 ₽", "hp": "2.1 л (82 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "передний,", "mileage": "447 000 км"}

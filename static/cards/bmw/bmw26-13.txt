@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/3-series/596319540.html", "image": "bmw26-13.jpg", "model": "BMW 3-Series", "year": "1988", "price:": "210 000 ₽", "hp": "1.8 л (102 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "466 000 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/mercedes/53002261.html", "image": "mercedes-benz32-1.jpg", "model": "Mercedes-Benz Mercedes", "year": "2014", "price:": "5 100 000 ₽", "hp": "2.2 л (109 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "задний,", "mileage": "210 000 км"}

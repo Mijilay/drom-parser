@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/mustang/174443147.html", "image": "ford31-0.jpg", "model": "Ford Mustang", "year": "2020", "price:": "3 300 000 ₽", "hp": "2.3 л (317 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "задний,", "mileage": "70 000 км"}

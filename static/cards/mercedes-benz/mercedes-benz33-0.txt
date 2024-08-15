@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/e-class/166026734.html", "image": "mercedes-benz33-0.jpg", "model": "Mercedes-Benz E-Class", "year": "2010", "price:": "1 350 000 ₽", "hp": "2.1 л (170 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "226 000 км"}

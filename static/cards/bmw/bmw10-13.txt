@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/x6/363229248.html", "image": "bmw10-13.jpg", "model": "BMW X6", "year": "2021", "price:": "8 579 000 ₽", "hp": "3.0 л (249 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "97 755 км"}

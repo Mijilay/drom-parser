@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/x5/400242692.html", "image": "bmw36-8.jpg", "model": "BMW X5", "year": "2002", "price:": "820 000 ₽", "hp": "3.0 л (231 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "304 650 км"}

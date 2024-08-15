@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/6-series/839316442.html", "image": "bmw28-8.jpg", "model": "BMW 6-Series", "year": "2016", "price:": "3 999 000 ₽", "hp": "3.0 л (313 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "113 000 км"}

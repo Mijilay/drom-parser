@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/peugeot/5008/353310773.html", "image": "peugeot1-9.jpg", "model": "Peugeot 5008", "year": "2021", "price:": "2 629 090 ₽", "hp": "2.0 л (150 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "передний,", "mileage": "129 261 км"}

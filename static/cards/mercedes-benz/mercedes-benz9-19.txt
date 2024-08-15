@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/glk-class/631921228.html", "image": "mercedes-benz9-19.jpg", "model": "Mercedes-Benz GLK-Class", "year": "2014", "price:": "1 925 000 ₽", "hp": "3.5 л (249 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "233 244 км"}

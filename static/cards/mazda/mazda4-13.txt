@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/mazda6/356590125.html", "image": "mazda4-13.jpg", "model": "Mazda Mazda6", "year": "2023", "price:": "3 320 000 ₽", "hp": "2.5 л (192 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "передний,", "mileage": "5 624 км"}

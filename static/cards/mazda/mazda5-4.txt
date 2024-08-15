@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/cx-5/334709331.html", "image": "mazda5-4.jpg", "model": "Mazda CX-5", "year": "2013", "price:": "1 449 000 ₽", "hp": "2.2 л (175 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "105 401 км"}

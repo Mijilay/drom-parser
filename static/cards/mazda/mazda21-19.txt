@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/novaya-ladoga/mazda/mazda3/744989082.html", "image": "mazda21-19.jpg", "model": "Mazda Mazda3", "year": "2008", "price": "680 000 ₽", "engine": "1.6 л (105 л.с.),", "transmission": "бензин,", "drive": "механика,"}

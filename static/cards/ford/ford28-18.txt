@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/mondeo/280238052.html", "image": "ford28-18.jpg", "model": "Ford Mondeo", "year": "2006", "price:": "460 000 ₽", "hp": "1.8 л (125 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "261 000 км"}

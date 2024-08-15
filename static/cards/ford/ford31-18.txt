@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/sosnovo/ford/focus/935672643.html", "image": "ford31-18.jpg", "model": "Ford Focus", "year": "2009", "price": "469 000 ₽", "engine": "1.6 л (100 л.с.),", "transmission": "бензин,", "drive": "механика,"}

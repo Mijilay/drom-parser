@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/gls-class/52569443.html", "image": "mercedes-benz17-15.jpg", "model": "Mercedes-Benz GLS-Class", "year": "2022", "price:": "18 944 000 ₽", "hp": "3.0 л (367 л.с.),", "engine": "гибрид,", "transmission": "АКПП,", "drive": "4WD"}

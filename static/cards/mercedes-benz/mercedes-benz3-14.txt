@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/g-class/178021308.html", "image": "mercedes-benz3-14.jpg", "model": "Mercedes-Benz G-Class", "year": "2008", "price:": "4 888 000 ₽", "hp": "5.5 л (388 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "197 000 км"}

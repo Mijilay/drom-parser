@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/mondeo/551772175.html", "image": "ford21-19.jpg", "model": "Ford Mondeo", "year": "2001", "price:": "275 000 ₽", "hp": "2.0 л (145 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "320 000 км"}

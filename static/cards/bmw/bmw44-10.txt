@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/luga/bmw/5-series/855545117.html", "image": "bmw44-10.jpg", "model": "BMW 5-Series", "year": "2000", "price": "570 000 ₽", "engine": "2.2 л (170 л.с.),", "transmission": "бензин,", "drive": "механика,"}

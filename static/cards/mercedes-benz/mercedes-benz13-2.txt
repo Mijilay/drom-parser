@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/s-class/51271393.html", "image": "mercedes-benz13-2.jpg", "model": "Mercedes-Benz S-Class", "year": "1993", "price:": "2 799 999 ₽", "hp": "3.4 л (150 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "151 000 км"}

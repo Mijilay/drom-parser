@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/c-class/144369623.html", "image": "mercedes-benz11-5.jpg", "model": "Mercedes-Benz C-Class", "year": "2020", "price:": "3 250 000 ₽", "hp": "1.5 л (156 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "84 000 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/7-series/755557157.html", "image": "bmw13-0.jpg", "model": "BMW 7-Series", "year": "2020", "price:": "6 649 090 ₽", "hp": "3.0 л (320 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "101 152 км"}

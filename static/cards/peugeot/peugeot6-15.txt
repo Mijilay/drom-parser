@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/peugeot/207/321168424.html", "image": "peugeot6-15.jpg", "model": "Peugeot 207", "year": "2007", "price:": "359 000 ₽", "hp": "1.4 л (75 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "247 000 км"}

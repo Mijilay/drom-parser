@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/axela/52099236.html", "image": "mazda19-7.jpg", "model": "Mazda Axela", "year": "2012", "price:": "1 150 000 ₽", "hp": "1.5 л (111 л.с.),", "engine": "бензин,", "transmission": "вариатор,", "drive": "передний,", "mileage": "98 000 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/amg_gt/648378438.html", "image": "mercedes-benz34-8.jpg", "model": "Mercedes-Benz AMG GT", "year": "2019", "price:": "13 000 000 ₽", "hp": "4.0 л (585 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "4WD,", "mileage": "15 580 км"}

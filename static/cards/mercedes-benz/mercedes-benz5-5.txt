@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/e-class/256873573.html", "image": "mercedes-benz5-5.jpg", "model": "Mercedes-Benz E-Class", "year": "2015", "price:": "2 510 000 ₽", "hp": "3.5 л (306 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "112 071 км"}

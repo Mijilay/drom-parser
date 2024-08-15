@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/7-series/442163705.html", "image": "bmw30-1.jpg", "model": "BMW 7-Series", "year": "2008", "price:": "1 570 000 ₽", "hp": "3.0 л (326 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "219 000 км"}

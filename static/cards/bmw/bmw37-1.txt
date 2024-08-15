@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/7-series/763821333.html", "image": "bmw37-1.jpg", "model": "BMW 7-Series", "year": "1999", "price:": "1 300 000 ₽", "hp": "4.4 л (286 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "403 200 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/escape/874335478.html", "image": "ford25-6.jpg", "model": "Ford Escape", "year": "2010", "price:": "745 000 ₽", "hp": "2.5 л (171 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "295 500 км"}

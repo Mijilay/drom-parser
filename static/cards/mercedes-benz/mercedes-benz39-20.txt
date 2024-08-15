@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/velikiy-novgorod/mercedes-benz/e-class/831324651.html", "image": "mercedes-benz39-20.jpg", "model": "Mercedes-Benz E-Class", "year": "2012", "price": "1 600 000 ₽", "engine": "1.8 л (184 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

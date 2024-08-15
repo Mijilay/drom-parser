@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/z4/567902400.html", "image": "bmw22-2.jpg", "model": "BMW Z4", "year": "2021", "price:": "7 190 000 ₽", "hp": "2.0 л (258 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "17 893 км"}

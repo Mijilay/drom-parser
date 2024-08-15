@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/x3/615963144.html", "image": "bmw40-12.jpg", "model": "BMW X3", "year": "2016", "price:": "2 055 000 ₽", "hp": "2.0 л (190 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "191 232 км"}

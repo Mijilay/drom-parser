@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/pskov/peugeot/rifter/761811412.html", "image": "peugeot12-8.jpg", "model": "Peugeot Rifter", "year": "2019", "price": "2 262 000 ₽", "engine": "1.5 л (130 л.с.),", "transmission": "дизель,", "drive": "автомат,"}

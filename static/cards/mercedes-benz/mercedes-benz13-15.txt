@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/a-class/671192014.html", "image": "mercedes-benz13-15.jpg", "model": "Mercedes-Benz A-Class", "year": "2019", "price:": "2 600 000 ₽", "hp": "1.3 л (150 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "48 522 км"}

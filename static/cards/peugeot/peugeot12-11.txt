@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/pskov/peugeot/206/656381744.html", "image": "peugeot12-11.jpg", "model": "Peugeot 206", "year": "1999", "price": "165 000 ₽", "engine": "1.1 л (60 л.с.),", "transmission": "бензин,", "drive": "механика,"}

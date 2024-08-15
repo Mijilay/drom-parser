@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/e-class/136715962.html", "image": "mercedes-benz31-17.jpg", "model": "Mercedes-Benz E-Class", "year": "2019", "price:": "3 750 777 ₽", "hp": "2.0 л (194 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "89 595 км"}

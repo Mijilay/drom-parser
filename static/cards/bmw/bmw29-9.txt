@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/x6/324575777.html", "image": "bmw29-9.jpg", "model": "BMW X6", "year": "2011", "price:": "1 899 000 ₽", "hp": "3.0 л (245 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "208 243 км"}

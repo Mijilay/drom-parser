@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/kommunar/peugeot/308/443857245.html", "image": "peugeot12-1.jpg", "model": "Peugeot 308", "year": "2010", "price": "600 000 ₽", "engine": "1.6 л (120 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

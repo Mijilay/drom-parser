@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/3-series/456648376.html", "image": "bmw2-15.jpg", "model": "BMW 3-Series", "year": "2022", "price:": "4 389 000 ₽", "hp": "2.0 л (122 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "задний,", "mileage": "31 443 км"}

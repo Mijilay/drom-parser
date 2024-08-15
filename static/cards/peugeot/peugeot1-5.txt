@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/peugeot/5008/521405578.html", "image": "peugeot1-5.jpg", "model": "Peugeot 5008", "year": "2023", "price:": "4 499 000 ₽", "hp": "1.8 л (211 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний"}

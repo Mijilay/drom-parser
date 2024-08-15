@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/xm/279606399.html", "image": "bmw29-11.jpg", "model": "BMW XM", "year": "2023", "price:": "19 900 000 ₽", "hp": "4.4 л (489 л.с.),", "engine": "гибрид,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "9 251 км"}

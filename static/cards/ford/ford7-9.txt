@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/galaxy/53662284.html", "image": "ford7-9.jpg", "model": "Ford Galaxy", "year": "2018", "price:": "1 990 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "передний,", "mileage": "99 006 км"}

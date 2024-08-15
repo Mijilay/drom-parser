@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/peugeot/3008/253553762.html", "image": "peugeot2-0.jpg", "model": "Peugeot 3008", "year": "2011", "price:": "615 000 ₽", "hp": "1.6 л (120 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "306 615 км"}

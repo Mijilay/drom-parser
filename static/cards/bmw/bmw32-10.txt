@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/x1/602030598.html", "image": "bmw32-10.jpg", "model": "BMW X1", "year": "2009", "price:": "1 630 000 ₽", "hp": "2.0 л (204 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "112 475 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/focus/244990207.html", "image": "ford18-10.jpg", "model": "Ford Focus", "year": "2002", "price:": "180 000 ₽", "hp": "2.0 л (130 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "268 000 км"}

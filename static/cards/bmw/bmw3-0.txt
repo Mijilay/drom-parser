@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/x6/313637073.html", "image": "bmw3-0.jpg", "model": "BMW X6", "year": "2013", "price:": "2 155 854 ₽", "hp": "3.0 л (306 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "169 310 км"}

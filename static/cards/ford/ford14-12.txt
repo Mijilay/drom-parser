@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/f150/485229303.html", "image": "ford14-12.jpg", "model": "Ford F150", "year": "2023", "price:": "14 450 000 ₽", "hp": "3.5 л (450 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "112 км"}

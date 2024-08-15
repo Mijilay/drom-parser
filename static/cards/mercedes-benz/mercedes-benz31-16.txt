@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/c-class/226304304.html", "image": "mercedes-benz31-16.jpg", "model": "Mercedes-Benz C-Class", "year": "1997", "price:": "220 000 ₽", "hp": "2.0 л (136 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "236 700 км"}

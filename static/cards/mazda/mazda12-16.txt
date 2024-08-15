@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/mazda6/750618086.html", "image": "mazda12-16.jpg", "model": "Mazda Mazda6", "year": "2017", "price:": "1 780 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "216 000 км"}

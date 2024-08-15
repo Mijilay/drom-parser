@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/e-class/53030914.html", "image": "mercedes-benz25-9.jpg", "model": "Mercedes-Benz E-Class", "year": "2022", "price:": "7 300 000 ₽", "hp": "2.0 л (194 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "1 390 км"}

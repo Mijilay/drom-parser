@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/gatchina/mercedes-benz/b-class/527657979.html", "image": "mercedes-benz39-4.jpg", "model": "Mercedes-Benz B-Class", "year": "2013", "price": "1 350 000 ₽", "engine": "1.6 л (156 л.с.),", "transmission": "бензин,", "drive": "робот,"}

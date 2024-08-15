@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/1-series/247225131.html", "image": "bmw16-15.jpg", "model": "BMW 1-Series", "year": "2010", "price:": "780 000 ₽", "hp": "1.6 л (116 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "277 000 км"}

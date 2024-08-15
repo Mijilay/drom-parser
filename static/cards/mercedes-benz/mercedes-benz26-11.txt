@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/c-class/49641648.html", "image": "mercedes-benz26-11.jpg", "model": "Mercedes-Benz C-Class", "year": "2012", "price:": "1 700 000 ₽", "hp": "1.8 л (156 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "120 000 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/vito/893673924.html", "image": "mercedes-benz22-17.jpg", "model": "Mercedes-Benz Vito", "year": "2019", "price:": "3 649 000 ₽", "hp": "2.1 л (136 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "130 922 км"}

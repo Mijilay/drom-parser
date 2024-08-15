@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/5-series/630251683.html", "image": "bmw36-17.jpg", "model": "BMW 5-Series", "year": "1990", "price:": "599 999 ₽", "hp": "2.5 л (170 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "60 000 км"}

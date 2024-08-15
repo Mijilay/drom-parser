@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/atenza/571153295.html", "image": "mazda21-7.jpg", "model": "Mazda Atenza", "year": "2015", "price:": "2 000 000 ₽", "hp": "2.2 л (175 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "передний,", "mileage": "122 000 км"}

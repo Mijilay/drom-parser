@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/3-series/744822337.html", "image": "bmw25-2.jpg", "model": "BMW 3-Series", "year": "1996", "price:": "420 000 ₽", "hp": "1.8 л (115 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "333 333 км"}

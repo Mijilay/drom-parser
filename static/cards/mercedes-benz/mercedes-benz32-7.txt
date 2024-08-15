@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/e-class/796524770.html", "image": "mercedes-benz32-7.jpg", "model": "Mercedes-Benz E-Class", "year": "2021", "price:": "5 900 000 ₽", "hp": "2.0 л (197 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "30 000 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/a-class/222667090.html", "image": "mercedes-benz27-7.jpg", "model": "Mercedes-Benz A-Class", "year": "2020", "price:": "3 271 000 ₽", "hp": "1.3 л (150 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "36 102 км"}

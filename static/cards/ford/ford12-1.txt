@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/mondeo/802952457.html", "image": "ford12-1.jpg", "model": "Ford Mondeo", "year": "2014", "price:": "1 049 000 ₽", "hp": "2.0 л (200 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "139 000 км"}

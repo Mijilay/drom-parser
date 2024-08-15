@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/x4/422150616.html", "image": "bmw18-8.jpg", "model": "BMW X4", "year": "2021", "price:": "5 950 000 ₽", "hp": "2.0 л (252 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "4WD,", "mileage": "27 167 км"}

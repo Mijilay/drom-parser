@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/scorpio/423712214.html", "image": "ford13-15.jpg", "model": "Ford Scorpio", "year": "1985", "price:": "280 000 ₽", "hp": "2.0 л (105 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "251 732 км"}

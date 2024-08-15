@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/6-series_gran_turismo/53801362.html", "image": "bmw37-10.jpg", "model": "BMW 6-Series Gran Turismo", "year": "2022", "price:": "11 550 000 ₽", "hp": "3.0 л (286 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "4WD,", "mileage": "18 203 км"}

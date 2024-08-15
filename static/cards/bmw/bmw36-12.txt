@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/1-series/640869467.html", "image": "bmw36-12.jpg", "model": "BMW 1-Series", "year": "2008", "price:": "715 000 ₽", "hp": "1.6 л (115 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "задний,", "mileage": "263 388 км"}

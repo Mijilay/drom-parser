@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/6-series_gran_turismo/791434439.html", "image": "bmw34-11.jpg", "model": "BMW 6-Series Gran Turismo", "year": "2019", "price:": "5 270 000 ₽", "hp": "3.0 л (265 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "4WD,", "mileage": "69 250 км"}

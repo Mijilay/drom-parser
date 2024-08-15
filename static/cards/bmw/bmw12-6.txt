@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/5-series/919662784.html", "image": "bmw12-6.jpg", "model": "BMW 5-Series", "year": "1993", "price:": "280 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "200 000 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/mondeo/764195231.html", "image": "ford21-9.jpg", "model": "Ford Mondeo", "year": "2016", "price:": "1 380 000 ₽", "hp": "2.5 л (149 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "196 000 км"}

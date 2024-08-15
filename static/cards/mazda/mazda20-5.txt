@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/mazda6/180041142.html", "image": "mazda20-5.jpg", "model": "Mazda Mazda6", "year": "2019", "price:": "2 700 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "101 000 км"}

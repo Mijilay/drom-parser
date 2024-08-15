@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/cx-9/724575533.html", "image": "mazda20-16.jpg", "model": "Mazda CX-9", "year": "2017", "price:": "2 910 000 ₽", "hp": "2.5 л (231 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "97 139 км"}

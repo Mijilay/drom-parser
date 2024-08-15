@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/5-series/208401490.html", "image": "bmw18-10.jpg", "model": "BMW 5-Series", "year": "2017", "price:": "2 347 070 ₽", "hp": "2.0 л (190 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "160 000 км"}

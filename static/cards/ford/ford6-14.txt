@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/fiesta/927085652.html", "image": "ford6-14.jpg", "model": "Ford Fiesta", "year": "2010", "price:": "609 990 ₽", "hp": "1.4 л (96 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "196 243 км"}

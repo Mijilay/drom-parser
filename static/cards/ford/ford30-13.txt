@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/fiesta/54025502.html", "image": "ford30-13.jpg", "model": "Ford Fiesta", "year": "2002", "price:": "365 000 ₽", "hp": "1.6 л (100 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "248 000 км"}

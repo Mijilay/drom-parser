@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/priozersk/peugeot/4007/882048630.html", "image": "peugeot12-3.jpg", "model": "Peugeot 4007", "year": "2008", "price": "810 000 ₽", "engine": "2.4 л (170 л.с.),", "transmission": "бензин,", "drive": "вариатор,"}

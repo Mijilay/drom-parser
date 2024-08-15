@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/cx-5/109598475.html", "image": "mazda2-0.jpg", "model": "Mazda CX-5", "year": "2022", "price:": "3 585 444 ₽", "hp": "2.0 л (150 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "50 314 км"}

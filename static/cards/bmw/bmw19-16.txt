@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/ix/269363628.html", "image": "bmw19-16.jpg", "model": "BMW iX", "year": "2021", "price:": "6 850 000 ₽", "hp": "электро,", "engine": "автомат,", "transmission": "4WD,", "drive": "31 046 км"}

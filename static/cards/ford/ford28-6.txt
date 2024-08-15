@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/fusion/164114751.html", "image": "ford28-6.jpg", "model": "Ford Fusion", "year": "2009", "price:": "350 000 ₽", "hp": "1.4 л (80 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "288 097 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/7-series/124998732.html", "image": "bmw36-15.jpg", "model": "BMW 7-Series", "year": "2011", "price:": "1 329 000 ₽", "hp": "4.4 л (407 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "296 436 км"}

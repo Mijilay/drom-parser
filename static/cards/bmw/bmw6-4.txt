@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/z4/692367239.html", "image": "bmw6-4.jpg", "model": "BMW Z4", "year": "2020", "price:": "3 940 000 ₽", "hp": "2.0 л (258 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "41 966 км"}

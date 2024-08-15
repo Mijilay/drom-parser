@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/323/641983722.html", "image": "mazda18-9.jpg", "model": "Mazda 323", "year": "2002", "price:": "155 000 ₽", "hp": "1.6 л (95 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "193 000 км"}

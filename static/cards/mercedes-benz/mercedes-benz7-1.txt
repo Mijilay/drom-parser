@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/slk-class/332099076.html", "image": "mercedes-benz7-1.jpg", "model": "Mercedes-Benz SLK-Class", "year": "2001", "price:": "800 000 ₽", "hp": "2.3 л (197 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "235 000 км"}

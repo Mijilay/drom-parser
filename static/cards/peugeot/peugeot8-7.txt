@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/peugeot/107/481835352.html", "image": "peugeot8-7.jpg", "model": "Peugeot 107", "year": "2009", "price:": "439 000 ₽", "hp": "1.0 л (68 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "176 594 км"}

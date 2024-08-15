@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/7-series/100296325.html", "image": "bmw13-13.jpg", "model": "BMW 7-Series", "year": "2010", "price:": "1 575 000 ₽", "hp": "4.4 л (407 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "229 000 км"}

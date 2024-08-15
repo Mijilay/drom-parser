@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/3-series/912118907.html", "image": "bmw44-26.jpg", "model": "BMW 3-Series", "year": "2020", "price:": "3 272 368 ₽", "hp": "2.0 л (184 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "24 109 км"}

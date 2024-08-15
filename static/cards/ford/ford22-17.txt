@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/mustang/223044685.html", "image": "ford22-17.jpg", "model": "Ford Mustang", "year": "2021", "price:": "3 600 000 ₽", "hp": "2.3 л (310 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "35 000 км"}

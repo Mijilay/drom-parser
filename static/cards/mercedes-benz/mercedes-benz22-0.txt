@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/m-class/664004183.html", "image": "mercedes-benz22-0.jpg", "model": "Mercedes-Benz M-Class", "year": "2011", "price:": "1 739 000 ₽", "hp": "3.5 л (272 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "106 286 км"}

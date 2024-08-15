@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/gle-class/142316039.html", "image": "mercedes-benz8-7.jpg", "model": "Mercedes-Benz GLE", "year": "2017", "price:": "3 949 000 ₽", "hp": "3.0 л (333 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "106 041 км"}

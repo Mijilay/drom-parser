@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/peugeot/208/390154086.html", "image": "peugeot5-17.jpg", "model": "Peugeot 208", "year": "2019", "price:": "1 250 000 ₽", "hp": "1.2 л (110 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "передний,", "mileage": "40 000 км"}

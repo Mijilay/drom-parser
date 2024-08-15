@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/roshchino/bmw/5-series/52794521.html", "image": "bmw44-5.jpg", "model": "BMW 5-Series", "year": "2001", "price": "1 000 000 ₽", "engine": "2.2 л (170 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

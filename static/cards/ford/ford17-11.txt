@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/kuga/567120023.html", "image": "ford17-11.jpg", "model": "Ford Kuga", "year": "2012", "price:": "1 339 000 ₽", "hp": "1.6 л (150 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "4WD,", "mileage": "174 823 км"}

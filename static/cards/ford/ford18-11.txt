@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/explorer/170428690.html", "image": "ford18-11.jpg", "model": "Ford Explorer", "year": "1993", "price:": "470 000 ₽", "hp": "4.0 л (155 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "280 000 км"}

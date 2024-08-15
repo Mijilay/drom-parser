@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/velikiy-novgorod/peugeot/206/767710760.html", "image": "peugeot12-5.jpg", "model": "Peugeot 206", "year": "2009", "price": "229 900 ₽", "engine": "1.4 л (75 л.с.),", "transmission": "бензин,", "drive": "механика,"}

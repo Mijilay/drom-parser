@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/velikiy-novgorod/bmw/7-series/603904537.html", "image": "bmw44-11.jpg", "model": "BMW 7-Series", "year": "1998", "price": "699 990 ₽", "engine": "3.5 л (235 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

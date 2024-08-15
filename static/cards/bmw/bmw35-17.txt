@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/8-series/424643642.html", "image": "bmw35-17.jpg", "model": "BMW 8-Series", "year": "2020", "price:": "7 999 000 ₽", "hp": "3.0 л (320 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "53 274 км"}

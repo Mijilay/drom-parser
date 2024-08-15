@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/peugeot/206/500461001.html", "image": "peugeot8-15.jpg", "model": "Peugeot 206", "year": "2003", "price:": "180 000 ₽", "hp": "1.4 л (75 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "256 351 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/sosnoviy-bor/ford/maverick/686131161.html", "image": "ford31-22.jpg", "model": "Ford Maverick", "year": "1994", "price": "160 000 ₽", "engine": "2.7 л (99 л.с.),", "transmission": "дизель,", "drive": "механика,"}

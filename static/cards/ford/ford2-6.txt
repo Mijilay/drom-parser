@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/fusion/225151782.html", "image": "ford2-6.jpg", "model": "Ford Fusion", "year": "2006", "price:": "498 750 ₽", "hp": "1.4 л (80 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "166 381 км"}

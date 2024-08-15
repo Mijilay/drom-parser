@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/kingisepp/mercedes-benz/e-class/53106722.html", "image": "mercedes-benz39-10.jpg", "model": "Mercedes-Benz E-Class", "year": "2002", "price": "1 000 000 ₽", "engine": "2.1 л (150 л.с.),", "transmission": "дизель,", "drive": "АКПП,"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/kommunar/ford/focus/135115910.html", "image": "ford31-9.jpg", "model": "Ford Focus", "year": "2007", "price": "570 000 ₽", "engine": "2.0 л (145 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/demio/654843671.html", "image": "mazda18-12.jpg", "model": "Mazda Demio", "year": "2000", "price:": "284 900 ₽", "hp": "1.5 л (75 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "передний,", "mileage": "221 196 км"}

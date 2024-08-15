@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/tourneo_custom/438728741.html", "image": "ford22-19.jpg", "model": "Ford Tourneo Custom", "year": "2017", "price:": "2 199 000 ₽", "hp": "2.2 л (125 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "передний,", "mileage": "250 199 км"}

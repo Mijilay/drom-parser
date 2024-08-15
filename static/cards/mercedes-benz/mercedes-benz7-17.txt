@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/cls-class/52302960.html", "image": "mercedes-benz7-17.jpg", "model": "Mercedes-Benz CLS-Class", "year": "2016", "price:": "3 650 000 ₽", "hp": "3.0 л (249 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "94 443 км"}

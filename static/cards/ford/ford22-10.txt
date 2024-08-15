@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/ecosport/376805248.html", "image": "ford22-10.jpg", "model": "Ford EcoSport", "year": "2016", "price:": "1 019 000 ₽", "hp": "1.6 л (122 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "передний,", "mileage": "115 180 км"}

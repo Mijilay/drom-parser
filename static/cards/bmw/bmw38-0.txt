@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/m5/782961768.html", "image": "bmw38-0.jpg", "model": "BMW M5", "year": "2018", "price:": "8 065 900 ₽", "hp": "4.4 л (625 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "95 000 км"}

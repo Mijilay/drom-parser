@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/glc_coupe/242815044.html", "image": "mercedes-benz30-7.jpg", "model": "Mercedes-Benz GLC Coupe", "year": "2020", "price:": "4 850 000 ₽", "hp": "2.0 л (245 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "60 565 км"}

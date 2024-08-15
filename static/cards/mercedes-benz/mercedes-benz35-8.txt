@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/c-class/836709400.html", "image": "mercedes-benz35-8.jpg", "model": "Mercedes-Benz C-Class", "year": "2010", "price:": "1 040 000 ₽", "hp": "2.1 л (136 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "330 000 км"}

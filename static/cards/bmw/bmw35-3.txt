@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/5-series/581501760.html", "image": "bmw35-3.jpg", "model": "BMW 5-Series", "year": "2022", "price:": "6 690 000 ₽", "hp": "2.0 л (195 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "30 071 км"}

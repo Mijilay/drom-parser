@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/tosno/ford/c-max/399970716.html", "image": "ford31-11.jpg", "model": "Ford C-MAX", "year": "2007", "price": "650 000 ₽", "engine": "1.8 л (125 л.с.),", "transmission": "бензин,", "drive": "механика,"}

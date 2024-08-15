@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/5-series/135328888.html", "image": "bmw8-18.jpg", "model": "BMW 5-Series", "year": "1998", "price:": "420 000 ₽", "hp": "2.8 л (193 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "390 000 км"}

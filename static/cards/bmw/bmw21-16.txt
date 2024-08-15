@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/5-series_gran_turismo/454817737.html", "image": "bmw21-16.jpg", "model": "BMW 5-Series Gran Turismo", "year": "2016", "price:": "2 200 000 ₽", "hp": "190 л.с.,", "engine": "дизель,", "transmission": "автомат,", "drive": "180 000 км"}

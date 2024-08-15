@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/b-class/54122595.html", "image": "mercedes-benz31-18.jpg", "model": "Mercedes-Benz B-Class", "year": "2008", "price:": "750 000 ₽", "hp": "2.0 л (136 л.с.),", "engine": "бензин,", "transmission": "вариатор,", "drive": "передний,", "mileage": "370 000 км"}

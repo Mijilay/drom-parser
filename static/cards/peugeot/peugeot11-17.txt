@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/peugeot/408/189859836.html", "image": "peugeot11-17.jpg", "model": "Peugeot 408", "year": "2012", "price:": "599 000 ₽", "hp": "1.6 л (112 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "передний,", "mileage": "199 000 км"}

@@ -1,16 +1,75 @@
-{% extends 'template.html' %}
-
-{% block title %}Главная страница{% endblock %}
-
-{% block header %}Добро пожаловать на главную страницу!{% endblock %}
-
-{% block content %}
-    <div class="image-grid">
-        {% for img_path in imgs %}
-            <div class="image-item">
-                <img src="{{ url_for('static', filename='cars_image/' ~ img_path) }}" alt="Car Image"/>
-                <p class="caption">Текст</p>
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Главная{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="header__menu">
+            <div class="logo">
+                <a href="/">Лого</a>
             </div>
-        {% endfor %}
+            <div class="brand-list">
+                {% for brand in brands %}
+                    <a href="{{ url_for('show_brand', brand_name=brand) }}" class="brand-button">
+                        <img src="{{ url_for('static', filename='icons/' ~ brand|lower ~ '.png') }}" alt="{{ brand }} logo" class="brand-icon">
+                        {{ brand|capitalize }}
+                    </a>
+                {% endfor %}
+            </div>
+            <div class="contact-button">
+                <a href="#">Контакты</a>
+            </div>
+        </div>
+        <!-- <div class="header__description"> -->
+        <!-- </div> -->
+    </header>
+    
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+    
+    <!-- Включаем внешний JavaScript файл -->
+    <script src="{{ url_for('static', filename='scripts.js') }}"></script>
+</body>
+<footer>
+    <div class="footer-container">
+        <div class="footer-section logo-section">
+            <a href="/" class="footer-logo">
+                <img src="path_to_logo" alt="Logo">
+                <p>Лого</p>
+            </a>
+            <p>Адрес</p>
+        </div>
+        <div class="footer-section about-section">
+            <div class="social-icons">
+                <a href="#"><img src="path_to_vk_icon" alt="VK"></a>
+                <a href="#"><img src="path_to_facebook_icon" alt="Facebook"></a>
+                <a href="#"><img src="path_to_instagram_icon" alt="Instagram"></a>
+                <a href="#"><img src="path_to_youtube_icon" alt="YouTube"></a>
+            </div>
+            <p>Подбор авто<br>Авто из Кореи, Китая, Японии, Америки и других стран.</p>
+        </div>
+        <div class="footer-section navigation-section">
+            <h3>Навигация</h3>
+            <ul>
+                <li><a href="/">Главная</a></li>
+                <li><a href="/select-car">Подобрать автомобиль</a></li>
+                <li><a href="/catalog">Каталог</a></li>
+                <li><a href="/about">О нас</a></li>
+            </ul>
+        </div>
+        <div class="footer-section contact-section">
+            <h3>Контакты</h3>
+            <p>+7 (999) 000 99-00</p>
+            <p>мэйл</p>
+            <a href="#" class="callback-button">Заказать звонок</a>
+        </div>
     </div>
-{% endblock %}
+</footer>
+
+</html>

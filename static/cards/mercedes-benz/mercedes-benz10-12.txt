@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/e-class/611473285.html", "image": "mercedes-benz10-12.jpg", "model": "Mercedes-Benz E-Class", "year": "1997", "price:": "270 000 ₽", "hp": "3.2 л (224 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "300 000 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/focus/53918750.html", "image": "ford17-5.jpg", "model": "Ford Focus", "year": "2001", "price:": "190 000 ₽", "hp": "1.8 л (115 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "180 000 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/3-series/813127559.html", "image": "bmw17-13.jpg", "model": "BMW 3-Series", "year": "2013", "price:": "1 470 000 ₽", "hp": "1.6 л (136 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "195 766 км"}

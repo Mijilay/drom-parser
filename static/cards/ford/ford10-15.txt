@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/fiesta/752288051.html", "image": "ford10-15.jpg", "model": "Ford Fiesta", "year": "2008", "price:": "445 000 ₽", "hp": "1.4 л (80 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "195 353 км"}

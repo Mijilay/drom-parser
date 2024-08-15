@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/s-class/187782101.html", "image": "mercedes-benz16-16.jpg", "model": "Mercedes-Benz S-Class", "year": "2020", "price:": "9 150 000 ₽", "hp": "2.9 л (249 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "65 000 км"}

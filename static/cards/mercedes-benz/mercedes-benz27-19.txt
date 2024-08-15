@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/e-class/850641229.html", "image": "mercedes-benz27-19.jpg", "model": "Mercedes-Benz E-Class", "year": "2001", "price:": "290 000 ₽", "hp": "3.2 л (197 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "500 000 км"}

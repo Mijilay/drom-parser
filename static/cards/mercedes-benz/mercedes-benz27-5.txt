@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/v-class/264341988.html", "image": "mercedes-benz27-5.jpg", "model": "Mercedes-Benz V-Class", "year": "2017", "price:": "4 299 000 ₽", "hp": "2.1 л (163 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "176 150 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/velikiy-novgorod/mazda/cx-8/52708785.html", "image": "mazda21-24.jpg", "model": "Mazda CX-8", "year": "2020", "price": "3 139 000 ₽", "engine": "2.2 л (190 л.с.),", "transmission": "дизель,", "drive": "АКПП,"}

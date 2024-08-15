@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/tourneo_connect/165075589.html", "image": "ford29-7.jpg", "model": "Ford Tourneo Connect", "year": "2018", "price:": "1 830 000 ₽", "hp": "1.5 л (120 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "передний,", "mileage": "187 000 км"}

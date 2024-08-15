@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/mazda5/826823868.html", "image": "mazda10-6.jpg", "model": "Mazda Mazda5", "year": "2008", "price:": "679 000 ₽", "hp": "1.8 л (115 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "198 048 км"}

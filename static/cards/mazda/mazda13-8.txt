@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/626/404009061.html", "image": "mazda13-8.jpg", "model": "Mazda 626", "year": "1989", "price:": "180 000 ₽", "hp": "2.0 л (90 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "300 000 км"}

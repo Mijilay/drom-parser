@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/mustang/190998414.html", "image": "ford12-7.jpg", "model": "Ford Mustang", "year": "2008", "price:": "3 900 000 ₽", "hp": "4.6 л (465 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "задний,", "mileage": "65 903 км"}

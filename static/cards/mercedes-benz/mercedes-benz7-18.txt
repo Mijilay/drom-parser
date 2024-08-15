@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/gle-class/928125011.html", "image": "mercedes-benz7-18.jpg", "model": "Mercedes-Benz GLE", "year": "2019", "price:": "6 200 000 ₽", "hp": "3.0 л (367 л.с.),", "engine": "гибрид,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "91 190 км"}

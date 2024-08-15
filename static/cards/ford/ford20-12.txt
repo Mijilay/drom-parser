@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/galaxy/326213497.html", "image": "ford20-12.jpg", "model": "Ford Galaxy", "year": "2000", "price:": "350 000 ₽", "hp": "1.9 л (116 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "передний,", "mileage": "450 000 км"}

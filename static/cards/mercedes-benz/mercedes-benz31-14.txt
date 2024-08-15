@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/gls-class/260893064.html", "image": "mercedes-benz31-14.jpg", "model": "Mercedes-Benz GLS-Class", "year": "2016", "price:": "4 248 997 ₽", "hp": "3.0 л (333 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "179 001 км"}

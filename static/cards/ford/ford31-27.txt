@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/ranger/671924215.html", "image": "ford31-27.jpg", "model": "Ford Ranger", "year": "2013", "price:": "1 650 000 ₽", "hp": "2.2 л (150 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "4WD,", "mileage": "118 000 км"}

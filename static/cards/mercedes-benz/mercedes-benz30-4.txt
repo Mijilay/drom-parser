@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/g-class/472913696.html", "image": "mercedes-benz30-4.jpg", "model": "Mercedes-Benz G-Class", "year": "2020", "price:": "11 999 000 ₽", "hp": "2.9 л (249 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "159 000 км"}

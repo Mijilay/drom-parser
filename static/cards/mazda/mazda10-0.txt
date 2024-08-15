@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/bt-50/211315200.html", "image": "mazda10-0.jpg", "model": "Mazda BT-50", "year": "2007", "price:": "650 000 ₽", "hp": "2.5 л (143 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "4WD,", "mileage": "326 457 км"}

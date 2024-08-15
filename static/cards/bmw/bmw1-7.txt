@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/3-series/303980435.html", "image": "bmw1-7.jpg", "model": "BMW 3-Series", "year": "2002", "price:": "550 000 ₽", "hp": "2.2 л (170 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "428 000 км"}

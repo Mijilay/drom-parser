@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/gatchina/bmw/1-series/373864482.html", "image": "bmw44-4.jpg", "model": "BMW 1-Series", "year": "2007", "price": "640 000 ₽", "engine": "2.0 л (150 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/s-class/679968096.html", "image": "mercedes-benz33-14.jpg", "model": "Mercedes-Benz S-Class", "year": "2019", "price:": "11 999 000 ₽", "hp": "3.0 л (367 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "35 345 км"}

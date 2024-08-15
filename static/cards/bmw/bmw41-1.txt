@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/x3/176604944.html", "image": "bmw41-1.jpg", "model": "BMW X3", "year": "2005", "price:": "925 000 ₽", "hp": "3.0 л (231 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "340 000 км"}

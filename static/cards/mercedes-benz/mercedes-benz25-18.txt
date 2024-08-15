@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/gls-class/863486924.html", "image": "mercedes-benz25-18.jpg", "model": "Mercedes-Benz GLS-Class", "year": "2021", "price:": "10 333 000 ₽", "hp": "2.9 л (330 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "40 100 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/cx-7/184956270.html", "image": "mazda5-8.jpg", "model": "Mazda CX-7", "year": "2011", "price:": "1 199 000 ₽", "hp": "2.5 л (163 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "233 000 км"}

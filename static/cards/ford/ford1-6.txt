@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/focus/236347223.html", "image": "ford1-6.jpg", "model": "Ford Focus", "year": "2011", "price:": "670 000 ₽", "hp": "1.6 л (105 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "270 000 км"}

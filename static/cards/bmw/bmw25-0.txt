@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/5-series/49536040.html", "image": "bmw25-0.jpg", "model": "BMW 5-Series", "year": "2010", "price:": "1 700 000 ₽", "hp": "2.0 л (184 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "250 000 км"}

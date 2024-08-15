@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/3-series/53802523.html", "image": "bmw35-15.jpg", "model": "BMW 3-Series", "year": "1992", "price:": "380 000 ₽", "hp": "2.5 л (192 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "230 450 км"}

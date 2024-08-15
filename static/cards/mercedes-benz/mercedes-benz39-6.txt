@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/sosnoviy-bor/mercedes-benz/c-class/225612445.html", "image": "mercedes-benz39-6.jpg", "model": "Mercedes-Benz C-Class", "year": "2001", "price:": "140 000 ₽", "hp": "2.0 л (163 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний", "mileage": "(≈ 100 км)"}

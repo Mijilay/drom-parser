@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/fusion/941489682.html", "image": "ford2-13.jpg", "model": "Ford Fusion", "year": "2020", "price:": "1 920 000 ₽", "hp": "1.5 л (181 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "80 000 км"}

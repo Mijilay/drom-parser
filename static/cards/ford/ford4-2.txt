@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/mondeo/718349009.html", "image": "ford4-2.jpg", "model": "Ford Mondeo", "year": "2007", "price:": "485 000 ₽", "hp": "2.0 л (145 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "315 000 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/bronco/51525335.html", "image": "ford24-15.jpg", "model": "Ford Bronco", "year": "2021", "price:": "7 350 000 ₽", "hp": "2.3 л (305 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "4WD,", "mileage": "217 км"}

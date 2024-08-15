@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/explorer/875595947.html", "image": "ford7-13.jpg", "model": "Ford Explorer", "year": "2003", "price:": "699 000 ₽", "hp": "4.6 л (242 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "4WD,", "mileage": "210 000 км"}

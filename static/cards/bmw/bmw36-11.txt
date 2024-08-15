@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/m3/496051701.html", "image": "bmw36-11.jpg", "model": "BMW M3", "year": "2021", "price:": "9 985 000 ₽", "hp": "3.0 л (510 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "29 120 км"}

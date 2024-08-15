@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/3-series/899918374.html", "image": "bmw5-10.jpg", "model": "BMW 3-Series", "year": "2021", "price:": "3 520 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "92 000 км"}

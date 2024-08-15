@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/5-series/154909216.html", "image": "bmw27-3.jpg", "model": "BMW 5-Series", "year": "2015", "price:": "2 135 000 ₽", "hp": "2.0 л (190 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "121 890 км"}

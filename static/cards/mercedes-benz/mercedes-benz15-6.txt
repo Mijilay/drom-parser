@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/c-class/207271062.html", "image": "mercedes-benz15-6.jpg", "model": "Mercedes-Benz C-Class", "year": "2013", "price:": "1 325 000 ₽", "hp": "1.8 л (156 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "179 279 км"}

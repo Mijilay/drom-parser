@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/g-class/719572390.html", "image": "mercedes-benz35-16.jpg", "model": "Mercedes-Benz G-Class", "year": "2015", "price:": "5 400 000 ₽", "hp": "3.0 л (211 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "96 317 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/f150/552709620.html", "image": "ford6-10.jpg", "model": "Ford F150", "year": "2022", "price:": "13 000 000 ₽", "hp": "3.5 л (450 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "1 450 км"}

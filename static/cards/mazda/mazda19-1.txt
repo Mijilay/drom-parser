@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/mazda3/371206315.html", "image": "mazda19-1.jpg", "model": "Mazda Mazda3", "year": "2011", "price:": "759 000 ₽", "hp": "1.6 л (105 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "224 461 км"}

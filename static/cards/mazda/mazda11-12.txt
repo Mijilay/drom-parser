@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/mazda6/547764328.html", "image": "mazda11-12.jpg", "model": "Mazda Mazda6", "year": "2007", "price:": "1 050 000 ₽", "hp": "2.0 л (147 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "170 000 км"}

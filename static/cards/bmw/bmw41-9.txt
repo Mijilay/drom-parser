@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/3-series_gran_turismo/152094849.html", "image": "bmw41-9.jpg", "model": "BMW 3-Series Gran Turismo", "year": "2017", "price:": "2 275 000 ₽", "hp": "2.0 л (190 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "4WD,", "mileage": "125 000 км"}

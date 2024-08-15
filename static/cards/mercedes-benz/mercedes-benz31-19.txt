@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/s-class/53807770.html", "image": "mercedes-benz31-19.jpg", "model": "Mercedes-Benz S-Class", "year": "2007", "price:": "900 000 ₽", "hp": "5.5 л (388 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "256 000 км"}

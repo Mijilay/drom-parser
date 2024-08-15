@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/mondeo/375417065.html", "image": "ford3-1.jpg", "model": "Ford Mondeo", "year": "2018", "price:": "1 550 000 ₽", "hp": "1.5 л (120 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "передний,", "mileage": "180 000 км"}

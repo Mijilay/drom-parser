@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/5-series/283062087.html", "image": "bmw21-1.jpg", "model": "BMW 5-Series", "year": "2014", "price:": "1 799 900 ₽", "hp": "2.0 л (245 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "194 000 км"}

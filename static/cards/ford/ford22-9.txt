@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/kuga/132499617.html", "image": "ford22-9.jpg", "model": "Ford Kuga", "year": "2013", "price:": "1 259 000 ₽", "hp": "1.6 л (182 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "164 100 км"}

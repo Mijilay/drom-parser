@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/axela/550501501.html", "image": "mazda13-2.jpg", "model": "Mazda Axela", "year": "2006", "price:": "390 000 ₽", "hp": "1.5 л (114 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "250 000 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/c-class/231033189.html", "image": "mercedes-benz25-5.jpg", "model": "Mercedes-Benz C-Class", "year": "2021", "price:": "4 300 777 ₽", "hp": "1.5 л (150 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "задний,", "mileage": "27 107 км"}

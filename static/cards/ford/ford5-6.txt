@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/mondeo/927097151.html", "image": "ford5-6.jpg", "model": "Ford Mondeo", "year": "2011", "price:": "1 099 667 ₽", "hp": "2.0 л (240 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "138 529 км"}

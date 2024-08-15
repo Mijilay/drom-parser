@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/tourneo_custom/591399901.html", "image": "ford27-18.jpg", "model": "Ford Tourneo Custom", "year": "2013", "price:": "1 365 000 ₽", "hp": "2.2 л (125 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "передний,", "mileage": "413 000 км"}

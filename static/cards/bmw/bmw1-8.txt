@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/5-series/364930682.html", "image": "bmw1-8.jpg", "model": "BMW 5-Series", "year": "1991", "price:": "230 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "200 000 км"}

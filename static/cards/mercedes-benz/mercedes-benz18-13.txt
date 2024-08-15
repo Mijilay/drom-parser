@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/cla-class/880200033.html", "image": "mercedes-benz18-13.jpg", "model": "Mercedes-Benz CLA-Class", "year": "2019", "price:": "1 000 000 ₽", "hp": "2.0 л (224 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "4WD,", "mileage": "107 000 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/cl-class/52823916.html", "image": "mercedes-benz8-8.jpg", "model": "Mercedes-Benz CL-Class", "year": "2006", "price:": "2 200 000 ₽", "hp": "5.5 л (388 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "150 000 км"}

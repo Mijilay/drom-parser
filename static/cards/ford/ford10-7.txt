@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/ranger/909949076.html", "image": "ford10-7.jpg", "model": "Ford Ranger", "year": "2024", "price:": "7 400 000 ₽", "hp": "2.3 л (183 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "4WD,", "mileage": "1 063 км"}

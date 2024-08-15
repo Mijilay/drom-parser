@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/5-series/505255785.html", "image": "bmw12-1.jpg", "model": "BMW 5-Series", "year": "2001", "price:": "444 000 ₽", "hp": "2.2 л (170 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "220 000 км"}

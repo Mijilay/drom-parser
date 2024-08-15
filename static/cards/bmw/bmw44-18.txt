@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/pskov/bmw/x1/415547011.html", "image": "bmw44-18.jpg", "model": "BMW X1", "year": "2020", "price": "2 690 000 ₽", "engine": "1.5 л (116 л.с.),", "transmission": "дизель,", "drive": "робот,"}

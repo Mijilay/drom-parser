@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/1-series/883171940.html", "image": "bmw38-3.jpg", "model": "BMW 1-Series", "year": "2013", "price:": "999 000 ₽", "hp": "1.6 л (136 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "170 000 км"}

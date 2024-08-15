@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/peugeot/rifter/504821490.html", "image": "peugeot3-19.jpg", "model": "Peugeot Rifter", "year": "2018", "price:": "1 550 000 ₽", "hp": "1.5 л,", "engine": "дизель,", "transmission": "механика,", "drive": "передний,", "mileage": "150 000 км"}

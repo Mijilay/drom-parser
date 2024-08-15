@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/3-series/373485936.html", "image": "bmw25-5.jpg", "model": "BMW 3-Series", "year": "1990", "price:": "350 000 ₽", "hp": "1.6 л (99 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "430 000 км"}

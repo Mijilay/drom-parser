@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/vito/695532507.html", "image": "mercedes-benz2-1.jpg", "model": "Mercedes-Benz Vito", "year": "2020", "price:": "4 150 000 ₽", "hp": "2.1 л (136 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "129 662 км"}

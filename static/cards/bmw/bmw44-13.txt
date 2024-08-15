@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/velikiy-novgorod/bmw/5-series/137097373.html", "image": "bmw44-13.jpg", "model": "BMW 5-Series", "year": "1997", "price": "560 000 ₽", "engine": "2.5 л (170 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

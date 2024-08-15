@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/focus/356894657.html", "image": "ford21-1.jpg", "model": "Ford Focus", "year": "2003", "price:": "170 000 ₽", "hp": "1.6 л (100 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "413 450 км"}

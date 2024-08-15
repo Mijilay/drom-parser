@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/mazda3_mps/480843236.html", "image": "mazda4-8.jpg", "model": "Mazda Mazda3 MPS", "year": "2008", "price:": "1 490 000 ₽", "hp": "2.3 л (260 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "262 000 км"}

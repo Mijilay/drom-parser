@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/3-series/906451473.html", "image": "bmw22-10.jpg", "model": "BMW 3-Series", "year": "2015", "price:": "1 899 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "задний,", "mileage": "241 008 км"}

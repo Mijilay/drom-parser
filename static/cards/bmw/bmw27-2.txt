@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/m5/197985000.html", "image": "bmw27-2.jpg", "model": "BMW M5", "year": "2023", "price:": "14 770 000 ₽", "hp": "4.4 л (625 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "7 937 км"}

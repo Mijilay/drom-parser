@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/x3/344468278.html", "image": "bmw13-7.jpg", "model": "BMW X3", "year": "2022", "price:": "6 050 000 ₽", "hp": "2.0 л (252 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "4WD,", "mileage": "9 800 км"}

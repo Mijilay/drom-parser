@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/cx-5/933902440.html", "image": "mazda6-7.jpg", "model": "Mazda CX-5", "year": "2023", "price:": "4 140 000 ₽", "hp": "2.0 л (155 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "передний"}

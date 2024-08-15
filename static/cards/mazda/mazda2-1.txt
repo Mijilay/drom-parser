@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/mazda6/695117667.html", "image": "mazda2-1.jpg", "model": "Mazda Mazda6", "year": "2013", "price:": "1 839 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "87 000 км"}

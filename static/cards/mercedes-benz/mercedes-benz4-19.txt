@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/glc_coupe/560324760.html", "image": "mercedes-benz4-19.jpg", "model": "Mercedes-Benz GLC Coupe", "year": "2018", "price:": "3 643 000 ₽", "hp": "2.1 л (204 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "116 000 км"}

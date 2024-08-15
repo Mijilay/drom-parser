@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/626/282874241.html", "image": "mazda17-19.jpg", "model": "Mazda 626", "year": "1998", "price:": "200 000 ₽", "hp": "2.0 л (115 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "236 000 км"}

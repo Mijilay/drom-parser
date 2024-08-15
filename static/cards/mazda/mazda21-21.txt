@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/kirishi/mazda/323/227735526.html", "image": "mazda21-21.jpg", "model": "Mazda 323", "year": "1986", "price": "110 000 ₽", "engine": "1.7 л (54 л.с.),", "transmission": "дизель,", "drive": "механика,"}

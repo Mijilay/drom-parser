@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/pskov/mazda/xedos_6/524614561.html", "image": "mazda21-27.jpg", "model": "Mazda Xedos 6", "year": "1994", "price": "135 000 ₽", "engine": "1.6 л (115 л.с.),", "transmission": "бензин,", "drive": "механика,"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/cla-class/53730668.html", "image": "mercedes-benz2-14.jpg", "model": "Mercedes-Benz CLA-Class", "year": "2021", "price:": "3 500 000 ₽", "hp": "1.3 л (150 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "19 000 км"}

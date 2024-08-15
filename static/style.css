@@ -1,0 +1,298 @@
+/* Общие стили для страницы */
+body, html {
+    font-family: "Nunito", sans-serif;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f5;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+/* Шапка страницы */
+header {
+    background-color: #b3b3b3;
+    color: #ffffff;
+    padding: 20px;
+    height: 100vh;
+    position: relative;
+    background-image: url(icons/background.jpg);
+}
+
+span {
+    font-weight: 800;
+}
+
+.brands__info {
+    width: 40%;
+    margin-bottom: 20px;
+    font-size: 20px;
+    transition: transform 0.3s ease;
+}
+
+.brands__info img {
+    cursor: pointer;
+}
+
+.brands__info:hover {
+    transform: scale(1.2) translateX(50px);
+}
+
+.brands__info:first-child {
+    margin-top: 50px;
+}
+
+.brands__info:last-child {
+    margin-bottom: 0px;
+}
+
+.brands__info:nth-child(2n) {
+    margin-left: 60%;
+}
+
+.brands__info:nth-child(2n):hover {
+    transform: scale(1.2) translateX(-50px);
+}
+
+.about__brands {
+    width: 90%;
+    margin: auto;
+}
+
+.header__menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo a {
+    font-size: 1.5em;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Список машин */
+.car-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
+}
+
+.car-item {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    max-width: 800px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+}
+
+.car-item img {
+    width: 100%;
+    max-width: 300px;
+    max-height: 200px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.car-info {
+    flex-grow: 1;
+    padding: 20px;
+    text-align: left;
+}
+
+.car-info h2 {
+    margin: 0;
+    font-size: 1.5em;
+    font-weight: 500;
+    color: #333;
+}
+
+.car-info p {
+    margin: 5px 0;
+    color: #666;
+}
+
+.car-info a {
+    color: #007aff;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.car-info a:hover {
+    text-decoration: underline;
+}
+
+/* Кнопка "Показать еще" */
+.show-more-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#show-more {
+    padding: 12px 24px;
+    background-color: #636363;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#show-more:hover {
+    background-color: #3d3d3d;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transform: scale(1.2);
+}
+
+/* Кнопки марок автомобилей */
+.brand-list {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.brand-button {
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.2em;
+    white-space: nowrap;
+    transition: transform 0.3s ease, margin 0.3s ease;
+}
+
+.brand-button:hover {
+    transform: scale(1.2);
+    margin: 0px 20px 0px 20px;
+}
+
+.brand-icon {
+    width: 100%; /* Размер иконки совпадает с размером текста */
+    height: 1.2em;
+    margin-right: 8px;
+}
+
+/* Кнопка контактов */
+.contact-button a {
+    font-size: 1em;
+    color: #ffffff;
+    text-decoration: none;
+    padding-right: 20px;
+    font-weight: 500;
+    border-radius: 8px;
+    transition: 0.3s ease, color 0.3s ease;
+}
+
+.contact-button a:hover {
+    color: #ffffff;
+}
+
+footer {
+    background-color: #1c1c1c;
+    color: #fff;
+    margin-top: 30px;
+    padding: 40px 20px;
+    text-align: left;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.footer-section {
+    flex: 1;
+    margin: 10px;
+    min-width: 200px;
+}
+
+.logo-section {
+    max-width: 300px;
+}
+
+.footer-logo {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.footer-logo img {
+    height: 50px;
+    margin-right: 10px;
+}
+
+.logo-section p {
+    margin: 0;
+}
+
+.social-icons {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.social-icons a img {
+    height: 24px;
+    width: 24px;
+}
+
+.navigation-section h3,
+.contact-section h3 {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
+
+.navigation-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.navigation-section ul li {
+    margin-bottom: 5px;
+}
+
+.navigation-section ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1em;
+    transition: color 0.3s ease,;
+}
+
+.navigation-section ul li a:hover {
+    color: #8a8a8a;
+    transform: scale(1.2);
+}
+
+.contact-section p {
+    margin: 5px 0;
+}
+
+.callback-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: transparent;
+    color: #fff;
+    border: 2px solid #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    margin-top: 15px;
+}
+
+.callback-button:hover {
+    background-color: #007aff;
+    color: #fff;
+}

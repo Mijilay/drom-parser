@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/i7/251563881.html", "image": "bmw16-13.jpg", "model": "BMW i7", "year": "2023", "price:": "16 000 000 ₽", "hp": "544 л.с.,", "engine": "электро,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "14 961 км"}

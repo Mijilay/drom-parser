@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/glc-class/946922534.html", "image": "mercedes-benz27-13.jpg", "model": "Mercedes-Benz GLC", "year": "2020", "price:": "5 100 000 ₽", "hp": "2.0 л (194 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "94 955 км"}

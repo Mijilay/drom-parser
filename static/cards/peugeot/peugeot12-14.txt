@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/pskov/peugeot/5008/666219356.html", "image": "peugeot12-14.jpg", "model": "Peugeot 5008", "year": "2019", "price": "2 232 000 ₽", "engine": "1.6 л (150 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

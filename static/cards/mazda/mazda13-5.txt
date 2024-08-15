@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/cx-7/393692539.html", "image": "mazda13-5.jpg", "model": "Mazda CX-7", "year": "2008", "price:": "815 000 ₽", "hp": "2.3 л (238 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "110 000 км"}

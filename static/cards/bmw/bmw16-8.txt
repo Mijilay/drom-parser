@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/x6/511538261.html", "image": "bmw16-8.jpg", "model": "BMW X6", "year": "2016", "price:": "4 910 000 ₽", "hp": "4.4 л (575 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "132 934 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/3-series/686958151.html", "image": "bmw23-2.jpg", "model": "BMW 3-Series", "year": "2014", "price:": "1 699 000 ₽", "hp": "1.6 л (136 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "86 000 км"}

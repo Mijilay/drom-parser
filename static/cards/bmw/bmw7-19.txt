@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/4-series/760559158.html", "image": "bmw7-19.jpg", "model": "BMW 4-Series", "year": "2020", "price:": "4 910 000 ₽", "hp": "2.0 л (184 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "20 320 км"}

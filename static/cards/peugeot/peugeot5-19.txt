@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/peugeot/3008/583666237.html", "image": "peugeot5-19.jpg", "model": "Peugeot 3008", "year": "2018", "price:": "2 050 000 ₽", "hp": "1.5 л (130 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "передний,", "mileage": "148 812 км"}

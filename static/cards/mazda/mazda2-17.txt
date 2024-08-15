@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/mx-6/265327747.html", "image": "mazda2-17.jpg", "model": "Mazda MX-6", "year": "1993", "price:": "400 000 ₽", "hp": "2.0 л (115 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "277 000 км"}

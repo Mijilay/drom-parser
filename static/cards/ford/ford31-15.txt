@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/mga/ford/fusion/877725347.html", "image": "ford31-15.jpg", "model": "Ford Fusion", "year": "2003", "price": "290 000 ₽", "engine": "1.4 л (80 л.с.),", "transmission": "бензин,", "drive": "робот,"}

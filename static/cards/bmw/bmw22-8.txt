@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/1-series/889731193.html", "image": "bmw22-8.jpg", "model": "BMW 1-Series", "year": "2005", "price:": "3 500 000 ₽", "hp": "3.0 л (265 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "58 900 км"}

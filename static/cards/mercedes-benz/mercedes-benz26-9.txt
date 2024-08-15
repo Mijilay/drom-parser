@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/e-class/54154217.html", "image": "mercedes-benz26-9.jpg", "model": "Mercedes-Benz E-Class", "year": "2009", "price:": "2 000 000 ₽", "hp": "2.1 л (204 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "346 000 км"}

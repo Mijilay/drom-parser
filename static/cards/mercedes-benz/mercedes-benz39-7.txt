@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/sosnoviy-bor/mercedes-benz/e-class/535416372.html", "image": "mercedes-benz39-7.jpg", "model": "Mercedes-Benz E-Class", "year": "1998", "price:": "300 000 ₽", "hp": "2.0 л (136 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний", "mileage": "(≈ 100 км)"}

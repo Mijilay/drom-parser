@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/gle-class/223744887.html", "image": "mercedes-benz33-19.jpg", "model": "Mercedes-Benz GLE", "year": "2023", "price:": "14 000 000 ₽", "hp": "3.0 л (435 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "11 539 км"}

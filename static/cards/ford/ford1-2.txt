@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/fiesta/111919164.html", "image": "ford1-2.jpg", "model": "Ford Fiesta", "year": "2019", "price:": "1 239 000 ₽", "hp": "1.6 л (105 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "45 000 км"}

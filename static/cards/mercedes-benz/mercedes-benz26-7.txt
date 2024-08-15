@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/g-class/205618284.html", "image": "mercedes-benz26-7.jpg", "model": "Mercedes-Benz G-Class", "year": "1996", "price:": "1 420 000 ₽", "hp": "3.0 л (177 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "126 000 км"}

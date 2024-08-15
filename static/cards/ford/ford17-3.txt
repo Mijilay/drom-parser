@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/expedition/248633852.html", "image": "ford17-3.jpg", "model": "Ford Expedition", "year": "2004", "price:": "1 199 000 ₽", "hp": "5.4 л (263 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "4WD,", "mileage": "441 837 км"}

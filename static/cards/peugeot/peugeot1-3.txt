@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/peugeot/206/746488830.html", "image": "peugeot1-3.jpg", "model": "Peugeot 206", "year": "1999", "price:": "159 000 ₽", "hp": "1.4 л (75 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "282 000 км"}

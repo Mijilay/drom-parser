@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/mpv/688505194.html", "image": "mazda21-39.jpg", "model": "Mazda MPV", "year": "1996", "price:": "190 000 ₽", "hp": "2.5 л (125 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "262 000 км"}

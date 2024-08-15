@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/s-class/410198738.html", "image": "mercedes-benz30-15.jpg", "model": "Mercedes-Benz S-Class", "year": "1996", "price:": "630 000 ₽", "hp": "6.0 л (394 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "237 000 км"}

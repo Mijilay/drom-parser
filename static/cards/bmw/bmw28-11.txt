@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/3-series/847704017.html", "image": "bmw28-11.jpg", "model": "BMW 3-Series", "year": "2016", "price:": "1 790 910 ₽", "hp": "1.5 л (136 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "149 120 км"}

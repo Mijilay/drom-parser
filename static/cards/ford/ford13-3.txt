@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/tourneo/781273672.html", "image": "ford13-3.jpg", "model": "Ford Tourneo", "year": "2010", "price:": "1 240 000 ₽", "hp": "2.2 л (115 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "передний,", "mileage": "293 111 км"}

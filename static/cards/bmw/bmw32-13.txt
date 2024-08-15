@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/x7/928438509.html", "image": "bmw32-13.jpg", "model": "BMW X7", "year": "2024", "price:": "18 760 000 ₽", "hp": "3.0 л (340 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "4WD"}

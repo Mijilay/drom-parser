@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/mpv/662847614.html", "image": "mazda2-12.jpg", "model": "Mazda MPV", "year": "2004", "price:": "465 000 ₽", "hp": "3.0 л (200 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "228 000 км"}

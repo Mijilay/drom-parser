@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/x7/342957650.html", "image": "bmw25-18.jpg", "model": "BMW X7", "year": "2022", "price:": "16 100 000 ₽", "hp": "3.0 л (340 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "11 852 км"}

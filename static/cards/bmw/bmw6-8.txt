@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/x3/494081351.html", "image": "bmw6-8.jpg", "model": "BMW X3", "year": "2014", "price:": "3 000 000 ₽", "hp": "3.0 л (249 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "146 000 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/c-max/868518910.html", "image": "ford5-9.jpg", "model": "Ford C-MAX", "year": "2005", "price:": "300 000 ₽", "hp": "1.6 л (115 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "410 000 км"}

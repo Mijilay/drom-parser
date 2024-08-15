@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/s-class/504976563.html", "image": "mercedes-benz39-24.jpg", "model": "Mercedes-Benz S-Class", "year": "2021", "price:": "8 045 000 ₽", "hp": "2.9 л (286 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "25 552 км"}

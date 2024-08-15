@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/c-class/915278452.html", "image": "mercedes-benz34-11.jpg", "model": "Mercedes-Benz C-Class", "year": "2003", "price:": "499 000 ₽", "hp": "2.6 л (170 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "4WD,", "mileage": "260 000 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/sierra/333183048.html", "image": "ford6-0.jpg", "model": "Ford Sierra", "year": "1989", "price:": "105 000 ₽", "hp": "2.0 л (105 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "100 000 км"}

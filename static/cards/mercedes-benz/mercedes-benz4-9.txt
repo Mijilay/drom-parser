@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/c-class/268338770.html", "image": "mercedes-benz4-9.jpg", "model": "Mercedes-Benz C-Class", "year": "2015", "price:": "2 189 000 ₽", "hp": "1.6 л (150 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "113 862 км"}

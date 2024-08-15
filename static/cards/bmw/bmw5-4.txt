@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/3-series/919007479.html", "image": "bmw5-4.jpg", "model": "BMW 3-Series", "year": "2009", "price:": "1 099 000 ₽", "hp": "2.5 л (218 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "248 000 км"}

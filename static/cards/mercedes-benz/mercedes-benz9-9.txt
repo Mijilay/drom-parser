@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/m-class/696811511.html", "image": "mercedes-benz9-9.jpg", "model": "Mercedes-Benz M-Class", "year": "2008", "price:": "1 300 000 ₽", "hp": "3.5 л (272 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "283 617 км"}

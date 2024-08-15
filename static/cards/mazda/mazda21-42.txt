@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mazda/cx-3/154788411.html", "image": "mazda21-42.jpg", "model": "Mazda CX-3", "year": "2019", "price:": "1 750 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "97 000 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/1m/799511614.html", "image": "bmw9-17.jpg", "model": "BMW 1M", "year": "2011", "price:": "6 000 000 ₽", "hp": "3.0 л (340 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "66 000 км"}

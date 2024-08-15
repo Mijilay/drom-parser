@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/b-class/330739510.html", "image": "mercedes-benz15-4.jpg", "model": "Mercedes-Benz B-Class", "year": "2019", "price:": "2 250 000 ₽", "hp": "1.3 л (136 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "137 000 км"}

@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/a-class/497695091.html", "image": "mercedes-benz24-0.jpg", "model": "Mercedes-Benz A-Class", "year": "2008", "price:": "559 000 ₽", "hp": "1.7 л (116 л.с.),", "engine": "бензин,", "transmission": "вариатор,", "drive": "передний,", "mileage": "238 525 км"}

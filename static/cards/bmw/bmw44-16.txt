@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/pskov/bmw/5-series/776031126.html", "image": "bmw44-16.jpg", "model": "BMW 5-Series", "year": "2020", "price": "3 842 000 ₽", "engine": "2.0 л (190 л.с.),", "transmission": "дизель,", "drive": "АКПП,"}

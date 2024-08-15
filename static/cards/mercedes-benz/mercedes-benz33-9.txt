@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/eqe/793040026.html", "image": "mercedes-benz33-9.jpg", "model": "Mercedes-Benz EQE", "year": "2022", "price:": "7 777 000 ₽", "hp": "электро,", "engine": "автомат,", "transmission": "задний,", "drive": "3 039 км"}

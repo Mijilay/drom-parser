@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/b-class/134163345.html", "image": "mercedes-benz26-16.jpg", "model": "Mercedes-Benz B-Class", "year": "2014", "price:": "1 303 674 ₽", "hp": "1.6 л (122 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "100 268 км"}

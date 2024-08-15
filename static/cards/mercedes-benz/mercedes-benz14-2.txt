@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/s-class/52313671.html", "image": "mercedes-benz14-2.jpg", "model": "Mercedes-Benz S-Class", "year": "2021", "price": "15 095 000 ₽", "engine": "2.9 л,", "transmission": "автомат,", "drive": "9 950 км"}

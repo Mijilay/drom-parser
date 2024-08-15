@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/zelenogorsk-peter/mercedes-benz/gls-class/701902869.html", "image": "mercedes-benz39-5.jpg", "model": "Mercedes-Benz GLS-Class", "year": "2018", "price": "6 699 000 ₽", "engine": "3.0 л (249 л.с.),", "transmission": "дизель,", "drive": "АКПП,"}

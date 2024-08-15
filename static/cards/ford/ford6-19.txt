@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/ecosport/573499850.html", "image": "ford6-19.jpg", "model": "Ford EcoSport", "year": "2020", "price:": "1 619 099 ₽", "hp": "1.0 л (125 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "73 867 км"}

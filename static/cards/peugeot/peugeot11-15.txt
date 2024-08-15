@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/peugeot/508/925798326.html", "image": "peugeot11-15.jpg", "model": "Peugeot 508", "year": "2012", "price:": "750 000 ₽", "hp": "1.6 л (120 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "266 600 км"}

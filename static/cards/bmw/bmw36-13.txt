@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/m3/651964728.html", "image": "bmw36-13.jpg", "model": "BMW M3", "year": "2023", "price:": "13 890 000 ₽", "hp": "3.0 л (510 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "6 990 км"}

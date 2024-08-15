@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/kingisepp/bmw/5-series/798232973.html", "image": "bmw44-7.jpg", "model": "BMW 5-Series", "year": "1996", "price": "365 000 ₽", "engine": "2.0 л (150 л.с.),", "transmission": "бензин,", "drive": "механика,"}

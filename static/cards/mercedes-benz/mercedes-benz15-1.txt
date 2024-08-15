@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/gl-class/564844614.html", "image": "mercedes-benz15-1.jpg", "model": "Mercedes-Benz GL-Class", "year": "2008", "price:": "1 250 000 ₽", "hp": "3.0 л (224 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "320 000 км"}

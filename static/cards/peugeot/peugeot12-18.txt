@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/pskov/peugeot/408/517657891.html", "image": "peugeot12-18.jpg", "model": "Peugeot 408", "year": "2012", "price": "650 000 ₽", "engine": "1.6 л (150 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

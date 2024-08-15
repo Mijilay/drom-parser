@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/mercedes-benz/cl-class/838156395.html", "image": "mercedes-benz5-12.jpg", "model": "Mercedes-Benz CL-Class", "year": "2004", "price:": "3 000 000 ₽", "hp": "5.0 л (306 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "176 881 км"}

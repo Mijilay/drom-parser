@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/bmw/6-series/212746377.html", "image": "bmw35-12.jpg", "model": "BMW 6-Series", "year": "2013", "price:": "2 990 000 ₽", "hp": "3.0 л (313 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "125 000 км"}

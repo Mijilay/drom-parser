@@ -1,0 +1,25 @@
+{% extends 'index.html' %}
+
+{% block title %}Автомобили марки {{ brand_name|capitalize }}{% endblock %}
+
+{% block content %}
+    <div class="car-list">
+        {% for car in cars %}
+            <div class="car-item">
+                <img src="{{ url_for('static', filename=car['image']) }}" alt="{{ car['model'] }}">
+                <div class="car-info">
+                    <h2>{{ car['model'] }} ({{ car['year'] }})</h2>
+                    <p>{{ car['hp'] }} {{ car['engine'] }} {{ car['transmission'] }} {{ car['drive'] }}</p>
+                    <p>Пробег: {{ car['mileage'] }}</p>
+                    <p>Цена: {{ car['price'] }}</p>
+                    <a href="{{ car['link'] }}" target="_blank">Подробнее</a>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+
+    <!-- Кнопка "Показать еще" -->
+    <div class="show-more-container">
+        <button id="show-more" onclick="loadMoreCars()">Показать еще</button>
+    </div>
+{% endblock %}

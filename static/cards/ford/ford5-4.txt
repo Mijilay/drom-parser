@@ -1,0 +1,1 @@
+{"link": "https://auto.drom.ru/spb/ford/fusion/791699034.html", "image": "ford5-4.jpg", "model": "Ford Fusion", "year": "2007", "price:": "430 000 ₽", "hp": "1.4 л (80 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "103 147 км"}
