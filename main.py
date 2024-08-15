@@ -1,7 +1,6 @@
 import requests
 import json
 import os.path
-import shutil
 from urllib.parse import urlsplit, unquote
 from bs4 import BeautifulSoup
 
@@ -67,7 +66,6 @@ def get_json_files(cards, folder):
 
 def main():
     cars_model = ['mercedes-benz', 'peugeot', 'ford', 'bmw', 'mazda']
-    shutil.rmtree('static/cards')
 
     for car in cars_model:
         os.makedirs(f'static/cards/{car}/media', exist_ok=True)
