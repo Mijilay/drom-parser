@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/s-class/508784503.html", "image": "mercedes-benz5-1.jpg", "model": "Mercedes-Benz S-Class", "year": "2014", "price:": "3 095 500 ₽", "hp": "3.0 л (249 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "4WD,", "mileage": "216 000 км"}

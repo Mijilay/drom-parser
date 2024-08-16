@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series/224648904.html", "image": "bmw33-4.jpg", "model": "BMW 5-Series", "year": "2021", "price:": "3 859 000 ₽", "hp": "2.0 л (190 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "105 563 км"}

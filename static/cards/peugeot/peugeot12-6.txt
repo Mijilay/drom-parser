@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/tihvin/peugeot/306/860193498.html", "image": "peugeot12-6.jpg", "model": "Peugeot 306", "year": "2001", "price": "393 000 ₽", "engine": "1.6 л (88 л.с.),", "transmission": "бензин,", "drive": "механика,"}

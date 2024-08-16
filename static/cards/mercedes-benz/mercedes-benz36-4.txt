@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/b-class/916146699.html", "image": "mercedes-benz36-4.jpg", "model": "Mercedes-Benz B-Class", "year": "2007", "price:": "595 000 ₽", "hp": "1.7 л (116 л.с.),", "engine": "бензин,", "transmission": "вариатор,", "drive": "передний,", "mileage": "295 000 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/glk-class/224917757.html", "image": "mercedes-benz4-1.jpg", "model": "Mercedes-Benz GLK-Class", "year": "2009", "price:": "1 180 000 ₽", "hp": "2.1 л (170 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "4WD,", "mileage": "233 647 км"}

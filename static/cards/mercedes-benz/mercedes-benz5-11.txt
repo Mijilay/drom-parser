@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/g-class/916487106.html", "image": "mercedes-benz5-11.jpg", "model": "Mercedes-Benz G-Class", "year": "2024", "price:": "37 490 000 ₽", "hp": "4.0 л (585 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "4WD,", "mileage": "10 км"}

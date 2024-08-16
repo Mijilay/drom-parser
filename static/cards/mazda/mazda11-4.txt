@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/roadster/52842118.html", "image": "mazda11-4.jpg", "model": "Mazda Roadster", "year": "2001", "price:": "1 750 000 ₽", "hp": "1.8 л (160 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "200 000 км"}

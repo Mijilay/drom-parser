@@ -1,0 +1,2952 @@
+[
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/818935502.html",
+        "image": "1-0.jpg",
+        "model": "Peugeot 308",
+        "year": "2010",
+        "price": "410 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "180 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/traveller/777800774.html",
+        "image": "1-1.jpg",
+        "model": "Peugeot Traveller",
+        "year": "2020",
+        "price": "3 959 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "передний,",
+            "30 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/traveller/547450011.html",
+        "image": "1-2.jpg",
+        "model": "Peugeot Traveller",
+        "year": "2020",
+        "price": "3 249 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "передний,",
+            "100 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/3008/506565947.html",
+        "image": "1-3.jpg",
+        "model": "Peugeot 3008",
+        "year": "2012",
+        "price": "1 065 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "149 388 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/partner/424862766.html",
+        "image": "1-4.jpg",
+        "model": "Peugeot Partner",
+        "year": "2012",
+        "price": "1 350 000 ₽",
+        "card_description": [
+            "2.2 л (120 л.с.),",
+            "дизель,",
+            "механика,",
+            "передний,",
+            "265 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/406/288550338.html",
+        "image": "1-5.jpg",
+        "model": "Peugeot 406",
+        "year": "1997",
+        "price": "255 000 ₽",
+        "card_description": [
+            "1.8 л (110 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "106 685 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/107/52919036.html",
+        "image": "1-6.jpg",
+        "model": "Peugeot 107",
+        "year": "2010",
+        "price": "665 000 ₽",
+        "card_description": [
+            "1.0 л (68 л.с.),",
+            "бензин,",
+            "робот,",
+            "передний,",
+            "172 341 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/508/851788317.html",
+        "image": "1-7.jpg",
+        "model": "Peugeot 508",
+        "year": "2012",
+        "price": "750 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "250 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/293197059.html",
+        "image": "1-8.jpg",
+        "model": "Peugeot 408",
+        "year": "2013",
+        "price": "829 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "97 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/508/925798326.html",
+        "image": "1-9.jpg",
+        "model": "Peugeot 508",
+        "year": "2012",
+        "price": "750 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "робот,",
+            "передний,",
+            "266 600 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/896273673.html",
+        "image": "1-10.jpg",
+        "model": "Peugeot 408",
+        "year": "2013",
+        "price": "509 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "200 458 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/866045261.html",
+        "image": "1-11.jpg",
+        "model": "Peugeot 308",
+        "year": "2010",
+        "price": "535 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "110 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/5008/410436583.html",
+        "image": "1-12.jpg",
+        "model": "Peugeot 5008",
+        "year": "2019",
+        "price": "2 340 000 ₽",
+        "card_description": [
+            "1.5 л (130 л.с.),",
+            "дизель,",
+            "автомат,",
+            "передний,",
+            "148 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/189859836.html",
+        "image": "1-13.jpg",
+        "model": "Peugeot 408",
+        "year": "2012",
+        "price": "599 000 ₽",
+        "card_description": [
+            "1.6 л (112 л.с.),",
+            "дизель,",
+            "механика,",
+            "передний,",
+            "199 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/206/234075692.html",
+        "image": "1-14.jpg",
+        "model": "Peugeot 206",
+        "year": "2007",
+        "price": "359 999 ₽",
+        "card_description": [
+            "1.6 л (110 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "259 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/117505034.html",
+        "image": "1-15.jpg",
+        "model": "Peugeot 308",
+        "year": "2010",
+        "price": "599 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "135 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/730481508.html",
+        "image": "1-16.jpg",
+        "model": "Peugeot 308",
+        "year": "2012",
+        "price": "629 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "141 500 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/461715508.html",
+        "image": "1-17.jpg",
+        "model": "Peugeot 308",
+        "year": "2018",
+        "price": "1 300 000 ₽",
+        "card_description": [
+            "1.5 л (131 л.с.),",
+            "дизель,",
+            "механика,",
+            "передний,",
+            "180 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/traveller/176764237.html",
+        "image": "1-18.jpg",
+        "model": "Peugeot Traveller",
+        "year": "2020",
+        "price": "3 039 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "передний,",
+            "233 832 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/508/946720404.html",
+        "image": "1-19.jpg",
+        "model": "Peugeot 508",
+        "year": "2012",
+        "price": "900 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "250 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4007/910600102.html",
+        "image": "2-0.jpg",
+        "model": "Peugeot 4007",
+        "year": "2010",
+        "price": "1 099 000 ₽",
+        "card_description": [
+            "2.4 л (170 л.с.),",
+            "бензин,",
+            "вариатор,",
+            "4WD,",
+            "140 656 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/182987709.html",
+        "image": "2-1.jpg",
+        "model": "Peugeot 308",
+        "year": "2009",
+        "price": "535 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "208 804 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/206/746488830.html",
+        "image": "2-2.jpg",
+        "model": "Peugeot 206",
+        "year": "1999",
+        "price": "159 000 ₽",
+        "card_description": [
+            "1.4 л (75 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "282 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/707358699.html",
+        "image": "2-3.jpg",
+        "model": "Peugeot 408",
+        "year": "2012",
+        "price": "626 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "179 538 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/5008/521405578.html",
+        "image": "2-4.jpg",
+        "model": "Peugeot 5008",
+        "year": "2023",
+        "price": "4 499 000 ₽",
+        "card_description": [
+            "1.8 л (211 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/3008/501207996.html",
+        "image": "2-5.jpg",
+        "model": "Peugeot 3008",
+        "year": "2011",
+        "price": "649 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "168 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4007/414799571.html",
+        "image": "2-6.jpg",
+        "model": "Peugeot 4007",
+        "year": "2008",
+        "price": "1 139 000 ₽",
+        "card_description": [
+            "2.4 л (170 л.с.),",
+            "бензин,",
+            "вариатор,",
+            "4WD,",
+            "242 770 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/399090858.html",
+        "image": "2-7.jpg",
+        "model": "Peugeot 408",
+        "year": "2012",
+        "price": "490 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "199 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/5008/353310773.html",
+        "image": "2-8.jpg",
+        "model": "Peugeot 5008",
+        "year": "2021",
+        "price": "2 599 090 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "передний,",
+            "129 261 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/207/284475973.html",
+        "image": "2-9.jpg",
+        "model": "Peugeot 207",
+        "year": "2009",
+        "price": "315 000 ₽",
+        "card_description": [
+            "1.4 л (88 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "156 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/2008/233174693.html",
+        "image": "2-10.jpg",
+        "model": "Peugeot 2008",
+        "year": "2023",
+        "price": "3 215 000 ₽",
+        "card_description": [
+            "1.2 л (136 л.с.),",
+            "бензин,",
+            "робот,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/3008/661973304.html",
+        "image": "2-11.jpg",
+        "model": "Peugeot 3008",
+        "year": "2011",
+        "price": "849 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "215 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/3008/439167950.html",
+        "image": "2-12.jpg",
+        "model": "Peugeot 3008",
+        "year": "2011",
+        "price": "755 000 ₽",
+        "card_description": [
+            "1.6 л (156 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний,",
+            "210 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4007/409906893.html",
+        "image": "2-13.jpg",
+        "model": "Peugeot 4007",
+        "year": "2008",
+        "price": "611 000 ₽",
+        "card_description": [
+            "2.2 л (156 л.с.),",
+            "дизель,",
+            "механика,",
+            "4WD,",
+            "304 500 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/881739685.html",
+        "image": "2-14.jpg",
+        "model": "Peugeot 308",
+        "year": "2011",
+        "price": "405 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "290 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/407/817592987.html",
+        "image": "2-15.jpg",
+        "model": "Peugeot 407",
+        "year": "2007",
+        "price": "389 000 ₽",
+        "card_description": [
+            "1.7 л (125 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "197 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/3008/360651304.html",
+        "image": "2-16.jpg",
+        "model": "Peugeot 3008",
+        "year": "2011",
+        "price": "659 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "177 798 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/307/553139955.html",
+        "image": "2-17.jpg",
+        "model": "Peugeot 307",
+        "year": "2002",
+        "price": "290 000 ₽",
+        "card_description": [
+            "1.6 л (109 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "300 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/3008/253553762.html",
+        "image": "2-18.jpg",
+        "model": "Peugeot 3008",
+        "year": "2011",
+        "price": "599 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "306 615 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/879943395.html",
+        "image": "2-19.jpg",
+        "model": "Peugeot 408",
+        "year": "2012",
+        "price": "590 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "171 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/576158175.html",
+        "image": "3-0.jpg",
+        "model": "Peugeot 408",
+        "year": "2012",
+        "price": "495 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "204 836 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/207/224368179.html",
+        "image": "3-1.jpg",
+        "model": "Peugeot 207",
+        "year": "2008",
+        "price": "300 000 ₽",
+        "card_description": [
+            "1.4 л (88 л.с.),",
+            "бензин,",
+            "робот,",
+            "передний,",
+            "170 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/156043526.html",
+        "image": "3-2.jpg",
+        "model": "Peugeot 308",
+        "year": "2008",
+        "price": "419 900 ₽",
+        "card_description": [
+            "1.6 л (140 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "189 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/365023145.html",
+        "image": "3-3.jpg",
+        "model": "Peugeot 408",
+        "year": "2013",
+        "price": "700 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "112 300 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/partner/313775840.html",
+        "image": "3-4.jpg",
+        "model": "Peugeot Partner",
+        "year": "2008",
+        "price": "310 000 ₽",
+        "card_description": [
+            "1.9 л (71 л.с.),",
+            "дизель,",
+            "механика,",
+            "передний,",
+            "400 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/920472161.html",
+        "image": "3-5.jpg",
+        "model": "Peugeot 308",
+        "year": "2011",
+        "price": "599 999 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "131 541 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/2008/233808971.html",
+        "image": "3-6.jpg",
+        "model": "Peugeot 2008",
+        "year": "2014",
+        "price": "1 049 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "85 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/597795928.html",
+        "image": "3-7.jpg",
+        "model": "Peugeot 308",
+        "year": "2011",
+        "price": "569 099 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "228 087 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/307/636168797.html",
+        "image": "3-8.jpg",
+        "model": "Peugeot 307",
+        "year": "2006",
+        "price": "349 000 ₽",
+        "card_description": [
+            "1.6 л (109 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "177 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/traveller/415934458.html",
+        "image": "3-9.jpg",
+        "model": "Peugeot Traveller",
+        "year": "2020",
+        "price": "3 830 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "передний,",
+            "48 315 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/182398850.html",
+        "image": "3-10.jpg",
+        "model": "Peugeot 308",
+        "year": "2012",
+        "price": "660 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "194 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/228914611.html",
+        "image": "3-11.jpg",
+        "model": "Peugeot 408",
+        "year": "2013",
+        "price": "455 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "186 917 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4008/174127979.html",
+        "image": "3-12.jpg",
+        "model": "Peugeot 4008",
+        "year": "2012",
+        "price": "1 515 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "вариатор,",
+            "4WD,",
+            "65 651 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/508/164534792.html",
+        "image": "3-13.jpg",
+        "model": "Peugeot 508",
+        "year": "2012",
+        "price": "800 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "165 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/partner/698018373.html",
+        "image": "3-14.jpg",
+        "model": "Peugeot Partner",
+        "year": "2010",
+        "price": "725 000 ₽",
+        "card_description": [
+            "1.6 л (90 л.с.),",
+            "дизель,",
+            "механика,",
+            "передний,",
+            "240 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/107/917115585.html",
+        "image": "3-15.jpg",
+        "model": "Peugeot 107",
+        "year": "2011",
+        "price": "565 000 ₽",
+        "card_description": [
+            "1.0 л (68 л.с.),",
+            "бензин,",
+            "робот,",
+            "передний,",
+            "72 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/208/478311330.html",
+        "image": "3-16.jpg",
+        "model": "Peugeot 208",
+        "year": "2013",
+        "price": "770 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "135 863 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/411603392.html",
+        "image": "3-17.jpg",
+        "model": "Peugeot 308",
+        "year": "2010",
+        "price": "485 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "152 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4007/639581287.html",
+        "image": "3-18.jpg",
+        "model": "Peugeot 4007",
+        "year": "2010",
+        "price": "790 000 ₽",
+        "card_description": [
+            "2.4 л (170 л.с.),",
+            "бензин,",
+            "вариатор,",
+            "4WD,",
+            "180 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/307/830264323.html",
+        "image": "3-19.jpg",
+        "model": "Peugeot 307",
+        "year": "2004",
+        "price": "140 000 ₽",
+        "card_description": [
+            "1.6 л (109 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "354 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/392646846.html",
+        "image": "4-0.jpg",
+        "model": "Peugeot 308",
+        "year": "2010",
+        "price": "486 779 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "221 697 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/3008/290048452.html",
+        "image": "4-1.jpg",
+        "model": "Peugeot 3008",
+        "year": "2010",
+        "price": "769 000 ₽",
+        "card_description": [
+            "1.6 л (156 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний,",
+            "177 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/301/444701721.html",
+        "image": "4-2.jpg",
+        "model": "Peugeot 301",
+        "year": "2013",
+        "price": "560 000 ₽",
+        "card_description": [
+            "1.2 л (72 л.с.),",
+            "бензин,",
+            "робот,",
+            "передний,",
+            "107 622 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/508/868238076.html",
+        "image": "4-3.jpg",
+        "model": "Peugeot 508",
+        "year": "2022",
+        "price": "3 199 000 ₽",
+        "card_description": [
+            "1.6 л (170 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний,",
+            "1 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/traveller/545564889.html",
+        "image": "4-4.jpg",
+        "model": "Peugeot Traveller",
+        "year": "2018",
+        "price": "2 420 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "передний,",
+            "160 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/3008/307711442.html",
+        "image": "4-5.jpg",
+        "model": "Peugeot 3008",
+        "year": "2013",
+        "price": "735 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "104 151 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/206/141511624.html",
+        "image": "4-6.jpg",
+        "model": "Peugeot 206",
+        "year": "2007",
+        "price": "345 000 ₽",
+        "card_description": [
+            "1.6 л (110 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "149 651 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/227880546.html",
+        "image": "4-7.jpg",
+        "model": "Peugeot 308",
+        "year": "2010",
+        "price": "400 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "192 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/3008/146120286.html",
+        "image": "4-8.jpg",
+        "model": "Peugeot 3008",
+        "year": "2011",
+        "price": "675 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "210 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/206/729041299.html",
+        "image": "4-9.jpg",
+        "model": "Peugeot 206",
+        "year": "2002",
+        "price": "300 000 ₽",
+        "card_description": [
+            "1.4 л (75 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "138 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4008/619186459.html",
+        "image": "4-10.jpg",
+        "model": "Peugeot 4008",
+        "year": "2012",
+        "price": "1 119 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "вариатор,",
+            "4WD,",
+            "205 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/197230373.html",
+        "image": "4-11.jpg",
+        "model": "Peugeot 308",
+        "year": "2011",
+        "price": "665 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "102 851 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/5008/222990297.html",
+        "image": "4-12.jpg",
+        "model": "Peugeot 5008",
+        "year": "2018",
+        "price": "2 200 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "97 925 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/705284795.html",
+        "image": "4-13.jpg",
+        "model": "Peugeot 308",
+        "year": "2008",
+        "price": "390 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "235 104 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/rifter/504821490.html",
+        "image": "4-14.jpg",
+        "model": "Peugeot Rifter",
+        "year": "2018",
+        "price": "1 550 000 ₽",
+        "card_description": [
+            "1.5 л,",
+            "дизель,",
+            "механика,",
+            "передний,",
+            "150 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/193183068.html",
+        "image": "4-15.jpg",
+        "model": "Peugeot 408",
+        "year": "2015",
+        "price": "780 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "132 100 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/165525075.html",
+        "image": "4-16.jpg",
+        "model": "Peugeot 308",
+        "year": "2011",
+        "price": "605 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "99 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/409613903.html",
+        "image": "4-17.jpg",
+        "model": "Peugeot 308",
+        "year": "2012",
+        "price": "730 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "137 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/3008/361582714.html",
+        "image": "4-18.jpg",
+        "model": "Peugeot 3008",
+        "year": "2012",
+        "price": "660 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "214 900 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/560650853.html",
+        "image": "4-19.jpg",
+        "model": "Peugeot 408",
+        "year": "2016",
+        "price": "894 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "135 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/335736247.html",
+        "image": "5-0.jpg",
+        "model": "Peugeot 308",
+        "year": "2011",
+        "price": "615 500 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "133 043 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/traveller/297594716.html",
+        "image": "5-1.jpg",
+        "model": "Peugeot Traveller",
+        "year": "2020",
+        "price": "3 520 215 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "передний,",
+            "84 600 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/669444823.html",
+        "image": "5-2.jpg",
+        "model": "Peugeot 408",
+        "year": "2015",
+        "price": "755 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "157 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4008/444637498.html",
+        "image": "5-3.jpg",
+        "model": "Peugeot 4008",
+        "year": "2012",
+        "price": "1 199 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "вариатор,",
+            "4WD,",
+            "162 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/765737710.html",
+        "image": "5-4.jpg",
+        "model": "Peugeot 308",
+        "year": "2012",
+        "price": "599 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "145 682 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/207/254971898.html",
+        "image": "5-5.jpg",
+        "model": "Peugeot 207",
+        "year": "2007",
+        "price": "399 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "163 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/2008/575699140.html",
+        "image": "5-6.jpg",
+        "model": "Peugeot 2008",
+        "year": "2014",
+        "price": "899 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "156 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/traveller/153470618.html",
+        "image": "5-7.jpg",
+        "model": "Peugeot Traveller",
+        "year": "2020",
+        "price": "4 199 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "передний,",
+            "63 404 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/206/895267898.html",
+        "image": "5-8.jpg",
+        "model": "Peugeot 206",
+        "year": "2008",
+        "price": "325 000 ₽",
+        "card_description": [
+            "1.4 л (75 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "262 252 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/199429216.html",
+        "image": "5-9.jpg",
+        "model": "Peugeot 308",
+        "year": "2011",
+        "price": "620 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "138 212 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/3008/104885218.html",
+        "image": "5-10.jpg",
+        "model": "Peugeot 3008",
+        "year": "2011",
+        "price": "750 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "190 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4008/142341583.html",
+        "image": "5-11.jpg",
+        "model": "Peugeot 4008",
+        "year": "2014",
+        "price": "1 379 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "вариатор,",
+            "4WD,",
+            "131 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4008/323786527.html",
+        "image": "5-12.jpg",
+        "model": "Peugeot 4008",
+        "year": "2012",
+        "price": "1 075 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "вариатор,",
+            "4WD,",
+            "156 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/482108692.html",
+        "image": "5-13.jpg",
+        "model": "Peugeot 308",
+        "year": "2011",
+        "price": "575 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "109 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/expert/110867417.html",
+        "image": "5-14.jpg",
+        "model": "Peugeot Expert",
+        "year": "2013",
+        "price": "1 150 000 ₽",
+        "card_description": [
+            "1.6 л (90 л.с.),",
+            "дизель,",
+            "механика,",
+            "передний,",
+            "242 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/207/240801267.html",
+        "image": "5-15.jpg",
+        "model": "Peugeot 207",
+        "year": "2008",
+        "price": "325 000 ₽",
+        "card_description": [
+            "1.4 л (90 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний,",
+            "133 069 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/210773517.html",
+        "image": "5-16.jpg",
+        "model": "Peugeot 308",
+        "year": "2012",
+        "price": "1 480 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "100 300 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4008/799231024.html",
+        "image": "5-17.jpg",
+        "model": "Peugeot 4008",
+        "year": "2023",
+        "price": "4 199 000 ₽",
+        "card_description": [
+            "1.6 л (170 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/611768394.html",
+        "image": "5-18.jpg",
+        "model": "Peugeot 308",
+        "year": "2012",
+        "price": "552 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "110 043 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/466527279.html",
+        "image": "5-19.jpg",
+        "model": "Peugeot 408",
+        "year": "2015",
+        "price": "819 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "112 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/307/241746789.html",
+        "image": "6-0.jpg",
+        "model": "Peugeot 307",
+        "year": "2007",
+        "price": "499 900 ₽",
+        "card_description": [
+            "1.6 л (109 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "186 252 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/303224181.html",
+        "image": "6-1.jpg",
+        "model": "Peugeot 408",
+        "year": "2013",
+        "price": "590 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "165 067 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/3008/938995612.html",
+        "image": "6-2.jpg",
+        "model": "Peugeot 3008",
+        "year": "2012",
+        "price": "649 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "122 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/107/739136501.html",
+        "image": "6-3.jpg",
+        "model": "Peugeot 107",
+        "year": "2011",
+        "price": "479 000 ₽",
+        "card_description": [
+            "1.0 л (68 л.с.),",
+            "бензин,",
+            "робот,",
+            "передний,",
+            "93 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/664309385.html",
+        "image": "6-4.jpg",
+        "model": "Peugeot 308",
+        "year": "2008",
+        "price": "435 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "168 700 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/575738190.html",
+        "image": "6-5.jpg",
+        "model": "Peugeot 408",
+        "year": "2020",
+        "price": "1 700 000 ₽",
+        "card_description": [
+            "1.6 л (114 л.с.),",
+            "дизель,",
+            "механика,",
+            "передний,",
+            "23 148 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4008/130521792.html",
+        "image": "6-6.jpg",
+        "model": "Peugeot 4008",
+        "year": "2023",
+        "price": "4 234 000 ₽",
+        "card_description": [
+            "1.6 л (170 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/208/390154086.html",
+        "image": "6-7.jpg",
+        "model": "Peugeot 208",
+        "year": "2019",
+        "price": "1 244 000 ₽",
+        "card_description": [
+            "1.2 л (110 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний,",
+            "40 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/107/734514707.html",
+        "image": "6-8.jpg",
+        "model": "Peugeot 107",
+        "year": "2012",
+        "price": "689 000 ₽",
+        "card_description": [
+            "1.0 л (68 л.с.),",
+            "бензин,",
+            "робот,",
+            "передний,",
+            "114 477 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/3008/583666237.html",
+        "image": "6-9.jpg",
+        "model": "Peugeot 3008",
+        "year": "2018",
+        "price": "2 050 000 ₽",
+        "card_description": [
+            "1.5 л (130 л.с.),",
+            "дизель,",
+            "автомат,",
+            "передний,",
+            "148 812 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/113816219.html",
+        "image": "6-10.jpg",
+        "model": "Peugeot 408",
+        "year": "2014",
+        "price": "559 000 ₽",
+        "card_description": [
+            "1.6 л (115 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "149 746 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/560302880.html",
+        "image": "6-11.jpg",
+        "model": "Peugeot 408",
+        "year": "2012",
+        "price": "745 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "93 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/508/604701290.html",
+        "image": "6-12.jpg",
+        "model": "Peugeot 508",
+        "year": "2014",
+        "price": "1 200 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "171 924 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/107/319653476.html",
+        "image": "6-13.jpg",
+        "model": "Peugeot 107",
+        "year": "2011",
+        "price": "474 000 ₽",
+        "card_description": [
+            "1.0 л (68 л.с.),",
+            "бензин,",
+            "робот,",
+            "передний,",
+            "208 100 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/208/628266786.html",
+        "image": "6-14.jpg",
+        "model": "Peugeot 208",
+        "year": "2013",
+        "price": "550 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "278 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/170257620.html",
+        "image": "6-15.jpg",
+        "model": "Peugeot 308",
+        "year": "2019",
+        "price": "1 349 990 ₽",
+        "card_description": [
+            "1.5 л (102 л.с.),",
+            "дизель,",
+            "механика,",
+            "передний,",
+            "149 266 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4008/919780766.html",
+        "image": "6-16.jpg",
+        "model": "Peugeot 4008",
+        "year": "2023",
+        "price": "4 251 000 ₽",
+        "card_description": [
+            "1.6 л (170 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/619294487.html",
+        "image": "6-17.jpg",
+        "model": "Peugeot 408",
+        "year": "2015",
+        "price": "832 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "158 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/206/251805948.html",
+        "image": "6-18.jpg",
+        "model": "Peugeot 206",
+        "year": "2004",
+        "price": "230 000 ₽",
+        "card_description": [
+            "1.4 л (75 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "180 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/307/213514476.html",
+        "image": "6-19.jpg",
+        "model": "Peugeot 307",
+        "year": "2006",
+        "price": "230 000 ₽",
+        "card_description": [
+            "1.6 л (109 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "446 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/5008/53918435.html",
+        "image": "7-0.jpg",
+        "model": "Peugeot 5008",
+        "year": "2019",
+        "price": "2 640 000 ₽",
+        "card_description": [
+            "2.0 л (177 л.с.),",
+            "дизель,",
+            "автомат,",
+            "передний,",
+            "66 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/307/251506176.html",
+        "image": "7-1.jpg",
+        "model": "Peugeot 307",
+        "year": "2005",
+        "price": "330 000 ₽",
+        "card_description": [
+            "1.6 л (109 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "244 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/663053610.html",
+        "image": "7-2.jpg",
+        "model": "Peugeot 308",
+        "year": "2008",
+        "price": "475 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "272 122 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/245026804.html",
+        "image": "7-3.jpg",
+        "model": "Peugeot 408",
+        "year": "2013",
+        "price": "649 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "170 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/301/423474056.html",
+        "image": "7-4.jpg",
+        "model": "Peugeot 301",
+        "year": "2013",
+        "price": "649 000 ₽",
+        "card_description": [
+            "1.6 л (115 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "131 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/207/321168424.html",
+        "image": "7-5.jpg",
+        "model": "Peugeot 207",
+        "year": "2007",
+        "price": "359 000 ₽",
+        "card_description": [
+            "1.4 л (75 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "247 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/107/193352319.html",
+        "image": "7-6.jpg",
+        "model": "Peugeot 107",
+        "year": "2007",
+        "price": "415 000 ₽",
+        "card_description": [
+            "1.0 л (68 л.с.),",
+            "бензин,",
+            "робот,",
+            "передний,",
+            "185 043 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/607/908126979.html",
+        "image": "7-7.jpg",
+        "model": "Peugeot 607",
+        "year": "2000",
+        "price": "200 000 ₽",
+        "card_description": [
+            "2.9 л (207 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "290 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4008/866316894.html",
+        "image": "7-8.jpg",
+        "model": "Peugeot 4008",
+        "year": "2023",
+        "price": "4 660 000 ₽",
+        "card_description": [
+            "1.6 л (170 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/5008/857574874.html",
+        "image": "7-9.jpg",
+        "model": "Peugeot 5008",
+        "year": "2023",
+        "price": "5 235 000 ₽",
+        "card_description": [
+            "1.8 л (211 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4008/804797455.html",
+        "image": "7-10.jpg",
+        "model": "Peugeot 4008",
+        "year": "2023",
+        "price": "4 625 000 ₽",
+        "card_description": [
+            "1.6 л (170 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/5008/751091663.html",
+        "image": "7-11.jpg",
+        "model": "Peugeot 5008",
+        "year": "2023",
+        "price": "5 200 000 ₽",
+        "card_description": [
+            "1.8 л (211 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4008/546587399.html",
+        "image": "7-12.jpg",
+        "model": "Peugeot 4008",
+        "year": "2023",
+        "price": "4 625 000 ₽",
+        "card_description": [
+            "1.6 л (170 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/2008/533980656.html",
+        "image": "7-13.jpg",
+        "model": "Peugeot 2008",
+        "year": "2023",
+        "price": "3 685 000 ₽",
+        "card_description": [
+            "1.2 л (136 л.с.),",
+            "бензин,",
+            "робот,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/5008/372015770.html",
+        "image": "7-14.jpg",
+        "model": "Peugeot 5008",
+        "year": "2023",
+        "price": "4 990 000 ₽",
+        "card_description": [
+            "1.8 л (211 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4008/364450368.html",
+        "image": "7-15.jpg",
+        "model": "Peugeot 4008",
+        "year": "2023",
+        "price": "4 677 000 ₽",
+        "card_description": [
+            "1.6 л (170 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/5008/280587498.html",
+        "image": "7-16.jpg",
+        "model": "Peugeot 5008",
+        "year": "2023",
+        "price": "4 990 000 ₽",
+        "card_description": [
+            "1.8 л (211 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4008/277683888.html",
+        "image": "7-17.jpg",
+        "model": "Peugeot 4008",
+        "year": "2023",
+        "price": "4 712 000 ₽",
+        "card_description": [
+            "1.6 л (170 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/5008/259864974.html",
+        "image": "7-18.jpg",
+        "model": "Peugeot 5008",
+        "year": "2023",
+        "price": "5 025 000 ₽",
+        "card_description": [
+            "1.8 л (211 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4008/258060354.html",
+        "image": "7-19.jpg",
+        "model": "Peugeot 4008",
+        "year": "2023",
+        "price": "4 625 000 ₽",
+        "card_description": [
+            "1.6 л (170 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/231327261.html",
+        "image": "8-0.jpg",
+        "model": "Peugeot 408",
+        "year": "2013",
+        "price": "875 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "147 260 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/2008/106872218.html",
+        "image": "8-1.jpg",
+        "model": "Peugeot 2008",
+        "year": "2023",
+        "price": "3 715 000 ₽",
+        "card_description": [
+            "1.2 л (136 л.с.),",
+            "бензин,",
+            "робот,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/524030397.html",
+        "image": "8-2.jpg",
+        "model": "Peugeot 308",
+        "year": "2012",
+        "price": "600 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "192 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/581047078.html",
+        "image": "8-3.jpg",
+        "model": "Peugeot 408",
+        "year": "2012",
+        "price": "586 070 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "230 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/107/842144485.html",
+        "image": "8-4.jpg",
+        "model": "Peugeot 107",
+        "year": "2009",
+        "price": "360 000 ₽",
+        "card_description": [
+            "1.0 л (68 л.с.),",
+            "бензин,",
+            "робот,",
+            "передний,",
+            "277 610 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4008/891921219.html",
+        "image": "8-5.jpg",
+        "model": "Peugeot 4008",
+        "year": "2023",
+        "price": "4 072 160 ₽",
+        "card_description": [
+            "1.6 л (170 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/813808941.html",
+        "image": "8-6.jpg",
+        "model": "Peugeot 308",
+        "year": "2019",
+        "price": "1 390 000 ₽",
+        "card_description": [
+            "1.5 л (102 л.с.),",
+            "дизель,",
+            "механика,",
+            "передний,",
+            "95 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/107/444597654.html",
+        "image": "8-7.jpg",
+        "model": "Peugeot 107",
+        "year": "2011",
+        "price": "499 999 ₽",
+        "card_description": [
+            "1.0 л (68 л.с.),",
+            "бензин,",
+            "робот,",
+            "передний,",
+            "109 132 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/234333289.html",
+        "image": "8-8.jpg",
+        "model": "Peugeot 308",
+        "year": "2010",
+        "price": "470 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "221 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/169013332.html",
+        "image": "8-9.jpg",
+        "model": "Peugeot 308",
+        "year": "2012",
+        "price": "610 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "130 924 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/307/143139168.html",
+        "image": "8-10.jpg",
+        "model": "Peugeot 307",
+        "year": "2003",
+        "price": "430 000 ₽",
+        "card_description": [
+            "1.6 л (109 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "283 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/688370457.html",
+        "image": "8-11.jpg",
+        "model": "Peugeot 408",
+        "year": "2012",
+        "price": "589 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "188 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4007/388320518.html",
+        "image": "8-12.jpg",
+        "model": "Peugeot 4007",
+        "year": "2009",
+        "price": "845 000 ₽",
+        "card_description": [
+            "2.2 л (156 л.с.),",
+            "дизель,",
+            "робот,",
+            "4WD,",
+            "253 559 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/207/528910938.html",
+        "image": "8-13.jpg",
+        "model": "Peugeot 207",
+        "year": "2007",
+        "price": "260 000 ₽",
+        "card_description": [
+            "1.4 л (88 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "251 835 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/3008/53100460.html",
+        "image": "8-14.jpg",
+        "model": "Peugeot 3008",
+        "year": "2010",
+        "price": "820 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "124 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/3008/777762246.html",
+        "image": "8-15.jpg",
+        "model": "Peugeot 3008",
+        "year": "2018",
+        "price": "2 150 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "передний,",
+            "137 699 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/107/481835352.html",
+        "image": "8-16.jpg",
+        "model": "Peugeot 107",
+        "year": "2009",
+        "price": "424 000 ₽",
+        "card_description": [
+            "1.0 л (68 л.с.),",
+            "бензин,",
+            "робот,",
+            "передний,",
+            "176 594 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/3008/220501093.html",
+        "image": "8-17.jpg",
+        "model": "Peugeot 3008",
+        "year": "2012",
+        "price": "649 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "211 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/301884867.html",
+        "image": "8-18.jpg",
+        "model": "Peugeot 408",
+        "year": "2013",
+        "price": "760 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "98 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/388078832.html",
+        "image": "8-19.jpg",
+        "model": "Peugeot 308",
+        "year": "2011",
+        "price": "699 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "89 960 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/136523134.html",
+        "image": "9-0.jpg",
+        "model": "Peugeot 408",
+        "year": "2013",
+        "price": "549 000 ₽",
+        "card_description": [
+            "1.6 л (110 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "170 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/532386826.html",
+        "image": "9-1.jpg",
+        "model": "Peugeot 308",
+        "year": "2011",
+        "price": "559 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "124 644 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/3008/884612040.html",
+        "image": "9-2.jpg",
+        "model": "Peugeot 3008",
+        "year": "2014",
+        "price": "875 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "117 300 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/197161534.html",
+        "image": "9-3.jpg",
+        "model": "Peugeot 308",
+        "year": "2012",
+        "price": "649 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "146 551 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/206/500461001.html",
+        "image": "9-4.jpg",
+        "model": "Peugeot 206",
+        "year": "2003",
+        "price": "180 000 ₽",
+        "card_description": [
+            "1.4 л (75 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "256 351 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/2008/458447957.html",
+        "image": "9-5.jpg",
+        "model": "Peugeot 2008",
+        "year": "2014",
+        "price": "890 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "150 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4007/734698722.html",
+        "image": "9-6.jpg",
+        "model": "Peugeot 4007",
+        "year": "2008",
+        "price": "1 380 000 ₽",
+        "card_description": [
+            "2.4 л (170 л.с.),",
+            "бензин,",
+            "вариатор,",
+            "4WD,",
+            "151 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/301/481495976.html",
+        "image": "9-7.jpg",
+        "model": "Peugeot 301",
+        "year": "2013",
+        "price": "460 000 ₽",
+        "card_description": [
+            "1.2 л (72 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "265 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/446615792.html",
+        "image": "9-8.jpg",
+        "model": "Peugeot 408",
+        "year": "2013",
+        "price": "499 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "246 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/rcz/397438898.html",
+        "image": "9-9.jpg",
+        "model": "Peugeot RCZ",
+        "year": "2013",
+        "price": "1 249 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "145 914 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/508/705258010.html",
+        "image": "9-10.jpg",
+        "model": "Peugeot 508",
+        "year": "2012",
+        "price": "749 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "160 808 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/3008/548245529.html",
+        "image": "9-11.jpg",
+        "model": "Peugeot 3008",
+        "year": "2011",
+        "price": "670 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "161 521 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/432251744.html",
+        "image": "9-12.jpg",
+        "model": "Peugeot 408",
+        "year": "2014",
+        "price": "609 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "142 997 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/3008/943710713.html",
+        "image": "9-13.jpg",
+        "model": "Peugeot 3008",
+        "year": "2017",
+        "price": "1 999 846 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "передний,",
+            "82 009 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/216822529.html",
+        "image": "9-14.jpg",
+        "model": "Peugeot 308",
+        "year": "2018",
+        "price": "1 450 000 ₽",
+        "card_description": [
+            "1.5 л (131 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "передний,",
+            "205 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/122334066.html",
+        "image": "9-15.jpg",
+        "model": "Peugeot 408",
+        "year": "2014",
+        "price": "725 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "168 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/508/660502923.html",
+        "image": "9-16.jpg",
+        "model": "Peugeot 508",
+        "year": "2016",
+        "price": "1 395 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "102 656 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/207/808346759.html",
+        "image": "9-17.jpg",
+        "model": "Peugeot 207",
+        "year": "2007",
+        "price": "380 000 ₽",
+        "card_description": [
+            "1.4 л (88 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "154 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/406/447374363.html",
+        "image": "9-18.jpg",
+        "model": "Peugeot 406",
+        "year": "2001",
+        "price": "234 900 ₽",
+        "card_description": [
+            "1.7 л (116 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "213 557 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/317488608.html",
+        "image": "9-19.jpg",
+        "model": "Peugeot 308",
+        "year": "2010",
+        "price": "360 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "271 100 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/406/344239263.html",
+        "image": "10-0.jpg",
+        "model": "Peugeot 406",
+        "year": "2000",
+        "price": "140 000 ₽",
+        "card_description": [
+            "1.8 л (110 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "345 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/traveller/383897626.html",
+        "image": "10-1.jpg",
+        "model": "Peugeot Traveller",
+        "year": "2018",
+        "price": "2 854 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "передний,",
+            "113 434 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/206/767039739.html",
+        "image": "10-2.jpg",
+        "model": "Peugeot 206",
+        "year": "2002",
+        "price": "105 000 ₽",
+        "card_description": [
+            "1.4 л (75 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "200 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/partner/261984974.html",
+        "image": "10-3.jpg",
+        "model": "Peugeot Partner",
+        "year": "2013",
+        "price": "580 000 ₽",
+        "card_description": [
+            "1.6 л (110 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "350 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/207/901405109.html",
+        "image": "10-4.jpg",
+        "model": "Peugeot 207",
+        "year": "2007",
+        "price": "455 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "147 654 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/689314432.html",
+        "image": "10-5.jpg",
+        "model": "Peugeot 408",
+        "year": "2012",
+        "price": "565 000 ₽",
+        "card_description": [
+            "1.6 л (110 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "181 440 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/3008/164241834.html",
+        "image": "10-6.jpg",
+        "model": "Peugeot 3008",
+        "year": "2011",
+        "price": "640 000 ₽",
+        "card_description": [
+            "1.6 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "178 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4008/124544685.html",
+        "image": "10-7.jpg",
+        "model": "Peugeot 4008",
+        "year": "2012",
+        "price": "995 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "вариатор,",
+            "4WD,",
+            "251 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/206/54084183.html",
+        "image": "10-8.jpg",
+        "model": "Peugeot 206",
+        "year": "2007",
+        "price": "285 000 ₽",
+        "card_description": [
+            "1.4 л (75 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "216 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/2008/53422458.html",
+        "image": "10-9.jpg",
+        "model": "Peugeot 2008",
+        "year": "2023",
+        "price": "3 449 900 ₽",
+        "card_description": [
+            "1.2 л (130 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "5 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/5008/53365036.html",
+        "image": "10-10.jpg",
+        "model": "Peugeot 5008",
+        "year": "2023",
+        "price": "4 534 000 ₽",
+        "card_description": [
+            "1.8 л (211 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/184434047.html",
+        "image": "10-11.jpg",
+        "model": "Peugeot 308",
+        "year": "2008",
+        "price": "389 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "240 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/407/735210401.html",
+        "image": "10-12.jpg",
+        "model": "Peugeot 407",
+        "year": "2008",
+        "price": "249 990 ₽",
+        "card_description": [
+            "2.0 л (136 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний,",
+            "199 878 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/508/855948627.html",
+        "image": "10-13.jpg",
+        "model": "Peugeot 508",
+        "year": "2019",
+        "price": "1 999 999 ₽",
+        "card_description": [
+            "1.5 л (130 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "передний,",
+            "198 789 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/591743328.html",
+        "image": "10-14.jpg",
+        "model": "Peugeot 308",
+        "year": "2010",
+        "price": "745 000 ₽",
+        "card_description": [
+            "бензин,",
+            "автомат,",
+            "186 950 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4007/574158753.html",
+        "image": "10-15.jpg",
+        "model": "Peugeot 4007",
+        "year": "2012",
+        "price": "1 010 000 ₽",
+        "card_description": [
+            "2.4 л (170 л.с.),",
+            "бензин,",
+            "вариатор,",
+            "4WD,",
+            "271 331 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/879037144.html",
+        "image": "10-16.jpg",
+        "model": "Peugeot 308",
+        "year": "2010",
+        "price": "590 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "172 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/188374321.html",
+        "image": "10-17.jpg",
+        "model": "Peugeot 408",
+        "year": "2014",
+        "price": "699 000 ₽",
+        "card_description": [
+            "1.6 л (115 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "216 305 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/408/163205204.html",
+        "image": "10-18.jpg",
+        "model": "Peugeot 408",
+        "year": "2015",
+        "price": "685 000 ₽",
+        "card_description": [
+            "1.6 л (115 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "254 412 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/2008/641145980.html",
+        "image": "10-19.jpg",
+        "model": "Peugeot 2008",
+        "year": "2014",
+        "price": "976 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "85 400 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/partner/200708216.html",
+        "image": "11-0.jpg",
+        "model": "Peugeot Partner",
+        "year": "2017",
+        "price": "1 150 000 ₽",
+        "card_description": [
+            "1.6 л (90 л.с.),",
+            "дизель,",
+            "механика,",
+            "передний,",
+            "130 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/traveller/564106840.html",
+        "image": "11-1.jpg",
+        "model": "Peugeot Traveller",
+        "year": "2018",
+        "price": "3 250 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "передний,",
+            "91 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/206/350057230.html",
+        "image": "11-2.jpg",
+        "model": "Peugeot 206",
+        "year": "2004",
+        "price": "300 000 ₽",
+        "card_description": [
+            "1.4 л (75 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/308/53974311.html",
+        "image": "11-3.jpg",
+        "model": "Peugeot 308",
+        "year": "2008",
+        "price": "370 000 ₽",
+        "card_description": [
+            "1.6 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "273 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/5008/53775479.html",
+        "image": "11-4.jpg",
+        "model": "Peugeot 5008",
+        "year": "2023",
+        "price": "4 290 700 ₽",
+        "card_description": [
+            "1.8 л (211 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4008/53775480.html",
+        "image": "11-5.jpg",
+        "model": "Peugeot 4008",
+        "year": "2023",
+        "price": "3 991 250 ₽",
+        "card_description": [
+            "1.6 л (170 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4008/53775482.html",
+        "image": "11-6.jpg",
+        "model": "Peugeot 4008",
+        "year": "2023",
+        "price": "4 039 610 ₽",
+        "card_description": [
+            "1.6 л (170 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4008/53775483.html",
+        "image": "11-7.jpg",
+        "model": "Peugeot 4008",
+        "year": "2023",
+        "price": "3 991 250 ₽",
+        "card_description": [
+            "1.6 л (170 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/5008/53775486.html",
+        "image": "11-8.jpg",
+        "model": "Peugeot 5008",
+        "year": "2023",
+        "price": "4 290 700 ₽",
+        "card_description": [
+            "1.8 л (211 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/4008/53775488.html",
+        "image": "11-9.jpg",
+        "model": "Peugeot 4008",
+        "year": "2023",
+        "price": "4 039 610 ₽",
+        "card_description": [
+            "1.6 л (170 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/5008/53775490.html",
+        "image": "11-10.jpg",
+        "model": "Peugeot 5008",
+        "year": "2023",
+        "price": "4 323 250 ₽",
+        "card_description": [
+            "1.8 л (211 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/5008/53775492.html",
+        "image": "11-11.jpg",
+        "model": "Peugeot 5008",
+        "year": "2023",
+        "price": "4 536 000 ₽",
+        "card_description": [
+            "1.8 л (211 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/peugeot/2008/53775494.html",
+        "image": "11-12.jpg",
+        "model": "Peugeot 2008",
+        "year": "2023",
+        "price": "3 054 950 ₽",
+        "card_description": [
+            "1.2 л (136 л.с.),",
+            "бензин,",
+            "робот,",
+            "передний"
+        ]
+    }
+]

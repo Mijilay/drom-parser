@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/mercedes/220252762.html", "image": "mercedes-benz29-5.jpg", "model": "Mercedes-Benz Mercedes", "year": "1987", "price:": "230 000 ₽", "hp": "2.3 л (132 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "125 369 км"}

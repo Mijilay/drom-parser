@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/v-class/359932901.html", "image": "mercedes-benz24-3.jpg", "model": "Mercedes-Benz V-Class", "year": "2023", "price:": "14 000 000 ₽", "hp": "2.0 л (237 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "4WD"}

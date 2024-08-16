@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/5008/222990297.html", "image": "peugeot3-16.jpg", "model": "Peugeot 5008", "year": "2018", "price:": "2 200 000 ₽", "hp": "1.6 л (150 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "97 925 км"}

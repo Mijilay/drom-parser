@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/gle_coupe/544603334.html", "image": "mercedes-benz1-7.jpg", "model": "Mercedes-Benz GLE Coupe", "year": "2017", "price:": "6 250 000 ₽", "hp": "5.5 л (585 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "55 000 км"}

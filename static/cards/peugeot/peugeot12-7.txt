@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/pskov/peugeot/407/418767346.html", "image": "peugeot12-7.jpg", "model": "Peugeot 407", "year": "2008", "price": "728 000 ₽", "engine": "2.0 л (140 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

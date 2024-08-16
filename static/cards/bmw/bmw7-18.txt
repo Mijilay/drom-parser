@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series/919246648.html", "image": "bmw7-18.jpg", "model": "BMW 5-Series", "year": "2023", "price:": "13 090 000 ₽", "hp": "2.0 л (197 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "4WD,", "mileage": "35 км"}

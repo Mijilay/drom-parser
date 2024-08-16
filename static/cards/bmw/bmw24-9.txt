@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/1-series/641344734.html", "image": "bmw24-9.jpg", "model": "BMW 1-Series", "year": "2021", "price:": "3 319 000 ₽", "hp": "1.5 л (140 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "58 980 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/8-series/196398661.html", "image": "bmw26-9.jpg", "model": "BMW 8-Series", "year": "2022", "price:": "13 999 000 ₽", "hp": "4.4 л (530 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "8 304 км"}

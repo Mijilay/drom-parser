@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/1-series/494415911.html", "image": "bmw40-14.jpg", "model": "BMW 1-Series", "year": "2017", "price:": "1 787 669 ₽", "hp": "1.6 л (136 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "задний,", "mileage": "118 570 км"}

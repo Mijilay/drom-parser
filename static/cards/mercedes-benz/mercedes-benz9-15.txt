@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/m-class/196666724.html", "image": "mercedes-benz9-15.jpg", "model": "Mercedes-Benz M-Class", "year": "2012", "price:": "2 400 000 ₽", "hp": "3.0 л (240 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "4WD,", "mileage": "163 000 км"}

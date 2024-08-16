@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/gle-class/216795658.html", "image": "mercedes-benz23-8.jpg", "model": "Mercedes-Benz GLE", "year": "2020", "price:": "8 000 000 ₽", "hp": "3.0 л (435 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "93 500 км"}

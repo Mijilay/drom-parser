@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x5/175124182.html", "image": "bmw35-8.jpg", "model": "BMW X5", "year": "2007", "price:": "1 579 000 ₽", "hp": "3.0 л (235 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "293 000 км"}

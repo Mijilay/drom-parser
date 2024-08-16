@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/e-class/371708370.html", "image": "mercedes-benz19-5.jpg", "model": "Mercedes-Benz E-Class", "year": "2020", "price:": "3 775 000 ₽", "hp": "2.0 л (197 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "82 124 км"}

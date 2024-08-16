@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/cl-class/53562389.html", "image": "mercedes-benz18-11.jpg", "model": "Mercedes-Benz CL-Class", "year": "1998", "price:": "3 500 000 ₽", "hp": "6.0 л (394 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "126 000 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/focus/104967838.html", "image": "ford15-5.jpg", "model": "Ford Focus", "year": "2019", "price:": "1 300 000 ₽", "hp": "1.6 л (125 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "139 376 км"}

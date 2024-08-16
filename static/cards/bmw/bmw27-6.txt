@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x3/740856726.html", "image": "bmw27-6.jpg", "model": "BMW X3", "year": "2020", "price": "4 439 000 ₽", "engine": "бензин,", "transmission": "автомат,", "drive": "34 246 км"}

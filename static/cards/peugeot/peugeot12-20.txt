@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/pskov/peugeot/406/54054894.html", "image": "peugeot12-20.jpg", "model": "Peugeot 406", "year": "1997", "price": "285 000 ₽", "engine": "1.8 л (110 л.с.),", "transmission": "бензин,", "drive": "механика,"}

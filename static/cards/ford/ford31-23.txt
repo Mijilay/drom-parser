@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/focus/943957699.html", "image": "ford31-23.jpg", "model": "Ford Focus", "year": "2021", "price:": "1 650 000 ₽", "hp": "1.5 л (182 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "13 560 км"}

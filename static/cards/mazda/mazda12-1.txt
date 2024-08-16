@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/cx-5/941886597.html", "image": "mazda12-1.jpg", "model": "Mazda CX-5", "year": "2018", "price:": "2 399 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "131 057 км"}

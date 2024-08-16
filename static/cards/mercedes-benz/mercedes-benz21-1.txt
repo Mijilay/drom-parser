@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/gle_coupe/653784956.html", "image": "mercedes-benz21-1.jpg", "model": "Mercedes-Benz GLE Coupe", "year": "2022", "price:": "11 500 000 ₽", "hp": "2.0 л (272 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "9 842 км"}

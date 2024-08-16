@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/b-class/237043149.html", "image": "mercedes-benz37-4.jpg", "model": "Mercedes-Benz B-Class", "year": "2014", "price:": "1 400 000 ₽", "hp": "1.6 л (156 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "77 500 км"}

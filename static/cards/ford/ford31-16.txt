@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/siverskiy/ford/mondeo/437050294.html", "image": "ford31-16.jpg", "model": "Ford Mondeo", "year": "2008", "price": "700 000 ₽", "engine": "1.8 л (125 л.с.),", "transmission": "дизель,", "drive": "механика,"}

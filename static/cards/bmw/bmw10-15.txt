@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series/630325403.html", "image": "bmw10-15.jpg", "model": "BMW 5-Series", "year": "2012", "price:": "1 549 000 ₽", "hp": "2.0 л (184 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "223 100 км"}

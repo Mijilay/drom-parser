@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/mazda6/692151840.html", "image": "mazda14-15.jpg", "model": "Mazda Mazda6", "year": "2015", "price:": "1 999 999 ₽", "hp": "2.5 л (192 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "149 000 км"}

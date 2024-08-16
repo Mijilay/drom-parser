@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/ivangorod/mercedes-benz/e-class/132870696.html", "image": "mercedes-benz39-15.jpg", "model": "Mercedes-Benz E-Class", "year": "1991", "price": "395 000 ₽", "engine": "3.0 л (180 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

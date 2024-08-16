@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/7-series/331149927.html", "image": "bmw24-14.jpg", "model": "BMW 7-Series", "year": "2023", "price:": "12 890 000 ₽", "hp": "3.0 л (286 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "4WD,", "mileage": "30 227 км"}

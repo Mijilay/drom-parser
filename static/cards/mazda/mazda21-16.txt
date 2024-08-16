@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/gatchina/mazda/mazda3/301987072.html", "image": "mazda21-16.jpg", "model": "Mazda Mazda3", "year": "2008", "price": "660 000 ₽", "engine": "2.0 л (150 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/vito/446911634.html", "image": "mercedes-benz2-6.jpg", "model": "Mercedes-Benz Vito", "year": "1997", "price:": "400 000 ₽", "hp": "2.3 л (79 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "передний,", "mileage": "511 000 км"}

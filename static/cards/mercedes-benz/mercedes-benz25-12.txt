@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/a-class/424355763.html", "image": "mercedes-benz25-12.jpg", "model": "Mercedes-Benz A-Class", "year": "2011", "price:": "680 000 ₽", "hp": "1.7 л (116 л.с.),", "engine": "бензин,", "transmission": "вариатор,", "drive": "передний,", "mileage": "211 111 км"}

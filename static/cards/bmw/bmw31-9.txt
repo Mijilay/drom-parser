@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x1/466999543.html", "image": "bmw31-9.jpg", "model": "BMW X1", "year": "2014", "price:": "1 609 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "124 006 км"}

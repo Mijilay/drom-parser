@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/m-class/507759326.html", "image": "mercedes-benz2-19.jpg", "model": "Mercedes-Benz M-Class", "year": "2007", "price:": "1 375 000 ₽", "hp": "3.0 л (218 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "4WD,", "mileage": "321 000 км"}

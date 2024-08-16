@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/kamenka-lenobl/mazda/bongo_friendee/246327733.html", "image": "mazda21-18.jpg", "model": "Mazda Bongo Friendee", "year": "1996", "price": "230 000 ₽", "engine": "2.5 л (125 л.с.),", "transmission": "дизель,", "drive": "АКПП,"}

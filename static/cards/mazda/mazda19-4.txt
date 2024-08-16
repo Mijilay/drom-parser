@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/mazda6/891714810.html", "image": "mazda19-4.jpg", "model": "Mazda Mazda6", "year": "2021", "price:": "2 927 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "34 088 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/kuga/220996833.html", "image": "ford26-18.jpg", "model": "Ford Kuga", "year": "2010", "price:": "1 086 000 ₽", "hp": "2.5 л (200 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "176 000 км"}

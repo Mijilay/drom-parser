@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/408/619294487.html", "image": "peugeot6-7.jpg", "model": "Peugeot 408", "year": "2015", "price:": "832 000 ₽", "hp": "1.6 л (120 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "158 000 км"}

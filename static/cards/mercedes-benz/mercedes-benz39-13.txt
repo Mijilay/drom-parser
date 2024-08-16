@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/priozersk/mercedes-benz/e-class/744824557.html", "image": "mercedes-benz39-13.jpg", "model": "Mercedes-Benz E-Class", "year": "2013", "price": "2 390 000 ₽", "engine": "2.0 л (184 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

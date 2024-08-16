@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/focus/145835397.html", "image": "ford20-7.jpg", "model": "Ford Focus", "year": "2003", "price:": "300 000 ₽", "hp": "2.0 л (130 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "259 713 км"}

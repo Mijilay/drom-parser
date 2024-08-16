@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/velikiy-novgorod/mazda/mazda3/684825097.html", "image": "mazda21-22.jpg", "model": "Mazda Mazda3", "year": "2015", "price": "1 750 000 ₽", "engine": "1.5 л (120 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

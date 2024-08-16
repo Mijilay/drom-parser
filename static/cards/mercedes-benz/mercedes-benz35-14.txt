@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/gle-class/457121158.html", "image": "mercedes-benz35-14.jpg", "model": "Mercedes-Benz GLE", "year": "2022", "price:": "10 750 000 ₽", "hp": "2.9 л (330 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "45 669 км"}

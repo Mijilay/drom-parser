@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/velikiy-novgorod/mercedes-benz/glk-class/54080118.html", "image": "mercedes-benz39-21.jpg", "model": "Mercedes-Benz GLK-Class", "year": "2012", "price": "2 100 000 ₽", "engine": "3.5 л (249 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

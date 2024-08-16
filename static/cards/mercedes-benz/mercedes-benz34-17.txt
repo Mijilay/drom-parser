@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/cls-class/740539750.html", "image": "mercedes-benz34-17.jpg", "model": "Mercedes-Benz CLS-Class", "year": "2012", "price:": "2 197 669 ₽", "hp": "3.5 л (306 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "146 092 км"}

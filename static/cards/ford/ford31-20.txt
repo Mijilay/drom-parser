@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/sosnoviy-bor/ford/mondeo/257371189.html", "image": "ford31-20.jpg", "model": "Ford Mondeo", "year": "2007", "price": "560 000 ₽", "engine": "2.0 л (145 л.с.),", "transmission": "бензин,", "drive": "механика,"}

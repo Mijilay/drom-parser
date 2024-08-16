@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/7-series/330040913.html", "image": "bmw29-8.jpg", "model": "BMW 7-Series", "year": "2016", "price:": "3 674 585 ₽", "hp": "3.0 л (320 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "155 001 км"}

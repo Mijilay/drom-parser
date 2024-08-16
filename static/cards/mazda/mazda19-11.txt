@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/cx-30/52062780.html", "image": "mazda19-11.jpg", "model": "Mazda CX-30", "year": "2022", "price:": "3 750 000 ₽", "hp": "2.5 л (189 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "4WD,", "mileage": "4 219 км"}

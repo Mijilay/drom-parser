@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/fiesta/156536078.html", "image": "ford24-13.jpg", "model": "Ford Fiesta", "year": "2003", "price:": "250 000 ₽", "hp": "1.4 л (80 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "295 000 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/mazda2/776445037.html", "image": "mazda9-16.jpg", "model": "Mazda Mazda2", "year": "2007", "price:": "620 000 ₽", "hp": "1.5 л (103 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "65 000 км"}

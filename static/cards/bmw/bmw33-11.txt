@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/3-series/52590368.html", "image": "bmw33-11.jpg", "model": "BMW 3-Series", "year": "2019", "price:": "3 084 990 ₽", "hp": "2.0 л (190 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "72 700 км"}

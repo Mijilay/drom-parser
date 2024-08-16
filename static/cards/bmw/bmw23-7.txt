@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/7-series/515856339.html", "image": "bmw23-7.jpg", "model": "BMW 7-Series", "year": "2021", "price:": "6 130 000 ₽", "hp": "2.0 л (249 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "91 780 км"}

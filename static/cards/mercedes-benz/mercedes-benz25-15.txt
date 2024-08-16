@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/gla-class/736518404.html", "image": "mercedes-benz25-15.jpg", "model": "Mercedes-Benz GLA-Class", "year": "2021", "price:": "4 256 010 ₽", "hp": "2.0 л (224 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "4WD,", "mileage": "29 013 км"}

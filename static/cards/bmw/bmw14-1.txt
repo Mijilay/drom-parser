@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/3-series/321004676.html", "image": "bmw14-1.jpg", "model": "BMW 3-Series", "year": "2008", "price:": "999 000 ₽", "hp": "2.0 л (177 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "281 000 км"}

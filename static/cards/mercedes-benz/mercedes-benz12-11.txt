@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/e-class/50366928.html", "image": "mercedes-benz12-11.jpg", "model": "Mercedes-Benz E-Class", "year": "1993", "price:": "350 000 ₽", "hp": "2.2 л (150 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "459 000 км"}

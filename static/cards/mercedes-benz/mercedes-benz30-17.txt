@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/eqe_suv/918380849.html", "image": "mercedes-benz30-17.jpg", "model": "Mercedes-Benz EQE SUV", "year": "2023", "price:": "10 600 000 ₽", "hp": "292 л.с.,", "engine": "электро,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "59 км"}

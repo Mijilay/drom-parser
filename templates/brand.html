@@ -6,11 +6,14 @@
     <div class="car-list">
         {% for car in cars %}
             <div class="car-item">
-                <img src="{{ url_for('static', filename=car['image']) }}" alt="{{ car['model'] }}">
+                <img src="{{ url_for('static', filename='cards/' ~ brand_name ~ '/media/' ~ car['image']) }}" alt="{{ car['model'] }}">
                 <div class="car-info">
                     <h2>{{ car['model'] }} ({{ car['year'] }})</h2>
-                    <p>{{ car['hp'] }} {{ car['engine'] }} {{ car['transmission'] }} {{ car['drive'] }}</p>
-                    <p>Пробег: {{ car['mileage'] }}</p>
+                    <p>
+                        {% for item in car['card_description'] %}
+                            {{ item }}
+                        {% endfor %}
+                    </p>
                     <p>Цена: {{ car['price'] }}</p>
                     <a href="{{ car['link'] }}" target="_blank">Подробнее</a>
                 </div>

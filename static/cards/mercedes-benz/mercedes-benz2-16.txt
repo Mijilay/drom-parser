@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/m-class/594125413.html", "image": "mercedes-benz2-16.jpg", "model": "Mercedes-Benz M-Class", "year": "2002", "price:": "1 500 000 ₽", "hp": "5.4 л (347 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "361 000 км"}

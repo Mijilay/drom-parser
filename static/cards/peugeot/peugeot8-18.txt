@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/301/481495976.html", "image": "peugeot8-18.jpg", "model": "Peugeot 301", "year": "2013", "price:": "460 000 ₽", "hp": "1.2 л (72 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "265 000 км"}

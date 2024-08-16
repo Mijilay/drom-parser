@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series/630991109.html", "image": "bmw34-2.jpg", "model": "BMW 5-Series", "year": "2008", "price": "1 701 000 ₽", "engine": "бензин,", "transmission": "автомат,", "drive": "245 174 км"}

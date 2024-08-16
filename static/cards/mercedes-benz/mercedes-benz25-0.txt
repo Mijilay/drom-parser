@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/gle-class/585859433.html", "image": "mercedes-benz25-0.jpg", "model": "Mercedes-Benz GLE", "year": "2021", "price:": "8 550 000 ₽", "hp": "2.9 л (249 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "4WD,", "mileage": "99 628 км"}

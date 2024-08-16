@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/pskov/bmw/5-series/817346329.html", "image": "bmw44-15.jpg", "model": "BMW 5-Series", "year": "1989", "price": "240 000 ₽", "engine": "2.0 л (129 л.с.),", "transmission": "бензин,", "drive": "механика,"}

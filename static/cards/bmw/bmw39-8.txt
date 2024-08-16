@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/3-series/830040735.html", "image": "bmw39-8.jpg", "model": "BMW 3-Series", "year": "2004", "price:": "800 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "задний,", "mileage": "450 000 км"}

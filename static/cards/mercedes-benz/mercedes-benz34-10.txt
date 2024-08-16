@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/gle-class/381151734.html", "image": "mercedes-benz34-10.jpg", "model": "Mercedes-Benz GLE", "year": "2015", "price:": "3 475 000 ₽", "hp": "3.0 л (249 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "160 888 км"}

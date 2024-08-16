@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x3/542389599.html", "image": "bmw13-2.jpg", "model": "BMW X3", "year": "2019", "price:": "3 410 000 ₽", "hp": "3.0 л (249 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "162 649 км"}

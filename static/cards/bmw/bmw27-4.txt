@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/ix/53120385.html", "image": "bmw27-4.jpg", "model": "BMW iX", "year": "2022", "price:": "7 450 000 ₽", "hp": "326 л.с.,", "engine": "электро,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "24 963 км"}

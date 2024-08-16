@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/glk-class/469343997.html", "image": "mercedes-benz37-11.jpg", "model": "Mercedes-Benz GLK-Class", "year": "2012", "price:": "1 445 300 ₽", "hp": "3.5 л (249 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "268 648 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x6/665461152.html", "image": "bmw39-10.jpg", "model": "BMW X6", "year": "2014", "price:": "4 199 000 ₽", "hp": "3.0 л (381 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "123 135 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/mazda3/314527609.html", "image": "mazda18-16.jpg", "model": "Mazda Mazda3", "year": "2017", "price:": "1 229 000 ₽", "hp": "1.5 л (120 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "350 318 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/7-series/199698600.html", "image": "bmw23-12.jpg", "model": "BMW 7-Series", "year": "2009", "price:": "1 500 000 ₽", "hp": "3.0 л (326 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "216 000 км"}

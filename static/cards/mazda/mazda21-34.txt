@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/petrozavodsk/mazda/mazda6/393350073.html", "image": "mazda21-34.jpg", "model": "Mazda Mazda6", "year": "2008", "price": "865 000 ₽", "engine": "1.8 л (120 л.с.),", "transmission": "бензин,", "drive": "механика,"}

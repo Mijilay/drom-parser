@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/ranger/605493675.html", "image": "ford25-8.jpg", "model": "Ford Ranger", "year": "2008", "price:": "679 000 ₽", "hp": "2.5 л (143 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "4WD,", "mileage": "389 951 км"}

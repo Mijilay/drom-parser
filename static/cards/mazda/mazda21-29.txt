@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/pskov/mazda/mazda3/566114719.html", "image": "mazda21-29.jpg", "model": "Mazda Mazda3", "year": "2010", "price": "690 000 ₽", "engine": "1.6 л (105 л.с.),", "transmission": "бензин,", "drive": "механика,"}

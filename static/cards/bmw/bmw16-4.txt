@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/4-series/744337307.html", "image": "bmw16-4.jpg", "model": "BMW 4-Series", "year": "2018", "price:": "2 729 000 ₽", "hp": "2.0 л (190 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "задний,", "mileage": "69 602 км"}

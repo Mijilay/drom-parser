@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series/495273874.html", "image": "bmw30-14.jpg", "model": "BMW 5-Series", "year": "2012", "price": "1 969 000 ₽", "engine": "дизель,", "transmission": "автомат,", "drive": "217 982 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/190/437570779.html", "image": "mercedes-benz22-3.jpg", "model": "Mercedes-Benz 190", "year": "1984", "price:": "150 000 ₽", "hp": "2.0 л (122 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "152 864 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/explorer/945580746.html", "image": "ford25-5.jpg", "model": "Ford Explorer", "year": "2017", "price:": "2 540 000 ₽", "hp": "3.5 л (249 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "141 500 км"}

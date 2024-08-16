@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x1/872750693.html", "image": "bmw29-1.jpg", "model": "BMW X1", "year": "2019", "price:": "2 640 000 ₽", "hp": "2.0 л (192 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "4WD,", "mileage": "150 831 км"}

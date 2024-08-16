@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/focus_st/767436825.html", "image": "ford15-19.jpg", "model": "Ford Focus ST", "year": "2007", "price:": "700 000 ₽", "hp": "2.5 л (225 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "208 222 км"}

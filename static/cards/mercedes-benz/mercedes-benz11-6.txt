@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/e-class/279821707.html", "image": "mercedes-benz11-6.jpg", "model": "Mercedes-Benz E-Class", "year": "1992", "price:": "150 000 ₽", "hp": "2.0 л (75 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "323 098 км"}

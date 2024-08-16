@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/e-class/947425695.html", "image": "mercedes-benz20-14.jpg", "model": "Mercedes-Benz E-Class", "year": "1987", "price:": "999 000 ₽", "hp": "3.0 л (180 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "задний,", "mileage": "465 625 км"}

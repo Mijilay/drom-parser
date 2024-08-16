@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/190/897289151.html", "image": "mercedes-benz7-19.jpg", "model": "Mercedes-Benz 190", "year": "1990", "price:": "410 000 ₽", "hp": "2.0 л (122 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "26 000 км"}

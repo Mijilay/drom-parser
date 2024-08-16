@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/2-series/609580051.html", "image": "bmw21-17.jpg", "model": "BMW 2-Series", "year": "2020", "price:": "2 920 000 ₽", "hp": "1.5 л (140 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "53 000 км"}

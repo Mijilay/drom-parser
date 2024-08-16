@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/a-class/888845288.html", "image": "mercedes-benz18-18.jpg", "model": "Mercedes-Benz A-Class", "year": "2013", "price:": "1 299 000 ₽", "hp": "1.6 л (122 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "146 000 км"}

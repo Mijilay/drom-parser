@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x3/798507751.html", "image": "bmw9-18.jpg", "model": "BMW X3", "year": "2007", "price:": "1 000 000 ₽", "hp": "3.0 л (272 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "190 000 км"}

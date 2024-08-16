@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x3/52784992.html", "image": "bmw15-5.jpg", "model": "BMW X3", "year": "2020", "price:": "4 450 000 ₽", "hp": "3.0 л (265 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "4WD,", "mileage": "141 180 км"}

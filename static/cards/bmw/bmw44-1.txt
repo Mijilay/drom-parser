@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/murino/bmw/3-series/547755046.html", "image": "bmw44-1.jpg", "model": "BMW 3-Series", "year": "2010", "price": "1 100 000 ₽", "engine": "2.0 л (136 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

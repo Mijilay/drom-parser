@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/mazda6/491339614.html", "image": "mazda12-15.jpg", "model": "Mazda Mazda6", "year": "2011", "price:": "825 000 ₽", "hp": "1.8 л (120 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "231 000 км"}

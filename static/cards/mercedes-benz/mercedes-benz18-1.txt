@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/m-class/817139893.html", "image": "mercedes-benz18-1.jpg", "model": "Mercedes-Benz M-Class", "year": "2000", "price:": "300 000 ₽", "hp": "3.2 л (218 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "399 000 км"}

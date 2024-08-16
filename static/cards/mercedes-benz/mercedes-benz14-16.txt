@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/s-class/798218388.html", "image": "mercedes-benz14-16.jpg", "model": "Mercedes-Benz S-Class", "year": "2008", "price:": "1 127 000 ₽", "hp": "3.5 л (272 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "237 000 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/1-series/448276420.html", "image": "bmw34-5.jpg", "model": "BMW 1-Series", "year": "2008", "price:": "820 000 ₽", "hp": "1.6 л (116 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "213 064 км"}

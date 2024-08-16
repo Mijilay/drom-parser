@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x5/870019557.html", "image": "bmw31-12.jpg", "model": "BMW X5", "year": "2020", "price:": "8 750 000 ₽", "hp": "3.0 л (400 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "58 800 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/kingisepp/mercedes-benz/m-class/497146380.html", "image": "mercedes-benz39-8.jpg", "model": "Mercedes-Benz M-Class", "year": "2010", "price": "1 600 000 ₽", "engine": "3.0 л (224 л.с.),", "transmission": "дизель,", "drive": "АКПП,"}

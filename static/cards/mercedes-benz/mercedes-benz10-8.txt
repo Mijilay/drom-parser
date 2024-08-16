@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/cla-class/798780025.html", "image": "mercedes-benz10-8.jpg", "model": "Mercedes-Benz CLA-Class", "year": "2014", "price:": "1 545 900 ₽", "hp": "2.0 л (211 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "4WD,", "mileage": "156 000 км"}

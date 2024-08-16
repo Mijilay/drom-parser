@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/viano/760676220.html", "image": "mercedes-benz28-12.jpg", "model": "Mercedes-Benz Viano", "year": "2012", "price:": "3 000 000 ₽", "hp": "2.2 л (163 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "4WD,", "mileage": "100 000 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/cx-50/942357266.html", "image": "mazda16-9.jpg", "model": "Mazda CX-50", "year": "2024", "price:": "4 540 000 ₽", "hp": "2.0 л (155 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний"}

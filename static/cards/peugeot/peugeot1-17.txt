@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/407/817592987.html", "image": "peugeot1-17.jpg", "model": "Peugeot 407", "year": "2007", "price:": "399 000 ₽", "hp": "1.7 л (125 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "197 000 км"}

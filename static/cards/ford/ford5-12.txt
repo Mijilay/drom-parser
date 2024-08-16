@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/focus/746632918.html", "image": "ford5-12.jpg", "model": "Ford Focus", "year": "2010", "price:": "695 000 ₽", "hp": "2.0 л (145 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "111 940 км"}

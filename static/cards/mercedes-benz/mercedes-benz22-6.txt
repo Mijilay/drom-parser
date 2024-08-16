@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/e-class/293653202.html", "image": "mercedes-benz22-6.jpg", "model": "Mercedes-Benz E-Class", "year": "1988", "price:": "180 000 ₽", "hp": "2.3 л (132 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "441 000 км"}

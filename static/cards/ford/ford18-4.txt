@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/focus/667693653.html", "image": "ford18-4.jpg", "model": "Ford Focus", "year": "2017", "price:": "1 140 000 ₽", "hp": "1.6 л (105 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "92 000 км"}

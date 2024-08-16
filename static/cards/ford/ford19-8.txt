@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/focus/527442652.html", "image": "ford19-8.jpg", "model": "Ford Focus", "year": "2012", "price:": "919 099 ₽", "hp": "1.6 л (125 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "171 165 км"}

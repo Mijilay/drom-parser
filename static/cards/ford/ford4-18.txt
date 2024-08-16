@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/escape/341485268.html", "image": "ford4-18.jpg", "model": "Ford Escape", "year": "2002", "price:": "649 000 ₽", "hp": "3.0 л (203 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "201 468 км"}

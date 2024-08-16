@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/kingisepp/mercedes-benz/e-class/153241494.html", "image": "mercedes-benz39-11.jpg", "model": "Mercedes-Benz E-Class", "year": "1997", "price": "250 000 ₽", "engine": "2.0 л (136 л.с.),", "transmission": "бензин,", "drive": "механика,"}

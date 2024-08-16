@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/c-class/657755456.html", "image": "mercedes-benz35-0.jpg", "model": "Mercedes-Benz C-Class", "year": "2018", "price:": "2 290 000 ₽", "hp": "2.0 л (194 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "231 380 км"}

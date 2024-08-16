@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/pskov/bmw/2-series_gran_tourer/554505696.html", "image": "bmw44-14.jpg", "model": "BMW 2-Series Gran Tourer", "year": "2020", "price": "1 982 000 ₽", "engine": "1.5 л (140 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

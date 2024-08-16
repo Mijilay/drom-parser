@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/fiesta/519549419.html", "image": "ford7-16.jpg", "model": "Ford Fiesta", "year": "2011", "price:": "650 000 ₽", "hp": "1.4 л (96 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "248 000 км"}

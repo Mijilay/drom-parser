@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/mondeo/312818242.html", "image": "ford3-16.jpg", "model": "Ford Mondeo", "year": "2002", "price:": "500 000 ₽", "hp": "2.0 л (146 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "271 000 км"}

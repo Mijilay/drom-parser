@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/demio/283448424.html", "image": "mazda11-18.jpg", "model": "Mazda Demio", "year": "2016", "price:": "900 000 ₽", "hp": "1.3 л (92 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "140 000 км"}

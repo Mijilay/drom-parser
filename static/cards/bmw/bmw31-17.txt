@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/1-series/540766630.html", "image": "bmw31-17.jpg", "model": "BMW 1-Series", "year": "2011", "price:": "999 000 ₽", "hp": "1.6 л (136 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "161 832 км"}

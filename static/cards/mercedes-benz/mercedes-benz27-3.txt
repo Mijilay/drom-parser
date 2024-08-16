@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/gl-class/612208026.html", "image": "mercedes-benz27-3.jpg", "model": "Mercedes-Benz GL-Class", "year": "2012", "price:": "2 099 000 ₽", "hp": "3.0 л (224 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "158 000 км"}

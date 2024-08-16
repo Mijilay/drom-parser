@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/sosnoviy-bor/bmw/5-series/785240909.html", "image": "bmw44-6.jpg", "model": "BMW 5-Series", "year": "2014", "price": "2 100 000 ₽", "engine": "2.0 л (184 л.с.),", "transmission": "дизель,", "drive": "АКПП,"}

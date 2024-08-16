@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/econoline/530787329.html", "image": "ford19-7.jpg", "model": "Ford Econoline", "year": "1987", "price:": "750 000 ₽", "hp": "4.0 л (155 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "задний,", "mileage": "100 000 км"}

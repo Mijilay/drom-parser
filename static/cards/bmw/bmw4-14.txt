@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/3-series/259551904.html", "image": "bmw4-14.jpg", "model": "BMW 3-Series", "year": "1994", "price:": "185 000 ₽", "hp": "1.6 л (102 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "444 444 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/mazda6/924795968.html", "image": "mazda4-3.jpg", "model": "Mazda Mazda6", "year": "2010", "price:": "759 000 ₽", "hp": "2.0 л (147 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "212 569 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/7-series/891242186.html", "image": "bmw22-17.jpg", "model": "BMW 7-Series", "year": "2019", "price:": "5 645 000 ₽", "hp": "3.0 л (249 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "125 397 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/explorer/691266467.html", "image": "ford25-2.jpg", "model": "Ford Explorer", "year": "2007", "price:": "1 500 000 ₽", "hp": "4.6 л (296 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "220 000 км"}

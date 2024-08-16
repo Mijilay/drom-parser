@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/3-series/310391601.html", "image": "bmw33-1.jpg", "model": "BMW 3-Series", "year": "2015", "price:": "1 990 000 ₽", "hp": "2.0 л (184 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "195 100 км"}

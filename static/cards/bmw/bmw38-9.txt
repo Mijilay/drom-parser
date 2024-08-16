@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x5/721154981.html", "image": "bmw38-9.jpg", "model": "BMW X5", "year": "2014", "price:": "3 250 000 ₽", "hp": "3.0 л (218 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "182 445 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x4/902419763.html", "image": "bmw8-0.jpg", "model": "BMW X4", "year": "2022", "price:": "7 250 000 ₽", "hp": "2.0 л (184 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "9 600 км"}

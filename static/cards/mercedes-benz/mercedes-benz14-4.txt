@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/e-class/743767231.html", "image": "mercedes-benz14-4.jpg", "model": "Mercedes-Benz E-Class", "year": "2014", "price:": "1 685 000 ₽", "hp": "2.0 л (184 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "155 000 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/407/735210401.html", "image": "peugeot10-5.jpg", "model": "Peugeot 407", "year": "2008", "price:": "249 990 ₽", "hp": "2.0 л (136 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "передний,", "mileage": "199 878 км"}

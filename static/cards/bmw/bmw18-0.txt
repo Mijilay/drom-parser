@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/1-series/327869777.html", "image": "bmw18-0.jpg", "model": "BMW 1-Series", "year": "2020", "price:": "2 329 000 ₽", "hp": "1.5 л (140 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "84 000 км"}

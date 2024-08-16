@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/rx-8/122196078.html", "image": "mazda15-1.jpg", "model": "Mazda RX-8", "year": "2005", "price:": "800 000 ₽", "hp": "1.3 л (250 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "70 000 км"}

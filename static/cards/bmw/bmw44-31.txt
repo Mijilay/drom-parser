@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series/685244483.html", "image": "bmw44-31.jpg", "model": "BMW 5-Series", "year": "2022", "price:": "6 700 000 ₽", "hp": "2.0 л (292 л.с.),", "engine": "гибрид,", "transmission": "автомат,", "drive": "4WD,", "mileage": "5 984 км"}

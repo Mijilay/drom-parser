@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series/664719654.html", "image": "bmw18-19.jpg", "model": "BMW 5-Series", "year": "2008", "price:": "937 000 ₽", "hp": "2.0 л (163 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "задний,", "mileage": "333 000 км"}

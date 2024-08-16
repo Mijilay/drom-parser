@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/308/170257620.html", "image": "peugeot6-5.jpg", "model": "Peugeot 308", "year": "2019", "price:": "1 349 990 ₽", "hp": "1.5 л (102 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "передний,", "mileage": "149 266 км"}

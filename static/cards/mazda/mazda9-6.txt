@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/cx-4/272597304.html", "image": "mazda9-6.jpg", "model": "Mazda CX-4", "year": "2023", "price:": "4 180 000 ₽", "hp": "2.0 л (158 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний"}

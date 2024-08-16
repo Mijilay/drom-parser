@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/focus/933231481.html", "image": "ford13-10.jpg", "model": "Ford Focus", "year": "2014", "price:": "795 000 ₽", "hp": "1.6 л (125 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "177 000 км"}

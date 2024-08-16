@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/focus/105341463.html", "image": "ford3-5.jpg", "model": "Ford Focus", "year": "2006", "price:": "500 000 ₽", "hp": "2.0 л (145 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "271 547 км"}

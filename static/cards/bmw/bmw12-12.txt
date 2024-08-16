@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/4-series/554281791.html", "image": "bmw12-12.jpg", "model": "BMW 4-Series", "year": "2014", "price:": "2 549 000 ₽", "hp": "2.0 л (184 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "159 660 км"}

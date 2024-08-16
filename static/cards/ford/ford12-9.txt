@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/explorer/53653393.html", "image": "ford12-9.jpg", "model": "Ford Explorer", "year": "2012", "price:": "1 900 000 ₽", "hp": "3.5 л (290 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "150 000 км"}

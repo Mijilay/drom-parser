@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/kingisepp/bmw/5-series/818186323.html", "image": "bmw44-8.jpg", "model": "BMW 5-Series", "year": "2003", "price": "900 000 ₽", "engine": "3.0 л (231 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

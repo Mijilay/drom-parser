@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/b-class/511369358.html", "image": "mercedes-benz15-2.jpg", "model": "Mercedes-Benz B-Class", "year": "2009", "price:": "690 000 ₽", "hp": "2.0 л (136 л.с.),", "engine": "бензин,", "transmission": "вариатор,", "drive": "передний,", "mileage": "217 000 км"}

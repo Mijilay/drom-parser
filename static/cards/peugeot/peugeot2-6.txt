@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/partner/313775840.html", "image": "peugeot2-6.jpg", "model": "Peugeot Partner", "year": "2008", "price:": "310 000 ₽", "hp": "1.9 л (71 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "передний,", "mileage": "400 000 км"}

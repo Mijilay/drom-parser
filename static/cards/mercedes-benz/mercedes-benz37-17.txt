@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/s-class/633315946.html", "image": "mercedes-benz37-17.jpg", "model": "Mercedes-Benz S-Class", "year": "2018", "price:": "3 850 000 ₽", "hp": "2.9 л (249 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "340 000 км"}

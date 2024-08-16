@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/pskov/peugeot/308/255164854.html", "image": "peugeot12-9.jpg", "model": "Peugeot 308", "year": "2008", "price": "400 000 ₽", "engine": "1.6 л (120 л.с.),", "transmission": "бензин,", "drive": "механика,"}

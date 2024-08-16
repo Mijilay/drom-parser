@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/508/604701290.html", "image": "peugeot6-2.jpg", "model": "Peugeot 508", "year": "2014", "price:": "1 220 000 ₽", "hp": "1.6 л (150 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "171 924 км"}

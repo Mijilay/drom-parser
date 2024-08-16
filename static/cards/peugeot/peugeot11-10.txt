@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/partner/424862766.html", "image": "peugeot11-10.jpg", "model": "Peugeot Partner", "year": "2012", "price:": "1 350 000 ₽", "hp": "2.2 л (120 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "передний,", "mileage": "265 000 км"}

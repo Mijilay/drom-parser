@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/sertolovo/ford/explorer/560051855.html", "image": "ford31-7.jpg", "model": "Ford Explorer", "year": "1996", "price": "250 000 ₽", "engine": "4.0 л (205 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

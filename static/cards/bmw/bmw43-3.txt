@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/4-series/54032265.html", "image": "bmw43-3.jpg", "model": "BMW 4-Series", "year": "2020", "price:": "5 450 000 ₽", "hp": "2.0 л (190 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "76 000 км"}

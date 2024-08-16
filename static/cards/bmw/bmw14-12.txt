@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/7-series/332096123.html", "image": "bmw14-12.jpg", "model": "BMW 7-Series", "year": "2012", "price:": "1 524 000 ₽", "hp": "3.0 л (306 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "290 921 км"}

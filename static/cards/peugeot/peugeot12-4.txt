@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/kuznechnoe/peugeot/3008/336945629.html", "image": "peugeot12-4.jpg", "model": "Peugeot 3008", "year": "2019", "price": "1 930 000 ₽", "engine": "1.5 л (130 л.с.),", "transmission": "дизель,", "drive": "механика,"}

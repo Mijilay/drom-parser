@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/3-series_gran_turismo/53473638.html", "image": "bmw33-6.jpg", "model": "BMW 3-Series Gran Turismo", "year": "2013", "price:": "1 699 099 ₽", "hp": "2.0 л (245 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "147 067 км"}

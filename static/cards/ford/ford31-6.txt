@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/vsevolozhsk/ford/focus/227893751.html", "image": "ford31-6.jpg", "model": "Ford Focus", "year": "2005", "price": "215 000 ₽", "engine": "1.6 л (100 л.с.),", "transmission": "бензин,", "drive": "механика,"}

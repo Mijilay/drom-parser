@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/mondeo/910058777.html", "image": "ford1-5.jpg", "model": "Ford Mondeo", "year": "1996", "price:": "100 000 ₽", "hp": "2.0 л (130 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "200 000 км"}

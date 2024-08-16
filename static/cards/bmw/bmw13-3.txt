@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x7/525540922.html", "image": "bmw13-3.jpg", "model": "BMW X7", "year": "2020", "price:": "8 684 000 ₽", "hp": "3.0 л (249 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "61 833 км"}

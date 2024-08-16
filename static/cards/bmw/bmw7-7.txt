@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x1/704557785.html", "image": "bmw7-7.jpg", "model": "BMW X1", "year": "2011", "price:": "1 200 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "204 000 км"}

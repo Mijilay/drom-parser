@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/z4/878027572.html", "image": "bmw25-6.jpg", "model": "BMW Z4", "year": "2019", "price:": "5 390 000 ₽", "hp": "3.0 л (340 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "55 458 км"}

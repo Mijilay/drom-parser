@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/406/344239263.html", "image": "peugeot9-12.jpg", "model": "Peugeot 406", "year": "2000", "price:": "140 000 ₽", "hp": "1.8 л (110 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "345 000 км"}

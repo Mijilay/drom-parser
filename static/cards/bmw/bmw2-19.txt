@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x7/332697736.html", "image": "bmw2-19.jpg", "model": "BMW X7", "year": "2021", "price:": "11 700 000 ₽", "hp": "4.4 л (530 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "60 407 км"}

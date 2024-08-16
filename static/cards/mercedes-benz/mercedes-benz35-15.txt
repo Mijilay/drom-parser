@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/c-class/797124741.html", "image": "mercedes-benz35-15.jpg", "model": "Mercedes-Benz C-Class", "year": "2006", "price:": "620 000 ₽", "hp": "2.5 л (204 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "299 997 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/6-series/169733403.html", "image": "bmw26-2.jpg", "model": "BMW 6-Series", "year": "2008", "price:": "1 369 000 ₽", "hp": "4.8 л (367 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "147 540 км"}

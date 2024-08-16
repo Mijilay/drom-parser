@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/307/213514476.html", "image": "peugeot6-9.jpg", "model": "Peugeot 307", "year": "2006", "price:": "230 000 ₽", "hp": "1.6 л (109 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "446 000 км"}

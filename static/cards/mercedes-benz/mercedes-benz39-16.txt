@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/velikiy-novgorod/mercedes-benz/e-class/391627591.html", "image": "mercedes-benz39-16.jpg", "model": "Mercedes-Benz E-Class", "year": "2013", "price": "2 000 000 ₽", "engine": "3.5 л (249 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

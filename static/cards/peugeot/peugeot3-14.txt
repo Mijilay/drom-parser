@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/4008/619186459.html", "image": "peugeot3-14.jpg", "model": "Peugeot 4008", "year": "2012", "price:": "1 119 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "бензин,", "transmission": "вариатор,", "drive": "4WD,", "mileage": "205 000 км"}

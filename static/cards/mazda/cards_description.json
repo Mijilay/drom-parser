@@ -1,0 +1,5403 @@
+[
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/599027954.html",
+        "image": "1-0.jpg",
+        "model": "Mazda CX-5",
+        "year": "2012",
+        "price": "1 350 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "246 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/131035403.html",
+        "image": "1-1.jpg",
+        "model": "Mazda CX-5",
+        "year": "2019",
+        "price": "2 850 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "120 910 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/119907853.html",
+        "image": "1-2.jpg",
+        "model": "Mazda CX-5",
+        "year": "2021",
+        "price": "3 309 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "67 539 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/266125700.html",
+        "image": "1-3.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2014",
+        "price": "1 300 000 ₽",
+        "card_description": [
+            "1.5 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "228 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/779914572.html",
+        "image": "1-4.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2011",
+        "price": "899 000 ₽",
+        "card_description": [
+            "1.8 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "241 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/921998298.html",
+        "image": "1-5.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2017",
+        "price": "1 849 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "158 516 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-8/919344605.html",
+        "image": "1-6.jpg",
+        "model": "Mazda CX-8",
+        "year": "2019",
+        "price": "3 150 000 ₽",
+        "card_description": [
+            "2.2 л (190 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "4WD,",
+            "52 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/875058417.html",
+        "image": "1-7.jpg",
+        "model": "Mazda CX-5",
+        "year": "2017",
+        "price": "2 149 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "113 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/858996196.html",
+        "image": "1-8.jpg",
+        "model": "Mazda CX-5",
+        "year": "2015",
+        "price": "1 780 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "124 755 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-9/724575533.html",
+        "image": "1-9.jpg",
+        "model": "Mazda CX-9",
+        "year": "2017",
+        "price": "2 910 000 ₽",
+        "card_description": [
+            "2.5 л (231 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "97 139 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/613481397.html",
+        "image": "1-10.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2013",
+        "price": "1 019 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "187 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/514929989.html",
+        "image": "1-11.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2016",
+        "price": "1 690 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "82 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/428893555.html",
+        "image": "1-12.jpg",
+        "model": "Mazda CX-5",
+        "year": "2019",
+        "price": "2 180 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "117 247 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/334413915.html",
+        "image": "1-13.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2020",
+        "price": "2 419 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "94 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/248428740.html",
+        "image": "1-14.jpg",
+        "model": "Mazda CX-5",
+        "year": "2018",
+        "price": "2 240 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "110 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/106136829.html",
+        "image": "1-15.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2012",
+        "price": "970 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "127 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda2/53360374.html",
+        "image": "1-16.jpg",
+        "model": "Mazda Mazda2",
+        "year": "2008",
+        "price": "675 000 ₽",
+        "card_description": [
+            "1.5 л (103 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "180 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/718986520.html",
+        "image": "1-17.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2021",
+        "price": "2 650 000 ₽",
+        "card_description": [
+            "2.0 л (145 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний,",
+            "47 003 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/490579463.html",
+        "image": "1-18.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2006",
+        "price": "399 000 ₽",
+        "card_description": [
+            "2.3 л (166 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "277 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-7/301351451.html",
+        "image": "1-19.jpg",
+        "model": "Mazda CX-7",
+        "year": "2007",
+        "price": "970 000 ₽",
+        "card_description": [
+            "2.3 л (238 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "171 111 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/575522608.html",
+        "image": "2-0.jpg",
+        "model": "Mazda CX-5",
+        "year": "2017",
+        "price": "2 659 000 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "111 700 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/348770681.html",
+        "image": "2-1.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2006",
+        "price": "515 000 ₽",
+        "card_description": [
+            "бензин,",
+            "механика,",
+            "213 215 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/194785755.html",
+        "image": "2-2.jpg",
+        "model": "Mazda CX-5",
+        "year": "2016",
+        "price": "1 920 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "216 930 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/709431767.html",
+        "image": "2-3.jpg",
+        "model": "Mazda CX-5",
+        "year": "2018",
+        "price": "2 732 021 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "79 345 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/579895113.html",
+        "image": "2-4.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2008",
+        "price": "800 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "149 114 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/567120510.html",
+        "image": "2-5.jpg",
+        "model": "Mazda CX-5",
+        "year": "2017",
+        "price": "2 245 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "80 500 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/285714115.html",
+        "image": "2-6.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2017",
+        "price": "1 849 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "198 367 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda5/227525071.html",
+        "image": "2-7.jpg",
+        "model": "Mazda Mazda5",
+        "year": "2011",
+        "price": "1 050 000 ₽",
+        "card_description": [
+            "2.0 л (144 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "210 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/105358730.html",
+        "image": "2-8.jpg",
+        "model": "Mazda CX-5",
+        "year": "2017",
+        "price": "1 819 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "145 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/654766537.html",
+        "image": "2-9.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2015",
+        "price": "1 850 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "183 746 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-9/815495734.html",
+        "image": "2-10.jpg",
+        "model": "Mazda CX-9",
+        "year": "2020",
+        "price": "3 999 000 ₽",
+        "card_description": [
+            "2.5 л (231 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "110 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/682338979.html",
+        "image": "2-11.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2011",
+        "price": "633 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "310 569 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/163372117.html",
+        "image": "2-12.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2007",
+        "price": "348 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "303 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/339326874.html",
+        "image": "2-13.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2007",
+        "price": "465 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "216 243 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/874482005.html",
+        "image": "2-14.jpg",
+        "model": "Mazda CX-5",
+        "year": "2017",
+        "price": "2 449 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "146 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-7/592087287.html",
+        "image": "2-15.jpg",
+        "model": "Mazda CX-7",
+        "year": "2009",
+        "price": "1 365 000 ₽",
+        "card_description": [
+            "2.2 л (173 л.с.),",
+            "дизель,",
+            "механика,",
+            "4WD,",
+            "190 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/170140002.html",
+        "image": "2-16.jpg",
+        "model": "Mazda CX-5",
+        "year": "2014",
+        "price": "1 576 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "165 210 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/422070915.html",
+        "image": "2-17.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2011",
+        "price": "939 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "195 732 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/482396329.html",
+        "image": "2-18.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2004",
+        "price": "530 000 ₽",
+        "card_description": [
+            "2.3 л (160 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "262 240 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-9/118494111.html",
+        "image": "2-19.jpg",
+        "model": "Mazda CX-9",
+        "year": "2020",
+        "price": "3 990 000 ₽",
+        "card_description": [
+            "2.5 л (231 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "81 142 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/163389688.html",
+        "image": "3-0.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2018",
+        "price": "2 125 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "113 834 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/147709213.html",
+        "image": "3-1.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2006",
+        "price": "348 000 ₽",
+        "card_description": [
+            "2.0 л (147 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "263 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/623987833.html",
+        "image": "3-2.jpg",
+        "model": "Mazda CX-5",
+        "year": "2016",
+        "price": "2 188 667 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "84 541 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/248184344.html",
+        "image": "3-3.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2012",
+        "price": "1 029 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "135 700 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/800282718.html",
+        "image": "3-4.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2010",
+        "price": "849 000 ₽",
+        "card_description": [
+            "2.0 л (147 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "239 800 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/199671660.html",
+        "image": "3-5.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2018",
+        "price": "1 649 000 ₽",
+        "card_description": [
+            "1.5 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "80 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-4/131300354.html",
+        "image": "3-6.jpg",
+        "model": "Mazda CX-4",
+        "year": "2023",
+        "price": "4 000 000 ₽",
+        "card_description": [
+            "2.0 л (158 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "868 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/801925090.html",
+        "image": "3-7.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2007",
+        "price": "530 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "240 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/372870979.html",
+        "image": "3-8.jpg",
+        "model": "Mazda CX-5",
+        "year": "2019",
+        "price": "2 790 000 ₽",
+        "card_description": [
+            "2.5 л (190 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "52 800 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-7/207549968.html",
+        "image": "3-9.jpg",
+        "model": "Mazda CX-7",
+        "year": "2011",
+        "price": "1 050 000 ₽",
+        "card_description": [
+            "2.5 л (163 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "199 125 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/605527315.html",
+        "image": "3-10.jpg",
+        "model": "Mazda CX-5",
+        "year": "2014",
+        "price": "1 450 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "252 366 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/832579449.html",
+        "image": "3-11.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2016",
+        "price": "1 929 870 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "143 310 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/626/105417038.html",
+        "image": "3-12.jpg",
+        "model": "Mazda 626",
+        "year": "1996",
+        "price": "90 000 ₽",
+        "card_description": [
+            "1.8 л (90 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "400 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/453228271.html",
+        "image": "3-13.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2007",
+        "price": "540 750 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "186 730 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/109598475.html",
+        "image": "3-14.jpg",
+        "model": "Mazda CX-5",
+        "year": "2022",
+        "price": "3 755 444 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "50 314 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/695117667.html",
+        "image": "3-15.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2013",
+        "price": "1 819 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "87 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/679065649.html",
+        "image": "3-16.jpg",
+        "model": "Mazda CX-5",
+        "year": "2015",
+        "price": "2 055 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "139 260 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/522776278.html",
+        "image": "3-17.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2017",
+        "price": "1 990 000 ₽",
+        "card_description": [
+            "2.2 л (150 л.с.),",
+            "дизель,",
+            "автомат,",
+            "передний,",
+            "169 257 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/292031666.html",
+        "image": "3-18.jpg",
+        "model": "Mazda CX-5",
+        "year": "2012",
+        "price": "1 525 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "193 549 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/xedos_6/52419767.html",
+        "image": "3-19.jpg",
+        "model": "Mazda Xedos 6",
+        "year": "1998",
+        "price": "250 000 ₽",
+        "card_description": [
+            "2.0 л (140 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "224 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/489461141.html",
+        "image": "4-0.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2009",
+        "price": "1 090 000 ₽",
+        "card_description": [
+            "2.0 л (147 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "230 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-8/874740683.html",
+        "image": "4-1.jpg",
+        "model": "Mazda CX-8",
+        "year": "2017",
+        "price": "2 600 000 ₽",
+        "card_description": [
+            "2.2 л (190 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "4WD,",
+            "140 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/794265992.html",
+        "image": "4-2.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2017",
+        "price": "1 699 999 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "160 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mpv/662847614.html",
+        "image": "4-3.jpg",
+        "model": "Mazda MPV",
+        "year": "2004",
+        "price": "465 000 ₽",
+        "card_description": [
+            "3.0 л (200 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "228 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/519743864.html",
+        "image": "4-4.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2019",
+        "price": "2 750 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "74 200 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-30/471282160.html",
+        "image": "4-5.jpg",
+        "model": "Mazda CX-30",
+        "year": "2023",
+        "price": "3 350 000 ₽",
+        "card_description": [
+            "2.0 л (156 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "10 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/362581704.html",
+        "image": "4-6.jpg",
+        "model": "Mazda CX-5",
+        "year": "2015",
+        "price": "2 110 000 ₽",
+        "card_description": [
+            "2.5 л (184 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "140 431 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/53095811.html",
+        "image": "4-7.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2016",
+        "price": "1 990 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "85 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mx-6/265327747.html",
+        "image": "4-8.jpg",
+        "model": "Mazda MX-6",
+        "year": "1993",
+        "price": "400 000 ₽",
+        "card_description": [
+            "2.0 л (115 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "277 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/175952250.html",
+        "image": "4-9.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2017",
+        "price": "2 329 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "97 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/697130252.html",
+        "image": "4-10.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2010",
+        "price": "800 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "215 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/397660140.html",
+        "image": "4-11.jpg",
+        "model": "Mazda CX-5",
+        "year": "2021",
+        "price": "3 685 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "36 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/793298469.html",
+        "image": "4-12.jpg",
+        "model": "Mazda CX-50",
+        "year": "2023",
+        "price": "5 350 000 ₽",
+        "card_description": [
+            "2.5 л (188 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "6 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/453066642.html",
+        "image": "4-13.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2016",
+        "price": "1 649 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "97 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/135377850.html",
+        "image": "4-14.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2012",
+        "price": "1 030 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "181 668 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/53697486.html",
+        "image": "4-15.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2011",
+        "price": "1 025 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "196 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/586183030.html",
+        "image": "4-16.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2012",
+        "price": "999 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "173 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/demio/778982577.html",
+        "image": "4-17.jpg",
+        "model": "Mazda Demio",
+        "year": "2015",
+        "price": "880 000 ₽",
+        "card_description": [
+            "1.5 л (105 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "4WD,",
+            "89 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/760152623.html",
+        "image": "4-18.jpg",
+        "model": "Mazda CX-5",
+        "year": "2020",
+        "price": "3 380 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "66 500 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/679596273.html",
+        "image": "4-19.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2007",
+        "price": "449 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "272 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/bt-50/330402859.html",
+        "image": "5-0.jpg",
+        "model": "Mazda BT-50",
+        "year": "2008",
+        "price": "529 000 ₽",
+        "card_description": [
+            "2.5 л (143 л.с.),",
+            "дизель,",
+            "механика,",
+            "4WD,",
+            "349 500 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-8/325015856.html",
+        "image": "5-1.jpg",
+        "model": "Mazda CX-8",
+        "year": "2019",
+        "price": "3 450 000 ₽",
+        "card_description": [
+            "2.2 л (190 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "4WD,",
+            "54 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/138406782.html",
+        "image": "5-2.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2017",
+        "price": "1 539 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "142 166 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/947645447.html",
+        "image": "5-3.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2006",
+        "price": "330 000 ₽",
+        "card_description": [
+            "1.8 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "198 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/419766847.html",
+        "image": "5-4.jpg",
+        "model": "Mazda CX-5",
+        "year": "2019",
+        "price": "3 120 000 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "83 604 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/tribute/689310627.html",
+        "image": "5-5.jpg",
+        "model": "Mazda Tribute",
+        "year": "2004",
+        "price": "475 000 ₽",
+        "card_description": [
+            "3.0 л (200 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "200 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/demio/879114640.html",
+        "image": "5-6.jpg",
+        "model": "Mazda Demio",
+        "year": "2009",
+        "price": "544 990 ₽",
+        "card_description": [
+            "1.3 л (91 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "172 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/678675577.html",
+        "image": "5-7.jpg",
+        "model": "Mazda CX-5",
+        "year": "2015",
+        "price": "1 999 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "152 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/322447839.html",
+        "image": "5-8.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2007",
+        "price": "375 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "311 200 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/553954549.html",
+        "image": "5-9.jpg",
+        "model": "Mazda CX-5",
+        "year": "2018",
+        "price": "3 050 000 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "85 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/161772873.html",
+        "image": "5-10.jpg",
+        "model": "Mazda CX-5",
+        "year": "2018",
+        "price": "2 769 000 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "123 506 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/224695783.html",
+        "image": "5-11.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2017",
+        "price": "1 931 532 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "152 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/854727007.html",
+        "image": "5-12.jpg",
+        "model": "Mazda CX-5",
+        "year": "2022",
+        "price": "3 741 254 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "56 083 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/924795968.html",
+        "image": "5-13.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2010",
+        "price": "759 000 ₽",
+        "card_description": [
+            "2.0 л (147 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "212 569 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mpv/602386991.html",
+        "image": "5-14.jpg",
+        "model": "Mazda MPV",
+        "year": "1999",
+        "price": "520 000 ₽",
+        "card_description": [
+            "2.0 л (135 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "150 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-7/491764746.html",
+        "image": "5-15.jpg",
+        "model": "Mazda CX-7",
+        "year": "2008",
+        "price": "750 000 ₽",
+        "card_description": [
+            "2.3 л (238 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "281 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3_mps/480843236.html",
+        "image": "5-16.jpg",
+        "model": "Mazda Mazda3 MPS",
+        "year": "2008",
+        "price": "1 490 000 ₽",
+        "card_description": [
+            "2.3 л (260 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "262 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/tribute/401951922.html",
+        "image": "5-17.jpg",
+        "model": "Mazda Tribute",
+        "year": "2002",
+        "price": "340 000 ₽",
+        "card_description": [
+            "2.0 л (124 л.с.),",
+            "бензин,",
+            "механика,",
+            "4WD,",
+            "292 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/168908588.html",
+        "image": "5-18.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2003",
+        "price": "400 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "300 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/926967834.html",
+        "image": "5-19.jpg",
+        "model": "Mazda CX-5",
+        "year": "2017",
+        "price": "2 817 070 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "64 300 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/480615438.html",
+        "image": "6-0.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2010",
+        "price": "775 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "215 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/356590125.html",
+        "image": "6-1.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 320 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний,",
+            "5 624 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/630912672.html",
+        "image": "6-2.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "5 690 000 ₽",
+        "card_description": [
+            "2.5 л (196 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/104461023.html",
+        "image": "6-3.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2014",
+        "price": "1 609 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "140 415 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/541169068.html",
+        "image": "6-4.jpg",
+        "model": "Mazda CX-5",
+        "year": "2016",
+        "price": "2 050 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "122 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/401450312.html",
+        "image": "6-5.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2017",
+        "price": "1 845 000 ₽",
+        "card_description": [
+            "2.5 л (184 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "155 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/430701751.html",
+        "image": "6-6.jpg",
+        "model": "Mazda CX-5",
+        "year": "2017",
+        "price": "2 560 000 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "72 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/785083927.html",
+        "image": "6-7.jpg",
+        "model": "Mazda CX-5",
+        "year": "2019",
+        "price": "2 915 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "98 987 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/534514844.html",
+        "image": "6-8.jpg",
+        "model": "Mazda CX-5",
+        "year": "2017",
+        "price": "2 380 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "69 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/514943544.html",
+        "image": "6-9.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2008",
+        "price": "615 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "176 950 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/334709331.html",
+        "image": "6-10.jpg",
+        "model": "Mazda CX-5",
+        "year": "2013",
+        "price": "1 599 000 ₽",
+        "card_description": [
+            "2.2 л (175 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "4WD,",
+            "105 401 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/197580764.html",
+        "image": "6-11.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2011",
+        "price": "1 100 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "120 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/107614858.html",
+        "image": "6-12.jpg",
+        "model": "Mazda CX-5",
+        "year": "2016",
+        "price": "1 990 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "95 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/631638939.html",
+        "image": "6-13.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2008",
+        "price": "550 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "159 570 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-7/184956270.html",
+        "image": "6-14.jpg",
+        "model": "Mazda CX-7",
+        "year": "2011",
+        "price": "1 149 000 ₽",
+        "card_description": [
+            "2.5 л (163 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "233 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/181587104.html",
+        "image": "6-15.jpg",
+        "model": "Mazda CX-5",
+        "year": "2013",
+        "price": "1 999 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "62 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/376329335.html",
+        "image": "6-16.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2015",
+        "price": "1 799 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "201 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/672143567.html",
+        "image": "6-17.jpg",
+        "model": "Mazda CX-5",
+        "year": "2019",
+        "price": "3 175 850 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "45 250 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/426006763.html",
+        "image": "6-18.jpg",
+        "model": "Mazda CX-5",
+        "year": "2017",
+        "price": "2 130 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "113 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-7/505279703.html",
+        "image": "6-19.jpg",
+        "model": "Mazda CX-7",
+        "year": "2007",
+        "price": "725 000 ₽",
+        "card_description": [
+            "2.3 л (238 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "203 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-9/865430440.html",
+        "image": "7-0.jpg",
+        "model": "Mazda CX-9",
+        "year": "2018",
+        "price": "2 645 000 ₽",
+        "card_description": [
+            "2.5 л (231 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "165 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/630543502.html",
+        "image": "7-1.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2008",
+        "price": "515 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "310 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/489322096.html",
+        "image": "7-2.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2008",
+        "price": "900 000 ₽",
+        "card_description": [
+            "2.0 л (147 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "274 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/469899217.html",
+        "image": "7-3.jpg",
+        "model": "Mazda CX-5",
+        "year": "2019",
+        "price": "2 699 000 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "160 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/385541878.html",
+        "image": "7-4.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2007",
+        "price": "545 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "169 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/384137537.html",
+        "image": "7-5.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2019",
+        "price": "2 565 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "45 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/axela/52736466.html",
+        "image": "7-6.jpg",
+        "model": "Mazda Axela",
+        "year": "2015",
+        "price": "1 250 000 ₽",
+        "card_description": [
+            "1.5 л (111 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "141 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/383964909.html",
+        "image": "7-7.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2012",
+        "price": "860 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "203 818 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/947745570.html",
+        "image": "7-8.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 990 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/938716393.html",
+        "image": "7-9.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "3 940 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/933902440.html",
+        "image": "7-10.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "4 140 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/928607363.html",
+        "image": "7-11.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 990 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/911854001.html",
+        "image": "7-12.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "5 440 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/904642003.html",
+        "image": "7-13.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 800 000 ₽",
+        "card_description": [
+            "2.0 л (158 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/902095234.html",
+        "image": "7-14.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2006",
+        "price": "349 099 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "220 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/887159889.html",
+        "image": "7-15.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "4 140 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/885836118.html",
+        "image": "7-16.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 990 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/873473324.html",
+        "image": "7-17.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "5 740 000 ₽",
+        "card_description": [
+            "2.5 л (188 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/855959410.html",
+        "image": "7-18.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "4 140 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/846244887.html",
+        "image": "7-19.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2012",
+        "price": "899 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "172 253 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/834184266.html",
+        "image": "8-0.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 990 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/827193076.html",
+        "image": "8-1.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "5 740 000 ₽",
+        "card_description": [
+            "2.5 л (196 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/819560148.html",
+        "image": "8-2.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 990 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/808287462.html",
+        "image": "8-3.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "5 740 000 ₽",
+        "card_description": [
+            "2.5 л (196 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/764633916.html",
+        "image": "8-4.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "5 440 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/727390300.html",
+        "image": "8-5.jpg",
+        "model": "Mazda CX-50",
+        "year": "2023",
+        "price": "4 350 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/726741178.html",
+        "image": "8-6.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "4 140 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/723495988.html",
+        "image": "8-7.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "4 140 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/717107149.html",
+        "image": "8-8.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "4 140 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/699852779.html",
+        "image": "8-9.jpg",
+        "model": "Mazda CX-50",
+        "year": "2023",
+        "price": "4 350 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/694324868.html",
+        "image": "8-10.jpg",
+        "model": "Mazda CX-50",
+        "year": "2023",
+        "price": "4 350 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-4/691835221.html",
+        "image": "8-11.jpg",
+        "model": "Mazda CX-4",
+        "year": "2023",
+        "price": "4 180 000 ₽",
+        "card_description": [
+            "2.0 л (158 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/682212398.html",
+        "image": "8-12.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "3 940 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/682425249.html",
+        "image": "8-13.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 990 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/679268807.html",
+        "image": "8-14.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "5 440 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/678381669.html",
+        "image": "8-15.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 990 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/670821923.html",
+        "image": "8-16.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 990 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/667000392.html",
+        "image": "8-17.jpg",
+        "model": "Mazda CX-50",
+        "year": "2023",
+        "price": "4 350 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/656478808.html",
+        "image": "8-18.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "5 740 000 ₽",
+        "card_description": [
+            "2.5 л (196 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/629997883.html",
+        "image": "8-19.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 990 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/626363434.html",
+        "image": "9-0.jpg",
+        "model": "Mazda CX-50",
+        "year": "2023",
+        "price": "4 350 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/618014605.html",
+        "image": "9-1.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "5 440 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-4/590959209.html",
+        "image": "9-2.jpg",
+        "model": "Mazda CX-4",
+        "year": "2023",
+        "price": "4 180 000 ₽",
+        "card_description": [
+            "2.0 л (158 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-4/591010842.html",
+        "image": "9-3.jpg",
+        "model": "Mazda CX-4",
+        "year": "2023",
+        "price": "4 180 000 ₽",
+        "card_description": [
+            "2.0 л (158 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/574850765.html",
+        "image": "9-4.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "4 140 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/571827275.html",
+        "image": "9-5.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 990 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-9/539281622.html",
+        "image": "9-6.jpg",
+        "model": "Mazda CX-9",
+        "year": "2023",
+        "price": "7 200 000 ₽",
+        "card_description": [
+            "2.5 л (231 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/529022967.html",
+        "image": "9-7.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 800 000 ₽",
+        "card_description": [
+            "2.0 л (158 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/520524104.html",
+        "image": "9-8.jpg",
+        "model": "Mazda CX-50",
+        "year": "2023",
+        "price": "4 350 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/497116559.html",
+        "image": "9-9.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "3 940 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/471177655.html",
+        "image": "9-10.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "5 740 000 ₽",
+        "card_description": [
+            "2.5 л (188 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-4/469434731.html",
+        "image": "9-11.jpg",
+        "model": "Mazda CX-4",
+        "year": "2023",
+        "price": "4 180 000 ₽",
+        "card_description": [
+            "2.0 л (158 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/452456370.html",
+        "image": "9-12.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 990 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-4/443954072.html",
+        "image": "9-13.jpg",
+        "model": "Mazda CX-4",
+        "year": "2023",
+        "price": "4 180 000 ₽",
+        "card_description": [
+            "2.0 л (158 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/440049868.html",
+        "image": "9-14.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "5 440 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/399266480.html",
+        "image": "9-15.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 990 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/397272249.html",
+        "image": "9-16.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "5 740 000 ₽",
+        "card_description": [
+            "2.5 л (188 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/396002095.html",
+        "image": "9-17.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 990 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/rx-8/388637853.html",
+        "image": "9-18.jpg",
+        "model": "Mazda RX-8",
+        "year": "2005",
+        "price": "950 000 ₽",
+        "card_description": [
+            "1.3 л (250 л.с.),",
+            "бензин,",
+            "механика,",
+            "задний,",
+            "160 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/388952098.html",
+        "image": "9-19.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 990 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/386388685.html",
+        "image": "10-0.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "4 140 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/370392378.html",
+        "image": "10-1.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "4 140 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/361662297.html",
+        "image": "10-2.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "4 140 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/346854882.html",
+        "image": "10-3.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 990 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/345554987.html",
+        "image": "10-4.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "4 140 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/345572640.html",
+        "image": "10-5.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "4 140 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/342200667.html",
+        "image": "10-6.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 990 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/330848960.html",
+        "image": "10-7.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "5 440 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/322422538.html",
+        "image": "10-8.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 990 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-4/272597304.html",
+        "image": "10-9.jpg",
+        "model": "Mazda CX-4",
+        "year": "2023",
+        "price": "4 180 000 ₽",
+        "card_description": [
+            "2.0 л (158 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/254422499.html",
+        "image": "10-10.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "5 740 000 ₽",
+        "card_description": [
+            "2.5 л (188 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/237256559.html",
+        "image": "10-11.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "3 940 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/225025020.html",
+        "image": "10-12.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "5 440 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/194726123.html",
+        "image": "10-13.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 990 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/148828205.html",
+        "image": "10-14.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "3 940 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/52757952.html",
+        "image": "10-15.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2011",
+        "price": "1 525 000 ₽",
+        "card_description": [
+            "бензин,",
+            "автомат,",
+            "128 623 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/626/760615552.html",
+        "image": "10-16.jpg",
+        "model": "Mazda 626",
+        "year": "2001",
+        "price": "470 000 ₽",
+        "card_description": [
+            "2.0 л (136 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "90 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/714468655.html",
+        "image": "10-17.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2015",
+        "price": "2 137 250 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "61 757 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/687810089.html",
+        "image": "10-18.jpg",
+        "model": "Mazda CX-5",
+        "year": "2021",
+        "price": "3 550 000 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "35 100 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda2/776445037.html",
+        "image": "10-19.jpg",
+        "model": "Mazda Mazda2",
+        "year": "2007",
+        "price": "620 000 ₽",
+        "card_description": [
+            "1.5 л (103 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "65 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/762295216.html",
+        "image": "11-0.jpg",
+        "model": "Mazda CX-5",
+        "year": "2016",
+        "price": "1 939 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "130 893 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/616474443.html",
+        "image": "11-1.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2008",
+        "price": "780 000 ₽",
+        "card_description": [
+            "1.8 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "301 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/451131530.html",
+        "image": "11-2.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2018",
+        "price": "2 310 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "99 872 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/bt-50/211315200.html",
+        "image": "11-3.jpg",
+        "model": "Mazda BT-50",
+        "year": "2007",
+        "price": "650 000 ₽",
+        "card_description": [
+            "2.5 л (143 л.с.),",
+            "дизель,",
+            "механика,",
+            "4WD,",
+            "326 457 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/784234692.html",
+        "image": "11-4.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2010",
+        "price": "1 187 000 ₽",
+        "card_description": [
+            "2.0 л (147 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "113 500 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/940438805.html",
+        "image": "11-5.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2009",
+        "price": "1 020 000 ₽",
+        "card_description": [
+            "2.5 л (170 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "225 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/642484915.html",
+        "image": "11-6.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "4 100 000 ₽",
+        "card_description": [
+            "2.5 л (193 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "9 562 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda5/826823868.html",
+        "image": "11-7.jpg",
+        "model": "Mazda Mazda5",
+        "year": "2008",
+        "price": "629 000 ₽",
+        "card_description": [
+            "1.8 л (115 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "198 048 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/849875132.html",
+        "image": "11-8.jpg",
+        "model": "Mazda CX-5",
+        "year": "2016",
+        "price": "1 857 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "95 600 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/921593774.html",
+        "image": "11-9.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2007",
+        "price": "450 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "249 381 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/831594451.html",
+        "image": "11-10.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2012",
+        "price": "1 100 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "209 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/760670902.html",
+        "image": "11-11.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2010",
+        "price": "824 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "202 033 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/152122826.html",
+        "image": "11-12.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2015",
+        "price": "1 650 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "92 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/644347517.html",
+        "image": "11-13.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2008",
+        "price": "630 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "213 856 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/178051917.html",
+        "image": "11-14.jpg",
+        "model": "Mazda CX-5",
+        "year": "2019",
+        "price": "3 299 000 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "88 577 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/695297085.html",
+        "image": "11-15.jpg",
+        "model": "Mazda CX-5",
+        "year": "2013",
+        "price": "1 304 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "293 320 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/763298278.html",
+        "image": "11-16.jpg",
+        "model": "Mazda CX-5",
+        "year": "2012",
+        "price": "1 585 032 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "239 637 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/229552814.html",
+        "image": "11-17.jpg",
+        "model": "Mazda CX-5",
+        "year": "2017",
+        "price": "2 467 032 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "101 843 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-7/599619555.html",
+        "image": "11-18.jpg",
+        "model": "Mazda CX-7",
+        "year": "2012",
+        "price": "1 217 532 ₽",
+        "card_description": [
+            "2.3 л (238 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "204 270 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/593634550.html",
+        "image": "11-19.jpg",
+        "model": "Mazda CX-5",
+        "year": "2013",
+        "price": "1 519 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "176 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/484724266.html",
+        "image": "12-0.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2007",
+        "price": "819 000 ₽",
+        "card_description": [
+            "2.0 л (147 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "125 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/400680925.html",
+        "image": "12-1.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2008",
+        "price": "750 000 ₽",
+        "card_description": [
+            "2.0 л (147 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "250 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/108426858.html",
+        "image": "12-2.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2010",
+        "price": "1 305 000 ₽",
+        "card_description": [
+            "бензин,",
+            "автомат,",
+            "156 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/roadster/52842118.html",
+        "image": "12-3.jpg",
+        "model": "Mazda Roadster",
+        "year": "2001",
+        "price": "1 750 000 ₽",
+        "card_description": [
+            "1.8 л (160 л.с.),",
+            "бензин,",
+            "механика,",
+            "задний,",
+            "200 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/602831366.html",
+        "image": "12-4.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2005",
+        "price": "434 990 ₽",
+        "card_description": [
+            "2.0 л (141 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "199 878 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/565074991.html",
+        "image": "12-5.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 439 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний,",
+            "15 152 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/399806658.html",
+        "image": "12-6.jpg",
+        "model": "Mazda CX-5",
+        "year": "2018",
+        "price": "2 275 900 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "74 500 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/609047498.html",
+        "image": "12-7.jpg",
+        "model": "Mazda CX-5",
+        "year": "2016",
+        "price": "2 447 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "112 011 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-9/821275666.html",
+        "image": "12-8.jpg",
+        "model": "Mazda CX-9",
+        "year": "2018",
+        "price": "2 849 000 ₽",
+        "card_description": [
+            "2.5 л (231 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "185 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/252135568.html",
+        "image": "12-9.jpg",
+        "model": "Mazda CX-5",
+        "year": "2018",
+        "price": "3 120 201 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "67 030 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/646262114.html",
+        "image": "12-10.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2004",
+        "price": "350 000 ₽",
+        "card_description": [
+            "2.0 л (141 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "290 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/547764328.html",
+        "image": "12-11.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2007",
+        "price": "1 050 000 ₽",
+        "card_description": [
+            "2.0 л (147 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "170 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/529132002.html",
+        "image": "12-12.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2010",
+        "price": "1 000 000 ₽",
+        "card_description": [
+            "2.0 л (147 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "295 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-7/207836637.html",
+        "image": "12-13.jpg",
+        "model": "Mazda CX-7",
+        "year": "2010",
+        "price": "1 068 000 ₽",
+        "card_description": [
+            "2.2 л (173 л.с.),",
+            "дизель,",
+            "механика,",
+            "4WD,",
+            "229 810 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/778132255.html",
+        "image": "12-14.jpg",
+        "model": "Mazda CX-5",
+        "year": "2013",
+        "price": "1 515 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "149 710 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/744408607.html",
+        "image": "12-15.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2008",
+        "price": "599 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "227 385 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/326626176.html",
+        "image": "12-16.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2006",
+        "price": "495 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "164 835 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/demio/283448424.html",
+        "image": "12-17.jpg",
+        "model": "Mazda Demio",
+        "year": "2016",
+        "price": "900 000 ₽",
+        "card_description": [
+            "1.3 л (92 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "140 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/275428545.html",
+        "image": "12-18.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2011",
+        "price": "850 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "204 396 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-8/291441987.html",
+        "image": "12-19.jpg",
+        "model": "Mazda CX-8",
+        "year": "2019",
+        "price": "2 590 000 ₽",
+        "card_description": [
+            "2.2 л (190 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "4WD,",
+            "35 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/941886597.html",
+        "image": "13-0.jpg",
+        "model": "Mazda CX-5",
+        "year": "2018",
+        "price": "2 355 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "131 057 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/647830566.html",
+        "image": "13-1.jpg",
+        "model": "Mazda CX-5",
+        "year": "2017",
+        "price": "2 399 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "100 254 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/934225978.html",
+        "image": "13-2.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2007",
+        "price": "449 099 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "230 674 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-9/669979361.html",
+        "image": "13-3.jpg",
+        "model": "Mazda CX-9",
+        "year": "2020",
+        "price": "4 277 000 ₽",
+        "card_description": [
+            "2.5 л (231 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "40 853 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/624843353.html",
+        "image": "13-4.jpg",
+        "model": "Mazda CX-5",
+        "year": "2019",
+        "price": "2 917 000 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "75 076 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/838247301.html",
+        "image": "13-5.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2009",
+        "price": "870 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "148 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/219438708.html",
+        "image": "13-6.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2007",
+        "price": "730 000 ₽",
+        "card_description": [
+            "1.8 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "272 202 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/214751623.html",
+        "image": "13-7.jpg",
+        "model": "Mazda CX-5",
+        "year": "2012",
+        "price": "1 230 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "221 430 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/53145838.html",
+        "image": "13-8.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2015",
+        "price": "1 620 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "175 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/52692310.html",
+        "image": "13-9.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2004",
+        "price": "359 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "194 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-7/509319417.html",
+        "image": "13-10.jpg",
+        "model": "Mazda CX-7",
+        "year": "2007",
+        "price": "675 000 ₽",
+        "card_description": [
+            "2.3 л (238 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "245 469 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/275260706.html",
+        "image": "13-11.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "4 365 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/145879421.html",
+        "image": "13-12.jpg",
+        "model": "Mazda CX-5",
+        "year": "2019",
+        "price": "2 285 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "54 900 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/491339614.html",
+        "image": "13-13.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2011",
+        "price": "825 000 ₽",
+        "card_description": [
+            "1.8 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "231 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/750618086.html",
+        "image": "13-14.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2017",
+        "price": "1 780 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "216 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/protege/586942046.html",
+        "image": "13-15.jpg",
+        "model": "Mazda Protege",
+        "year": "1999",
+        "price": "220 000 ₽",
+        "card_description": [
+            "1.6 л (106 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний,",
+            "185 075 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-8/163033962.html",
+        "image": "13-16.jpg",
+        "model": "Mazda CX-8",
+        "year": "2017",
+        "price": "2 299 000 ₽",
+        "card_description": [
+            "2.2 л (190 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "4WD,",
+            "99 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda5/256517437.html",
+        "image": "13-17.jpg",
+        "model": "Mazda Mazda5",
+        "year": "2011",
+        "price": "1 081 041 ₽",
+        "card_description": [
+            "2.0 л (144 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "228 475 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/934995983.html",
+        "image": "13-18.jpg",
+        "model": "Mazda CX-5",
+        "year": "2019",
+        "price": "2 265 541 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "165 529 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/axela/550501501.html",
+        "image": "13-19.jpg",
+        "model": "Mazda Axela",
+        "year": "2006",
+        "price": "390 000 ₽",
+        "card_description": [
+            "1.5 л (114 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "250 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/demio/698001558.html",
+        "image": "14-0.jpg",
+        "model": "Mazda Demio",
+        "year": "1997",
+        "price": "285 000 ₽",
+        "card_description": [
+            "1.3 л (83 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "279 500 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-7/456706739.html",
+        "image": "14-1.jpg",
+        "model": "Mazda CX-7",
+        "year": "2011",
+        "price": "1 305 000 ₽",
+        "card_description": [
+            "2.5 л (163 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "182 636 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-7/393692539.html",
+        "image": "14-2.jpg",
+        "model": "Mazda CX-7",
+        "year": "2008",
+        "price": "815 000 ₽",
+        "card_description": [
+            "2.3 л (238 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "110 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/323/660822962.html",
+        "image": "14-3.jpg",
+        "model": "Mazda 323",
+        "year": "1999",
+        "price": "230 000 ₽",
+        "card_description": [
+            "1.5 л (88 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "318 322 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-7/724688650.html",
+        "image": "14-4.jpg",
+        "model": "Mazda CX-7",
+        "year": "2010",
+        "price": "1 100 000 ₽",
+        "card_description": [
+            "2.3 л (238 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "187 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/626/404009061.html",
+        "image": "14-5.jpg",
+        "model": "Mazda 626",
+        "year": "1989",
+        "price": "180 000 ₽",
+        "card_description": [
+            "2.0 л (90 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "300 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/demio/368839387.html",
+        "image": "14-6.jpg",
+        "model": "Mazda Demio",
+        "year": "2001",
+        "price": "350 000 ₽",
+        "card_description": [
+            "1.3 л (83 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "286 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/817038172.html",
+        "image": "14-7.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2006",
+        "price": "550 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "212 545 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/240626332.html",
+        "image": "14-8.jpg",
+        "model": "Mazda CX-5",
+        "year": "2019",
+        "price": "3 079 000 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "81 475 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/652114914.html",
+        "image": "14-9.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2008",
+        "price": "399 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "276 514 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/204866804.html",
+        "image": "14-10.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2007",
+        "price": "330 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "441 138 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/375138859.html",
+        "image": "14-11.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2010",
+        "price": "949 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "179 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/254975336.html",
+        "image": "14-12.jpg",
+        "model": "Mazda CX-5",
+        "year": "2018",
+        "price": "2 219 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "140 922 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/345972430.html",
+        "image": "14-13.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2007",
+        "price": "492 450 ₽",
+        "card_description": [
+            "2.0 л (147 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "271 468 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/760960612.html",
+        "image": "14-14.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2013",
+        "price": "1 106 555 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "177 272 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/649645284.html",
+        "image": "14-15.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2019",
+        "price": "2 499 000 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "128 360 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/412603033.html",
+        "image": "14-16.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2010",
+        "price": "930 000 ₽",
+        "card_description": [
+            "2.0 л (147 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "134 200 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/464107460.html",
+        "image": "14-17.jpg",
+        "model": "Mazda CX-5",
+        "year": "2018",
+        "price": "2 445 000 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "190 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/543240898.html",
+        "image": "14-18.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2011",
+        "price": "1 100 000 ₽",
+        "card_description": [
+            "2.0 л (147 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "201 351 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-3/52095075.html",
+        "image": "14-19.jpg",
+        "model": "Mazda CX-3",
+        "year": "2018",
+        "price": "1 850 000 ₽",
+        "card_description": [
+            "1.5 л (105 л.с.),",
+            "дизель,",
+            "АКПП,",
+            "4WD,",
+            "100 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/bt-50/592877998.html",
+        "image": "15-0.jpg",
+        "model": "Mazda BT-50",
+        "year": "2010",
+        "price": "619 000 ₽",
+        "card_description": [
+            "2.5 л (143 л.с.),",
+            "дизель,",
+            "механика,",
+            "4WD,",
+            "392 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/866256481.html",
+        "image": "15-1.jpg",
+        "model": "Mazda CX-5",
+        "year": "2015",
+        "price": "1 875 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "128 931 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/710915538.html",
+        "image": "15-2.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2008",
+        "price": "550 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "272 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/389816573.html",
+        "image": "15-3.jpg",
+        "model": "Mazda CX-5",
+        "year": "2012",
+        "price": "1 880 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "93 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/884898344.html",
+        "image": "15-4.jpg",
+        "model": "Mazda CX-5",
+        "year": "2016",
+        "price": "1 970 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "147 900 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/demio/335895727.html",
+        "image": "15-5.jpg",
+        "model": "Mazda Demio",
+        "year": "2005",
+        "price": "350 000 ₽",
+        "card_description": [
+            "1.3 л (91 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "190 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/730433976.html",
+        "image": "15-6.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2011",
+        "price": "699 000 ₽",
+        "card_description": [
+            "1.8 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "197 202 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/267427322.html",
+        "image": "15-7.jpg",
+        "model": "Mazda CX-5",
+        "year": "2017",
+        "price": "2 680 254 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "44 985 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/692151840.html",
+        "image": "15-8.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2015",
+        "price": "1 999 999 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "149 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/223479234.html",
+        "image": "15-9.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2013",
+        "price": "1 179 000 ₽",
+        "card_description": [
+            "1.5 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "150 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/bt-50/52550131.html",
+        "image": "15-10.jpg",
+        "model": "Mazda BT-50",
+        "year": "2010",
+        "price": "850 000 ₽",
+        "card_description": [
+            "2.5 л (143 л.с.),",
+            "дизель,",
+            "механика,",
+            "4WD,",
+            "203 345 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/601453125.html",
+        "image": "15-11.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2006",
+        "price": "375 000 ₽",
+        "card_description": [
+            "1.8 л (120 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "397 416 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-7/329681265.html",
+        "image": "15-12.jpg",
+        "model": "Mazda CX-7",
+        "year": "2011",
+        "price": "1 395 000 ₽",
+        "card_description": [
+            "2.3 л (238 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "116 641 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/rx-8/122196078.html",
+        "image": "15-13.jpg",
+        "model": "Mazda RX-8",
+        "year": "2005",
+        "price": "750 000 ₽",
+        "card_description": [
+            "1.3 л (250 л.с.),",
+            "бензин,",
+            "механика,",
+            "задний,",
+            "72 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/492907662.html",
+        "image": "15-14.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2011",
+        "price": "1 049 000 ₽",
+        "card_description": [
+            "2.0 л (147 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "295 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/251894193.html",
+        "image": "15-15.jpg",
+        "model": "Mazda CX-50",
+        "year": "2024",
+        "price": "4 500 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/399909528.html",
+        "image": "15-16.jpg",
+        "model": "Mazda CX-50",
+        "year": "2024",
+        "price": "4 500 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/231071931.html",
+        "image": "15-17.jpg",
+        "model": "Mazda CX-50",
+        "year": "2024",
+        "price": "4 500 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/208173341.html",
+        "image": "15-18.jpg",
+        "model": "Mazda CX-50",
+        "year": "2024",
+        "price": "4 500 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/149876132.html",
+        "image": "15-19.jpg",
+        "model": "Mazda CX-50",
+        "year": "2024",
+        "price": "4 500 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/304429209.html",
+        "image": "16-0.jpg",
+        "model": "Mazda CX-50",
+        "year": "2024",
+        "price": "4 500 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/445674299.html",
+        "image": "16-1.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "4 355 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/556221743.html",
+        "image": "16-2.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "4 355 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/856709995.html",
+        "image": "16-3.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "4 355 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/215385069.html",
+        "image": "16-4.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "4 355 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/119916845.html",
+        "image": "16-5.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "5 950 000 ₽",
+        "card_description": [
+            "2.5 л (196 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/650430416.html",
+        "image": "16-6.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "5 950 000 ₽",
+        "card_description": [
+            "2.5 л (196 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/460059300.html",
+        "image": "16-7.jpg",
+        "model": "Mazda CX-50",
+        "year": "2024",
+        "price": "4 500 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/491198461.html",
+        "image": "16-8.jpg",
+        "model": "Mazda CX-50",
+        "year": "2024",
+        "price": "4 500 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/166005507.html",
+        "image": "16-9.jpg",
+        "model": "Mazda CX-50",
+        "year": "2024",
+        "price": "4 500 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/642779840.html",
+        "image": "16-10.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "5 990 000 ₽",
+        "card_description": [
+            "2.5 л (196 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/525833683.html",
+        "image": "16-11.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "5 990 000 ₽",
+        "card_description": [
+            "2.5 л (196 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/259996697.html",
+        "image": "16-12.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "4 400 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/220394701.html",
+        "image": "16-13.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "4 400 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/808562041.html",
+        "image": "16-14.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "4 400 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/163012884.html",
+        "image": "16-15.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "5 990 000 ₽",
+        "card_description": [
+            "2.5 л (196 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/427792653.html",
+        "image": "16-16.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "5 990 000 ₽",
+        "card_description": [
+            "2.5 л (196 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/274268712.html",
+        "image": "16-17.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "5 990 000 ₽",
+        "card_description": [
+            "2.5 л (196 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/305683251.html",
+        "image": "16-18.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "5 990 000 ₽",
+        "card_description": [
+            "2.5 л (196 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/637600992.html",
+        "image": "16-19.jpg",
+        "model": "Mazda CX-50",
+        "year": "2024",
+        "price": "4 540 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/133354866.html",
+        "image": "17-0.jpg",
+        "model": "Mazda CX-50",
+        "year": "2024",
+        "price": "4 540 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/942357266.html",
+        "image": "17-1.jpg",
+        "model": "Mazda CX-50",
+        "year": "2024",
+        "price": "4 540 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/469012240.html",
+        "image": "17-2.jpg",
+        "model": "Mazda CX-50",
+        "year": "2024",
+        "price": "4 540 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/935197602.html",
+        "image": "17-3.jpg",
+        "model": "Mazda CX-50",
+        "year": "2024",
+        "price": "4 540 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-50/432668137.html",
+        "image": "17-4.jpg",
+        "model": "Mazda CX-50",
+        "year": "2024",
+        "price": "4 540 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/824177140.html",
+        "image": "17-5.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "4 355 000 ₽",
+        "card_description": [
+            "2.0 л (155 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/589045231.html",
+        "image": "17-6.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "5 950 000 ₽",
+        "card_description": [
+            "2.5 л (196 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/150541890.html",
+        "image": "17-7.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "5 950 000 ₽",
+        "card_description": [
+            "2.5 л (196 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/946016885.html",
+        "image": "17-8.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "5 950 000 ₽",
+        "card_description": [
+            "2.5 л (196 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/387672381.html",
+        "image": "17-9.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "5 950 000 ₽",
+        "card_description": [
+            "2.5 л (196 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/357708616.html",
+        "image": "17-10.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "5 690 000 ₽",
+        "card_description": [
+            "2.5 л (196 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/450526242.html",
+        "image": "17-11.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "5 999 000 ₽",
+        "card_description": [
+            "2.5 л (196 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/270865366.html",
+        "image": "17-12.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "4 290 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/655024462.html",
+        "image": "17-13.jpg",
+        "model": "Mazda CX-5",
+        "year": "2023",
+        "price": "5 749 000 ₽",
+        "card_description": [
+            "2.5 л (196 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/410045631.html",
+        "image": "17-14.jpg",
+        "model": "Mazda CX-5",
+        "year": "2024",
+        "price": "5 999 000 ₽",
+        "card_description": [
+            "2.5 л (196 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/173727075.html",
+        "image": "17-15.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2006",
+        "price": "599 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "228 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/53589698.html",
+        "image": "17-16.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2011",
+        "price": "1 045 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "205 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/849324829.html",
+        "image": "17-17.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2014",
+        "price": "1 400 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "230 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-9/752317428.html",
+        "image": "17-18.jpg",
+        "model": "Mazda CX-9",
+        "year": "2018",
+        "price": "2 595 667 ₽",
+        "card_description": [
+            "2.5 л (231 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "185 930 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/914247822.html",
+        "image": "17-19.jpg",
+        "model": "Mazda CX-5",
+        "year": "2012",
+        "price": "1 510 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "139 300 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/905661877.html",
+        "image": "18-0.jpg",
+        "model": "Mazda CX-5",
+        "year": "2015",
+        "price": "2 025 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "94 200 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/850453124.html",
+        "image": "18-1.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2005",
+        "price": "410 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "190 452 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/643032856.html",
+        "image": "18-2.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2019",
+        "price": "1 799 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "137 242 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/248036022.html",
+        "image": "18-3.jpg",
+        "model": "Mazda CX-5",
+        "year": "2015",
+        "price": "1 999 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "137 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/53062539.html",
+        "image": "18-4.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2009",
+        "price": "1 200 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "252 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/720253685.html",
+        "image": "18-5.jpg",
+        "model": "Mazda CX-5",
+        "year": "2012",
+        "price": "1 580 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "211 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/237387834.html",
+        "image": "18-6.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2011",
+        "price": "819 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "161 612 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/536158574.html",
+        "image": "18-7.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2012",
+        "price": "869 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "165 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/644999752.html",
+        "image": "18-8.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2020",
+        "price": "2 750 000 ₽",
+        "card_description": [
+            "2.5 л (231 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "103 593 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/439578857.html",
+        "image": "18-9.jpg",
+        "model": "Mazda CX-5",
+        "year": "2019",
+        "price": "2 550 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "21 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-9/383998099.html",
+        "image": "18-10.jpg",
+        "model": "Mazda CX-9",
+        "year": "2018",
+        "price": "2 890 000 ₽",
+        "card_description": [
+            "2.5 л (231 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "133 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/626/282874241.html",
+        "image": "18-11.jpg",
+        "model": "Mazda 626",
+        "year": "1998",
+        "price": "200 000 ₽",
+        "card_description": [
+            "2.0 л (115 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "236 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/252220241.html",
+        "image": "18-12.jpg",
+        "model": "Mazda CX-5",
+        "year": "2015",
+        "price": "1 579 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "244 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/52589635.html",
+        "image": "18-13.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2018",
+        "price": "1 840 000 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "74 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/908744664.html",
+        "image": "18-14.jpg",
+        "model": "Mazda CX-5",
+        "year": "2020",
+        "price": "3 088 088 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "25 800 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/935720803.html",
+        "image": "18-15.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2011",
+        "price": "990 000 ₽",
+        "card_description": [
+            "2.0 л (147 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "274 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/749579035.html",
+        "image": "18-16.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2016",
+        "price": "1 800 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "255 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/775677414.html",
+        "image": "18-17.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2008",
+        "price": "549 900 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "205 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/691500970.html",
+        "image": "18-18.jpg",
+        "model": "Mazda CX-5",
+        "year": "2017",
+        "price": "2 609 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "121 927 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/663521855.html",
+        "image": "18-19.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2014",
+        "price": "1 625 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "107 123 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/323/641983722.html",
+        "image": "19-0.jpg",
+        "model": "Mazda 323",
+        "year": "2002",
+        "price": "155 000 ₽",
+        "card_description": [
+            "1.6 л (95 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "193 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/347359778.html",
+        "image": "19-1.jpg",
+        "model": "Mazda CX-5",
+        "year": "2015",
+        "price": "1 899 600 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "180 259 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/demio/654843671.html",
+        "image": "19-2.jpg",
+        "model": "Mazda Demio",
+        "year": "2000",
+        "price": "284 900 ₽",
+        "card_description": [
+            "1.5 л (75 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний,",
+            "221 196 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/638006277.html",
+        "image": "19-3.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2009",
+        "price": "965 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "176 002 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/169355982.html",
+        "image": "19-4.jpg",
+        "model": "Mazda CX-5",
+        "year": "2017",
+        "price": "3 130 000 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "71 778 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/637272970.html",
+        "image": "19-5.jpg",
+        "model": "Mazda CX-5",
+        "year": "2012",
+        "price": "1 850 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "202 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/314527609.html",
+        "image": "19-6.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2017",
+        "price": "1 219 000 ₽",
+        "card_description": [
+            "1.5 л (120 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "350 318 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/626/666908017.html",
+        "image": "19-7.jpg",
+        "model": "Mazda 626",
+        "year": "1998",
+        "price": "175 000 ₽",
+        "card_description": [
+            "1.8 л (90 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "120 290 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-9/376460711.html",
+        "image": "19-8.jpg",
+        "model": "Mazda CX-9",
+        "year": "2021",
+        "price": "4 190 777 ₽",
+        "card_description": [
+            "2.5 л (231 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "59 887 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/371206315.html",
+        "image": "19-9.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2011",
+        "price": "755 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "224 461 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/707511173.html",
+        "image": "19-10.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2008",
+        "price": "535 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "218 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/656759577.html",
+        "image": "19-11.jpg",
+        "model": "Mazda CX-5",
+        "year": "2013",
+        "price": "1 470 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "196 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/891714810.html",
+        "image": "19-12.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2021",
+        "price": "2 927 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "34 088 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/706685388.html",
+        "image": "19-13.jpg",
+        "model": "Mazda CX-5",
+        "year": "2013",
+        "price": "1 640 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "190 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/axela/52099236.html",
+        "image": "19-14.jpg",
+        "model": "Mazda Axela",
+        "year": "2012",
+        "price": "1 150 000 ₽",
+        "card_description": [
+            "1.5 л (111 л.с.),",
+            "бензин,",
+            "вариатор,",
+            "передний,",
+            "98 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/620445854.html",
+        "image": "19-15.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2013",
+        "price": "1 750 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "159 500 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/axela/362339791.html",
+        "image": "19-16.jpg",
+        "model": "Mazda Axela",
+        "year": "2005",
+        "price": "449 000 ₽",
+        "card_description": [
+            "1.5 л (114 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "317 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/435208804.html",
+        "image": "19-17.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2016",
+        "price": "1 652 254 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "97 500 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-30/52062780.html",
+        "image": "19-18.jpg",
+        "model": "Mazda CX-30",
+        "year": "2022",
+        "price": "3 750 000 ₽",
+        "card_description": [
+            "2.5 л (189 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD,",
+            "4 219 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/487157949.html",
+        "image": "19-19.jpg",
+        "model": "Mazda CX-5",
+        "year": "2018",
+        "price": "2 727 000 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "112 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/143977404.html",
+        "image": "20-0.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2006",
+        "price": "479 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "273 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/tribute/871777828.html",
+        "image": "20-1.jpg",
+        "model": "Mazda Tribute",
+        "year": "2007",
+        "price": "1 049 000 ₽",
+        "card_description": [
+            "бензин,",
+            "автомат,",
+            "189 052 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/868464529.html",
+        "image": "20-2.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2021",
+        "price": "2 499 990 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "18 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/824108384.html",
+        "image": "20-3.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2014",
+        "price": "1 295 000 ₽",
+        "card_description": [
+            "2.5 л (192 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "158 922 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/586970877.html",
+        "image": "20-4.jpg",
+        "model": "Mazda CX-5",
+        "year": "2021",
+        "price": "2 930 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "103 777 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/917509011.html",
+        "image": "20-5.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2008",
+        "price": "980 000 ₽",
+        "card_description": [
+            "2.0 л (147 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "132 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-60/702021823.html",
+        "image": "20-6.jpg",
+        "model": "Mazda CX-60",
+        "year": "2023",
+        "price": "7 200 000 ₽",
+        "card_description": [
+            "2.5 л (188 л.с.),",
+            "бензин,",
+            "автомат,",
+            "4WD"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/cx-5/455711477.html",
+        "image": "20-7.jpg",
+        "model": "Mazda CX-5",
+        "year": "2017",
+        "price": "2 399 777 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "4WD,",
+            "128 426 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/531058743.html",
+        "image": "20-8.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2007",
+        "price": "800 000 ₽",
+        "card_description": [
+            "2.0 л (147 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "255 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/180041142.html",
+        "image": "20-9.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2019",
+        "price": "2 700 000 ₽",
+        "card_description": [
+            "2.0 л (150 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "101 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda6/403173533.html",
+        "image": "20-10.jpg",
+        "model": "Mazda Mazda6",
+        "year": "2023",
+        "price": "3 680 000 ₽",
+        "card_description": [
+            "2.5 л (194 л.с.),",
+            "бензин,",
+            "автомат,",
+            "передний,",
+            "8 500 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/529469256.html",
+        "image": "20-11.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2017",
+        "price": "1 538 000 ₽",
+        "card_description": [
+            "1.6 л (104 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "88 710 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda3/517298257.html",
+        "image": "20-12.jpg",
+        "model": "Mazda Mazda3",
+        "year": "2005",
+        "price": "580 000 ₽",
+        "card_description": [
+            "1.6 л (105 л.с.),",
+            "бензин,",
+            "механика,",
+            "передний,",
+            "335 000 км"
+        ]
+    },
+    {
+        "link": "https://auto.drom.ru/spb/mazda/mazda5/53390200.html",
+        "image": "20-13.jpg",
+        "model": "Mazda Mazda5",
+        "year": "2011",
+        "price": "1 050 000 ₽",
+        "card_description": [
+            "2.0 л (144 л.с.),",
+            "бензин,",
+            "АКПП,",
+            "передний,",
+            "179 654 км"
+        ]
+    }
+]

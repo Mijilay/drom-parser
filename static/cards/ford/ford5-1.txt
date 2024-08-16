@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/mondeo/222596165.html", "image": "ford5-1.jpg", "model": "Ford Mondeo", "year": "2010", "price:": "499 000 ₽", "hp": "2.0 л (145 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "648 493 км"}

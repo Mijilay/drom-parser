@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/2-series_gran_tourer/687394381.html", "image": "bmw35-1.jpg", "model": "BMW 2-Series Gran Tourer", "year": "2017", "price:": "1 519 000 ₽", "hp": "1.5 л (116 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "передний,", "mileage": "193 500 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/pskov/bmw/3-series_gran_turismo/574034677.html", "image": "bmw44-20.jpg", "model": "BMW 3-Series Gran Turismo", "year": "2019", "price": "3 350 000 ₽", "engine": "2.0 л (184 л.с.),", "transmission": "дизель,", "drive": "АКПП,"}

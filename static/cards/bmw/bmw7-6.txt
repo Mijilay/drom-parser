@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x1/373543980.html", "image": "bmw7-6.jpg", "model": "BMW X1", "year": "2018", "price:": "2 650 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "107 000 км"}

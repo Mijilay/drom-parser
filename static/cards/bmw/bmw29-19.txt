@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/4-series/53875792.html", "image": "bmw29-19.jpg", "model": "BMW 4-Series", "year": "2013", "price:": "1 950 000 ₽", "hp": "2.0 л (184 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "212 000 км"}

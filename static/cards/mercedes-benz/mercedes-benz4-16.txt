@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/gls-class/802402918.html", "image": "mercedes-benz4-16.jpg", "model": "Mercedes-Benz GLS-Class", "year": "2023", "price:": "19 200 000 ₽", "hp": "3.0 л (367 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "26 км"}

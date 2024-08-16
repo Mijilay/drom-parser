@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/a-class/836705104.html", "image": "mercedes-benz9-8.jpg", "model": "Mercedes-Benz A-Class", "year": "2022", "price:": "3 495 000 ₽", "hp": "1.3 л (150 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "13 806 км"}

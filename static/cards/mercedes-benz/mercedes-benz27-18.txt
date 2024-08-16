@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/e-class/53842838.html", "image": "mercedes-benz27-18.jpg", "model": "Mercedes-Benz E-Class", "year": "1995", "price:": "200 000 ₽", "hp": "2.3 л (150 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "430 000 км"}

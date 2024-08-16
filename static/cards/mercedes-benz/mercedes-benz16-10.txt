@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/s-class/122615563.html", "image": "mercedes-benz16-10.jpg", "model": "Mercedes-Benz S-Class", "year": "2015", "price:": "4 830 000 ₽", "hp": "4.7 л (455 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "91 167 км"}

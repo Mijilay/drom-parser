@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/explorer/299565617.html", "image": "ford11-11.jpg", "model": "Ford Explorer", "year": "2019", "price:": "2 750 000 ₽", "hp": "3.5 л (249 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "130 911 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/z4/606826245.html", "image": "bmw31-16.jpg", "model": "BMW Z4", "year": "2003", "price:": "1 140 000 ₽", "hp": "2.5 л (192 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "183 000 км"}

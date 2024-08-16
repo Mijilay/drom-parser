@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/4007/409906893.html", "image": "peugeot1-14.jpg", "model": "Peugeot 4007", "year": "2008", "price:": "619 000 ₽", "hp": "2.2 л (156 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "4WD,", "mileage": "304 500 км"}

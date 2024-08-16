@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/xedos_6/52419767.html", "image": "mazda2-6.jpg", "model": "Mazda Xedos 6", "year": "1998", "price:": "250 000 ₽", "hp": "2.0 л (140 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "224 000 км"}

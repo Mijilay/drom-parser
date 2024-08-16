@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series/617514457.html", "image": "bmw20-15.jpg", "model": "BMW 5-Series", "year": "2015", "price": "2 187 000 ₽", "engine": "бензин,", "transmission": "автомат,", "drive": "165 372 км"}

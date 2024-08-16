@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/g-class/435806962.html", "image": "mercedes-benz22-4.jpg", "model": "Mercedes-Benz G-Class", "year": "2022", "price:": "28 500 000 ₽", "hp": "4.0 л (585 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "4WD,", "mileage": "8 000 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/c-class/706068722.html", "image": "mercedes-benz29-12.jpg", "model": "Mercedes-Benz C-Class", "year": "2008", "price:": "1 100 000 ₽", "hp": "2.1 л (170 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "264 000 км"}

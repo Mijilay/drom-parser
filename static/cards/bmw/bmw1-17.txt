@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series/284148444.html", "image": "bmw1-17.jpg", "model": "BMW 5-Series", "year": "1995", "price:": "295 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "410 000 км"}

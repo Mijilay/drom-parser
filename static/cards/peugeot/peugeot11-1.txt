@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/4008/53775483.html", "image": "peugeot11-1.jpg", "model": "Peugeot 4008", "year": "2023", "price:": "3 991 250 ₽", "hp": "1.6 л (170 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний"}

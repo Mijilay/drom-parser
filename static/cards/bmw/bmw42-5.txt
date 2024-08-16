@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x3/298778770.html", "image": "bmw42-5.jpg", "model": "BMW X3", "year": "2021", "price:": "5 350 000 ₽", "hp": "2.0 л (190 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "68 000 км"}

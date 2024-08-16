@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/406/447374363.html", "image": "peugeot9-10.jpg", "model": "Peugeot 406", "year": "2001", "price:": "234 900 ₽", "hp": "1.7 л (116 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "213 557 км"}

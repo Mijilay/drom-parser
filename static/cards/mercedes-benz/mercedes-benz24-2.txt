@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/cls-class/373236660.html", "image": "mercedes-benz24-2.jpg", "model": "Mercedes-Benz CLS-Class", "year": "2014", "price:": "4 850 000 ₽", "hp": "5.5 л (558 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "4WD,", "mileage": "93 000 км"}

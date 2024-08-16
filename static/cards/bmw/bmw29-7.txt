@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/2-series_active_tourer/350335138.html", "image": "bmw29-7.jpg", "model": "BMW 2-Series Active Tourer", "year": "2018", "price:": "1 890 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "4WD,", "mileage": "176 000 км"}

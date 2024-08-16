@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/ix/339285589.html", "image": "bmw12-9.jpg", "model": "BMW iX", "year": "2023", "price": "9 790 000 ₽", "engine": "автомат,", "transmission": "4WD,", "drive": "14 330 км"}

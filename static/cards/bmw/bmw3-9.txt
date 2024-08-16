@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series/834876782.html", "image": "bmw3-9.jpg", "model": "BMW 5-Series", "year": "2004", "price:": "1 700 000 ₽", "hp": "3.0 л (218 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "430 000 км"}

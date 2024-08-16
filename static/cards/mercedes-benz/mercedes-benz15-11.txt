@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/v-class/381228963.html", "image": "mercedes-benz15-11.jpg", "model": "Mercedes-Benz V-Class", "year": "2014", "price:": "3 270 000 ₽", "hp": "2.1 л (190 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "138 000 км"}

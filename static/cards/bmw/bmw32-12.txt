@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/3-series/386524022.html", "image": "bmw32-12.jpg", "model": "BMW 3-Series", "year": "2016", "price:": "1 599 000 ₽", "hp": "1.5 л (136 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "185 471 км"}

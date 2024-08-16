@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x2/182227941.html", "image": "bmw16-18.jpg", "model": "BMW X2", "year": "2020", "price:": "2 790 000 ₽", "hp": "1.5 л (136 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "39 487 км"}

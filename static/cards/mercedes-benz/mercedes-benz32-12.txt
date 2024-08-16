@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/e-class/640762553.html", "image": "mercedes-benz32-12.jpg", "model": "Mercedes-Benz E-Class", "year": "2002", "price:": "1 400 000 ₽", "hp": "5.0 л (306 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "340 000 км"}

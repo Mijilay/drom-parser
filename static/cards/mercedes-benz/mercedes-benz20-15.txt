@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/gla-class/759196388.html", "image": "mercedes-benz20-15.jpg", "model": "Mercedes-Benz GLA-Class", "year": "2020", "price:": "3 525 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "дизель,", "transmission": "робот,", "drive": "передний,", "mileage": "32 000 км"}

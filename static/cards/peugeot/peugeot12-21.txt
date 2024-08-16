@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/4008/539770943.html", "image": "peugeot12-21.jpg", "model": "Peugeot 4008", "year": "2021", "price:": "1 590 000 ₽", "hp": "1.6 л (170 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "29 000 км"}

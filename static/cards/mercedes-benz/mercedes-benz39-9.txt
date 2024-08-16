@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/kingisepp/mercedes-benz/a-class/576558003.html", "image": "mercedes-benz39-9.jpg", "model": "Mercedes-Benz A-Class", "year": "1998", "price": "152 990 ₽", "engine": "1.4 л (82 л.с.),", "transmission": "бензин,", "drive": "механика,"}

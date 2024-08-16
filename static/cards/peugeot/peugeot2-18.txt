@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/208/478311330.html", "image": "peugeot2-18.jpg", "model": "Peugeot 208", "year": "2013", "price:": "770 000 ₽", "hp": "1.6 л (120 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "135 863 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/c-class/915145116.html", "image": "mercedes-benz35-13.jpg", "model": "Mercedes-Benz C-Class", "year": "2007", "price:": "1 124 990 ₽", "hp": "3.0 л (231 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "295 050 км"}

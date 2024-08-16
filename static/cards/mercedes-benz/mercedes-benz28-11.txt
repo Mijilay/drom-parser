@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/mercedes/900957233.html", "image": "mercedes-benz28-11.jpg", "model": "Mercedes-Benz Mercedes", "year": "1992", "price:": "110 000 ₽", "hp": "2.6 л (132 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "111 111 км"}

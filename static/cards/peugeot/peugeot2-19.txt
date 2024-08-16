@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/2008/301329721.html", "image": "peugeot2-19.jpg", "model": "Peugeot 2008", "year": "2021", "price:": "2 409 000 ₽", "hp": "1.2 л (150 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "74 600 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series/791113135.html", "image": "bmw21-5.jpg", "model": "BMW 5-Series", "year": "1999", "price:": "620 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "233 000 км"}

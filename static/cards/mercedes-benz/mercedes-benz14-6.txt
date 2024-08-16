@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/clk-class/920996725.html", "image": "mercedes-benz14-6.jpg", "model": "Mercedes-Benz CLK-Class", "year": "1998", "price:": "500 000 ₽", "hp": "2.3 л (193 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "455 000 км"}

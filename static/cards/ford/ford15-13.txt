@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/mustang/869154535.html", "image": "ford15-13.jpg", "model": "Ford Mustang", "year": "2019", "price:": "3 150 000 ₽", "hp": "2.3 л (310 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "24 028 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/partner/698018373.html", "image": "peugeot2-16.jpg", "model": "Peugeot Partner", "year": "2010", "price:": "750 000 ₽", "hp": "1.6 л (90 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "передний,", "mileage": "240 000 км"}

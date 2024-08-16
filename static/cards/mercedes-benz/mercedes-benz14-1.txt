@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/viano/127646645.html", "image": "mercedes-benz14-1.jpg", "model": "Mercedes-Benz Viano", "year": "2007", "price:": "1 950 000 ₽", "hp": "3.2 л (190 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "285 000 км"}

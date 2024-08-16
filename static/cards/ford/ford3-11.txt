@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/galaxy/48414703.html", "image": "ford3-11.jpg", "model": "Ford Galaxy", "year": "2009", "price:": "1 400 000 ₽", "hp": "2.0 л (145 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "145 000 км"}

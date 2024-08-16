@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/cx-60/702021823.html", "image": "mazda20-1.jpg", "model": "Mazda CX-60", "year": "2023", "price:": "7 200 000 ₽", "hp": "2.5 л (188 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "4WD"}

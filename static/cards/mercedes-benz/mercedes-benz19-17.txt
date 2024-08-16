@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/glc-class/484097585.html", "image": "mercedes-benz19-17.jpg", "model": "Mercedes-Benz GLC", "year": "2016", "price:": "4 490 000 ₽", "hp": "3.0 л (367 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "73 100 км"}

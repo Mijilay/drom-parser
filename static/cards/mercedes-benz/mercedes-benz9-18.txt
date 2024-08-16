@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/e-class/888771925.html", "image": "mercedes-benz9-18.jpg", "model": "Mercedes-Benz E-Class", "year": "1998", "price:": "780 000 ₽", "hp": "2.0 л (186 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "243 000 км"}

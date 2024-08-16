@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x5/125231940.html", "image": "bmw23-16.jpg", "model": "BMW X5", "year": "2021", "price:": "6 995 000 ₽", "hp": "2.0 л (231 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "74 795 км"}

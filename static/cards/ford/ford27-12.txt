@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/explorer/763614614.html", "image": "ford27-12.jpg", "model": "Ford Explorer", "year": "1995", "price:": "200 000 ₽", "hp": "4.0 л (205 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "400 000 км"}

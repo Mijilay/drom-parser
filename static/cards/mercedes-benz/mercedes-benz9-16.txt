@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/glb/532466688.html", "image": "mercedes-benz9-16.jpg", "model": "Mercedes-Benz GLB-Class", "year": "2021", "price:": "4 399 000 ₽", "hp": "2.0 л (190 л.с.),", "engine": "дизель,", "transmission": "робот,", "drive": "4WD,", "mileage": "41 593 км"}

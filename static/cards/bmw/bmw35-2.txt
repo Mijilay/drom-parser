@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series/595813202.html", "image": "bmw35-2.jpg", "model": "BMW 5-Series", "year": "2014", "price:": "1 852 222 ₽", "hp": "2.0 л (245 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "150 000 км"}

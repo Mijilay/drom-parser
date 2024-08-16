@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/maverick/121175178.html", "image": "ford28-19.jpg", "model": "Ford Maverick", "year": "2003", "price:": "470 000 ₽", "hp": "3.0 л (197 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "302 000 км"}

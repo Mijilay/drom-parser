@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/cx-4/237434895.html", "image": "mazda21-38.jpg", "model": "Mazda CX-4", "year": "2021", "price:": "1 890 000 ₽", "hp": "2.0 л (158 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "11 000 км"}

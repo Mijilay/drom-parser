@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series/542637304.html", "image": "bmw4-11.jpg", "model": "BMW 5-Series", "year": "2011", "price:": "1 519 000 ₽", "hp": "3.0 л (258 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "149 071 км"}

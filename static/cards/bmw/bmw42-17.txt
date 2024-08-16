@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series/549452170.html", "image": "bmw42-17.jpg", "model": "BMW 5-Series", "year": "2014", "price:": "2 200 000 ₽", "hp": "2.0 л (218 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "208 000 км"}

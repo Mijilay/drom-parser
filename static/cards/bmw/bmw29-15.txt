@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x6/167192060.html", "image": "bmw29-15.jpg", "model": "BMW X6", "year": "2010", "price:": "1 650 000 ₽", "hp": "3.0 л (306 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "231 000 км"}

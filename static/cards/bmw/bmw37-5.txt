@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series/365779360.html", "image": "bmw37-5.jpg", "model": "BMW 5-Series", "year": "2007", "price:": "960 000 ₽", "hp": "2.0 л (163 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "задний,", "mileage": "379 457 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series/501404222.html", "image": "bmw26-12.jpg", "model": "BMW 5-Series", "year": "2006", "price:": "850 000 ₽", "hp": "2.5 л (177 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "320 000 км"}

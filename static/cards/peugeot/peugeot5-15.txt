@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/408/575738190.html", "image": "peugeot5-15.jpg", "model": "Peugeot 408", "year": "2020", "price:": "1 700 000 ₽", "hp": "1.6 л (114 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "передний,", "mileage": "23 148 км"}

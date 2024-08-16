@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/tourneo_connect/271443209.html", "image": "ford5-16.jpg", "model": "Ford Tourneo Connect", "year": "2003", "price:": "255 000 ₽", "hp": "1.8 л (115 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "355 000 км"}

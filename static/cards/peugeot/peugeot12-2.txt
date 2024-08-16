@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/shlisselburg/peugeot/308/801679949.html", "image": "peugeot12-2.jpg", "model": "Peugeot 308", "year": "2019", "price": "1 499 000 ₽", "engine": "1.5 л (131 л.с.),", "transmission": "дизель,", "drive": "АКПП,"}

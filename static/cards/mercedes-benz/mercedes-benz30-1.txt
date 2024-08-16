@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/c-class/610880471.html", "image": "mercedes-benz30-1.jpg", "model": "Mercedes-Benz C-Class", "year": "2019", "price:": "3 949 000 ₽", "hp": "3.0 л (390 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "97 431 км"}

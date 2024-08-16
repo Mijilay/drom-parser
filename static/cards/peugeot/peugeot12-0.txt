@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/traveller/176764237.html", "image": "peugeot12-0.jpg", "model": "Peugeot Traveller", "year": "2020", "price:": "3 039 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "передний,", "mileage": "233 832 км"}

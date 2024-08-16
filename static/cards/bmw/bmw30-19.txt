@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/3-series/225567507.html", "image": "bmw30-19.jpg", "model": "BMW 3-Series", "year": "2008", "price:": "819 000 ₽", "hp": "1.6 л (122 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "271 000 км"}

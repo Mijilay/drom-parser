@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/pskov/mazda/mazda6/220622656.html", "image": "mazda21-28.jpg", "model": "Mazda Mazda6", "year": "2017", "price": "2 200 000 ₽", "engine": "2.0 л (150 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

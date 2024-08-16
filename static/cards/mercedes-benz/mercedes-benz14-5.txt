@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/m-class/778079867.html", "image": "mercedes-benz14-5.jpg", "model": "Mercedes-Benz M-Class", "year": "2013", "price:": "2 089 000 ₽", "hp": "3.0 л (258 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "225 000 км"}

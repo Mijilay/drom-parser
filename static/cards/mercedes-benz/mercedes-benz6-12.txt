@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/b-class/734254344.html", "image": "mercedes-benz6-12.jpg", "model": "Mercedes-Benz B-Class", "year": "2012", "price:": "1 045 000 ₽", "hp": "1.6 л (156 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "205 338 км"}

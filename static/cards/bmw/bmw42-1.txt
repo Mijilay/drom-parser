@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/4-series/532972665.html", "image": "bmw42-1.jpg", "model": "BMW 4-Series", "year": "2022", "price:": "5 450 000 ₽", "hp": "2.0 л (245 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "задний,", "mileage": "11 160 км"}

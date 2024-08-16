@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/2-series/835573273.html", "image": "bmw40-8.jpg", "model": "BMW 2-Series", "year": "2020", "price:": "3 010 000 ₽", "hp": "1.5 л (140 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "47 000 км"}

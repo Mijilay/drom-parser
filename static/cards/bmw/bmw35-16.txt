@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x5/780875977.html", "image": "bmw35-16.jpg", "model": "BMW X5", "year": "2015", "price:": "3 400 000 ₽", "hp": "4.4 л (575 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD"}

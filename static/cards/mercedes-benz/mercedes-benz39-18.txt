@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/velikiy-novgorod/mercedes-benz/c-class/411672681.html", "image": "mercedes-benz39-18.jpg", "model": "Mercedes-Benz C-Class", "year": "2002", "price": "530 000 ₽", "engine": "1.8 л (143 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

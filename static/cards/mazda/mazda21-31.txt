@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/borovichi/mazda/mazda3/442288450.html", "image": "mazda21-31.jpg", "model": "Mazda Mazda3", "year": "2005", "price": "665 000 ₽", "engine": "1.6 л (105 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

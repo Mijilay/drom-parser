@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/galaxy/745104483.html", "image": "ford21-18.jpg", "model": "Ford Galaxy", "year": "2011", "price:": "1 145 000 ₽", "hp": "2.0 л (140 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "передний,", "mileage": "270 000 км"}

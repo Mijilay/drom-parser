@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/tribute/401951922.html", "image": "mazda4-9.jpg", "model": "Mazda Tribute", "year": "2002", "price:": "340 000 ₽", "hp": "2.0 л (124 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "4WD,", "mileage": "292 000 км"}

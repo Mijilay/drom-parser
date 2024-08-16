@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/dubrovka-lenobl/mazda/mpv/216429174.html", "image": "mazda21-15.jpg", "model": "Mazda MPV", "year": "2000", "price": "450 000 ₽", "engine": "2.5 л (170 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

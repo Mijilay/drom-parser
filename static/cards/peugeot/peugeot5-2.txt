@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/308/482108692.html", "image": "peugeot5-2.jpg", "model": "Peugeot 308", "year": "2011", "price:": "595 000 ₽", "hp": "1.6 л (120 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "109 000 км"}

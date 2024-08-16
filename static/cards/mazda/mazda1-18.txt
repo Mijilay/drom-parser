@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/mazda3/523946758.html", "image": "mazda1-18.jpg", "model": "Mazda Mazda3", "year": "2014", "price:": "1 435 100 ₽", "hp": "1.5 л (120 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "150 507 км"}

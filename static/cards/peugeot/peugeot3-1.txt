@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/308/411603392.html", "image": "peugeot3-1.jpg", "model": "Peugeot 308", "year": "2010", "price:": "495 000 ₽", "hp": "1.6 л (120 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "152 000 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/vyborg/mazda/mazda3/829713867.html", "image": "mazda21-20.jpg", "model": "Mazda Mazda3", "year": "2006", "price": "600 000 ₽", "engine": "1.6 л (105 л.с.),", "transmission": "бензин,", "drive": "механика,"}

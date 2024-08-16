@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series/436732430.html", "image": "bmw25-16.jpg", "model": "BMW 5-Series", "year": "2020", "price:": "3 899 000 ₽", "hp": "2.0 л (190 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "задний,", "mileage": "55 000 км"}

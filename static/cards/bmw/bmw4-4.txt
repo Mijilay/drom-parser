@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x5/854690044.html", "image": "bmw4-4.jpg", "model": "BMW X5", "year": "2019", "price:": "6 890 000 ₽", "hp": "3.0 л (249 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "60 631 км"}

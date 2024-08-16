@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/2-series_active_tourer/279484376.html", "image": "bmw16-12.jpg", "model": "BMW 2-Series Active Tourer", "year": "2015", "price:": "1 580 000 ₽", "hp": "1.5 л (136 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "65 000 км"}

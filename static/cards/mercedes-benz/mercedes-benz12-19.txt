@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/c-class/787001492.html", "image": "mercedes-benz12-19.jpg", "model": "Mercedes-Benz C-Class", "year": "2023", "price:": "5 990 000 ₽", "hp": "1.5 л (170 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "8 502 км"}

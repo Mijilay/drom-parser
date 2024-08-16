@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/3-series/639431696.html", "image": "bmw3-19.jpg", "model": "BMW 3-Series", "year": "2001", "price:": "529 990 ₽", "hp": "1.8 л (115 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "345 000 км"}

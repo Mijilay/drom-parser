@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series_gran_turismo/657086737.html", "image": "bmw28-5.jpg", "model": "BMW 5-Series Gran Turismo", "year": "2013", "price:": "1 999 000 ₽", "hp": "3.0 л (306 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "168 000 км"}

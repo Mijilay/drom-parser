@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x4/712277332.html", "image": "bmw11-7.jpg", "model": "BMW X4", "year": "2015", "price:": "2 639 000 ₽", "hp": "2.0 л (245 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "112 186 км"}

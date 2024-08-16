@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/eqs/661413093.html", "image": "mercedes-benz30-16.jpg", "model": "Mercedes-Benz EQS", "year": "2022", "price:": "15 900 000 ₽", "hp": "электро,", "engine": "автомат,", "transmission": "4WD,", "drive": "20 201 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/c-class/53200101.html", "image": "mercedes-benz14-9.jpg", "model": "Mercedes-Benz C-Class", "year": "2005", "price:": "400 000 ₽", "hp": "1.8 л (192 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "400 000 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/pskov/peugeot/3008/164726691.html", "image": "peugeot12-19.jpg", "model": "Peugeot 3008", "year": "2020", "price": "2 172 000 ₽", "engine": "1.2 л (130 л.с.),", "transmission": "бензин,", "drive": "автомат,"}

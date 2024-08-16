@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/luga/mercedes-benz/c-class/52783474.html", "image": "mercedes-benz39-14.jpg", "model": "Mercedes-Benz C-Class", "year": "2008", "price": "830 000 ₽", "engine": "1.8 л (184 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

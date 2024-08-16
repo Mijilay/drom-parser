@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/focus/941459338.html", "image": "ford20-13.jpg", "model": "Ford Focus", "year": "2008", "price:": "400 000 ₽", "hp": "1.6 л (100 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "300 000 км"}

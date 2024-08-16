@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/velikiy-novgorod/bmw/x3/342736081.html", "image": "bmw44-12.jpg", "model": "BMW X3", "year": "2021", "price": "5 190 000 ₽", "engine": "2.0 л (190 л.с.),", "transmission": "дизель,", "drive": "АКПП,"}

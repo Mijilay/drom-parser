@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/s-max/152156551.html", "image": "ford1-13.jpg", "model": "Ford S-MAX", "year": "2011", "price:": "1 298 000 ₽", "hp": "2.3 л (161 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "122 665 км"}

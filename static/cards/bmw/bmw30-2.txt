@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x1/514452159.html", "image": "bmw30-2.jpg", "model": "BMW X1", "year": "2020", "price:": "2 650 000 ₽", "hp": "1.5 л (116 л.с.),", "engine": "дизель,", "transmission": "робот,", "drive": "передний,", "mileage": "128 626 км"}

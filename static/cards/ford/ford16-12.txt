@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/galaxy/524377996.html", "image": "ford16-12.jpg", "model": "Ford Galaxy", "year": "2012", "price:": "1 035 000 ₽", "hp": "2.0 л (140 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "передний,", "mileage": "357 032 км"}

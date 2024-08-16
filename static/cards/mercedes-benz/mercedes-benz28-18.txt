@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/gla-class/644186465.html", "image": "mercedes-benz28-18.jpg", "model": "Mercedes-Benz GLA-Class", "year": "2014", "price:": "1 840 000 ₽", "hp": "2.0 л (211 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "4WD,", "mileage": "155 000 км"}

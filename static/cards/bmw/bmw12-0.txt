@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x3/681444708.html", "image": "bmw12-0.jpg", "model": "BMW X3", "year": "2012", "price:": "1 955 000 ₽", "hp": "3.0 л (249 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "171 348 км"}

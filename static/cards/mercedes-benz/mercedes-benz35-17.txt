@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/clk-class/694406233.html", "image": "mercedes-benz35-17.jpg", "model": "Mercedes-Benz CLK-Class", "year": "1999", "price:": "550 000 ₽", "hp": "3.2 л (218 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "317 200 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/vsevolozhsk/mercedes-benz/s-class/402902717.html", "image": "mercedes-benz39-3.jpg", "model": "Mercedes-Benz S-Class", "year": "1992", "price": "399 000 ₽", "engine": "3.2 л (231 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

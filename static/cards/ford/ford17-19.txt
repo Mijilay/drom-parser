@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/kuga/225250069.html", "image": "ford17-19.jpg", "model": "Ford Kuga", "year": "2017", "price:": "1 790 800 ₽", "hp": "1.5 л (150 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "78 705 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/6-series_gran_turismo/228792250.html", "image": "bmw33-2.jpg", "model": "BMW 6-Series Gran Turismo", "year": "2020", "price:": "5 399 000 ₽", "hp": "2.0 л (190 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "81 942 км"}

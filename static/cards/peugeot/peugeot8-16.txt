@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/2008/458447957.html", "image": "peugeot8-16.jpg", "model": "Peugeot 2008", "year": "2014", "price:": "890 000 ₽", "hp": "1.6 л (120 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "150 000 км"}

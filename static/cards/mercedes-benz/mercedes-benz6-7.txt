@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/glc-class/880876647.html", "image": "mercedes-benz6-7.jpg", "model": "Mercedes-Benz GLC", "year": "2021", "price:": "4 949 090 ₽", "hp": "2.0 л (245 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "61 093 км"}

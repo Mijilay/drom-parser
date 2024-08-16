@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/a-class/159228031.html", "image": "mercedes-benz27-17.jpg", "model": "Mercedes-Benz A-Class", "year": "2016", "price:": "1 500 000 ₽", "hp": "1.6 л (122 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "125 824 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/4-series/190914140.html", "image": "bmw20-3.jpg", "model": "BMW 4-Series", "year": "2023", "price:": "7 599 000 ₽", "hp": "3.0 л (374 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "4WD,", "mileage": "16 600 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/3-series/619347137.html", "image": "bmw25-4.jpg", "model": "BMW 3-Series", "year": "2011", "price:": "1 600 000 ₽", "hp": "2.0 л (245 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "200 133 км"}

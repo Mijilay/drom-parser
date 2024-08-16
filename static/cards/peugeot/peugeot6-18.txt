@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/607/908126979.html", "image": "peugeot6-18.jpg", "model": "Peugeot 607", "year": "2000", "price:": "200 000 ₽", "hp": "2.9 л (207 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "290 000 км"}

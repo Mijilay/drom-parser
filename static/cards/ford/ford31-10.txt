@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/gatchina/ford/focus/164338953.html", "image": "ford31-10.jpg", "model": "Ford Focus", "year": "2005", "price": "280 000 ₽", "engine": "1.6 л (115 л.с.),", "transmission": "бензин,", "drive": "механика,"}

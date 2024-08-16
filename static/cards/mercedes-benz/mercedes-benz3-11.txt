@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/s-class/272595711.html", "image": "mercedes-benz3-11.jpg", "model": "Mercedes-Benz S-Class", "year": "1998", "price:": "300 000 ₽", "hp": "5.0 л (320 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "275 000 км"}

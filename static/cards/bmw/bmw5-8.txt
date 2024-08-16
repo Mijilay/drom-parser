@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series/446442472.html", "image": "bmw5-8.jpg", "model": "BMW 5-Series", "year": "1994", "price:": "297 000 ₽", "hp": "2.5 л (143 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "задний,", "mileage": "350 000 км"}

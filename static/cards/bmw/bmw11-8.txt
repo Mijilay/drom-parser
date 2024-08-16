@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series/585189328.html", "image": "bmw11-8.jpg", "model": "BMW 5-Series", "year": "1989", "price:": "389 999 ₽", "hp": "2.5 л (170 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "задний,", "mileage": "342 653 км"}

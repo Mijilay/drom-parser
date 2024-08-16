@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/a-class/915969352.html", "image": "mercedes-benz8-13.jpg", "model": "Mercedes-Benz A-Class", "year": "2020", "price:": "5 595 000 ₽", "hp": "2.0 л (387 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "4WD,", "mileage": "35 040 км"}

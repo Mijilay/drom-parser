@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/vytegra/mazda/mazda6/168449502.html", "image": "mazda21-33.jpg", "model": "Mazda Mazda6", "year": "2003", "price": "360 000 ₽", "engine": "1.8 л (120 л.с.),", "transmission": "бензин,", "drive": "механика,"}

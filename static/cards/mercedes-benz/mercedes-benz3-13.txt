@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/e-class/206514088.html", "image": "mercedes-benz3-13.jpg", "model": "Mercedes-Benz E-Class", "year": "1999", "price:": "750 000 ₽", "hp": "2.8 л (204 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "38 000 км"}

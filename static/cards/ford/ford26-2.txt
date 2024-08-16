@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/s-max/557256054.html", "image": "ford26-2.jpg", "model": "Ford S-MAX", "year": "2018", "price:": "2 279 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "передний,", "mileage": "72 141 км"}

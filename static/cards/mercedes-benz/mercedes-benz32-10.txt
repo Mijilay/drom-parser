@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/cla-class/744218757.html", "image": "mercedes-benz32-10.jpg", "model": "Mercedes-Benz CLA-Class", "year": "2015", "price:": "1 849 000 ₽", "hp": "1.6 л (156 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "139 000 км"}

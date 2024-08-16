@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/vyborg/mercedes-benz/c-class/469050782.html", "image": "mercedes-benz39-12.jpg", "model": "Mercedes-Benz C-Class", "year": "2001", "price": "425 000 ₽", "engine": "2.0 л (163 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/bugry/ford/mondeo/262761760.html", "image": "ford31-5.jpg", "model": "Ford Mondeo", "year": "2006", "price": "260 000 ₽", "engine": "2.0 л (145 л.с.),", "transmission": "бензин,", "drive": "механика,"}

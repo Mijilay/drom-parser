@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/cx-30/533570076.html", "image": "mazda21-35.jpg", "model": "Mazda CX-30", "year": "2021", "price:": "1 879 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "4 536 км"}

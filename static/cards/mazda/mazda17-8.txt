@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/cx-5/905661877.html", "image": "mazda17-8.jpg", "model": "Mazda CX-5", "year": "2015", "price:": "2 025 000 ₽", "hp": "2.0 л (150 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "94 200 км"}

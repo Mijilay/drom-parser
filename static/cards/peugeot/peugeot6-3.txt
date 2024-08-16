@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/107/319653476.html", "image": "peugeot6-3.jpg", "model": "Peugeot 107", "year": "2011", "price:": "474 000 ₽", "hp": "1.0 л (68 л.с.),", "engine": "бензин,", "transmission": "робот,", "drive": "передний,", "mileage": "208 100 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/m8/298927962.html", "image": "bmw37-19.jpg", "model": "BMW M8", "year": "2021", "price:": "14 599 999 ₽", "hp": "4.4 л (625 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "29 000 км"}

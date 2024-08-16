@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/gl-class/630332315.html", "image": "mercedes-benz31-5.jpg", "model": "Mercedes-Benz GL-Class", "year": "2015", "price:": "2 570 500 ₽", "hp": "3.0 л (249 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "349 529 км"}

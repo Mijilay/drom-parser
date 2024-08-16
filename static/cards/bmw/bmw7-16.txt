@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x5/275165789.html", "image": "bmw7-16.jpg", "model": "BMW X5", "year": "2011", "price:": "2 650 000 ₽", "hp": "3.0 л (245 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "158 958 км"}

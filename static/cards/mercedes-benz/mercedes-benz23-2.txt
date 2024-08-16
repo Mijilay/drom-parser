@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/gl-class/474572533.html", "image": "mercedes-benz23-2.jpg", "model": "Mercedes-Benz GL-Class", "year": "2010", "price:": "1 615 000 ₽", "hp": "3.0 л (224 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "303 000 км"}

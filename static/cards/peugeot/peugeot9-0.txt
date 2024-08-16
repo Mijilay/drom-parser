@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/peugeot/rcz/397438898.html", "image": "peugeot9-0.jpg", "model": "Peugeot RCZ", "year": "2013", "price:": "1 285 000 ₽", "hp": "1.6 л (150 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "145 914 км"}

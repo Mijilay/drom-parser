@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/annino/bmw/3-series/625171209.html", "image": "bmw44-3.jpg", "model": "BMW 3-Series", "year": "2008", "price": "850 000 ₽", "engine": "2.0 л (136 л.с.),", "transmission": "бензин,", "drive": "АКПП,"}

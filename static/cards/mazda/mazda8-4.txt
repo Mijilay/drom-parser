@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/mazda6/529022967.html", "image": "mazda8-4.jpg", "model": "Mazda Mazda6", "year": "2023", "price:": "3 800 000 ₽", "hp": "2.0 л (158 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "передний"}

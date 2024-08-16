@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/murino/ford/focus/451763659.html", "image": "ford31-4.jpg", "model": "Ford Focus", "year": "2007", "price": "379 000 ₽", "engine": "1.6 л (115 л.с.),", "transmission": "бензин,", "drive": "механика,"}

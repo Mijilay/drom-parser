@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x5/564505439.html", "image": "bmw31-5.jpg", "model": "BMW X5", "year": "2017", "price:": "3 699 000 ₽", "hp": "3.0 л (218 л.с.),", "engine": "дизель,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "143 000 км"}

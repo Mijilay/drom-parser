@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/s-class/633518593.html", "image": "mercedes-benz28-5.jpg", "model": "Mercedes-Benz S-Class", "year": "2003", "price:": "680 000 ₽", "hp": "3.7 л (245 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "270 000 км"}

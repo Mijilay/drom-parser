@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x6/249215734.html", "image": "bmw15-10.jpg", "model": "BMW X6", "year": "2024", "price:": "16 940 000 ₽", "hp": "3.0 л (286 л.с.),", "engine": "дизель,", "transmission": "автомат,", "drive": "4WD,", "mileage": "35 км"}

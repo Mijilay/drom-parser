@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/murino/ford/mondeo/817861246.html", "image": "ford31-3.jpg", "model": "Ford Mondeo", "year": "2012", "price": "420 000 ₽", "engine": "2.0 л (145 л.с.),", "transmission": "бензин,", "drive": "механика,"}

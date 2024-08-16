@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/5-series/155173925.html", "image": "bmw35-11.jpg", "model": "BMW 5-Series", "year": "2011", "price:": "1 500 000 ₽", "hp": "2.0 л (245 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "256 661 км"}

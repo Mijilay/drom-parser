@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/2-series/52741233.html", "image": "bmw18-4.jpg", "model": "BMW 2-Series", "year": "2014", "price:": "2 040 000 ₽", "hp": "2.0 л (184 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "163 941 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/1-series/946271998.html", "image": "bmw21-10.jpg", "model": "BMW 1-Series", "year": "2012", "price:": "1 399 555 ₽", "hp": "1.6 л (136 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "задний,", "mileage": "95 000 км"}

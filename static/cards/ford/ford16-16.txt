@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/c-max/760209107.html", "image": "ford16-16.jpg", "model": "Ford C-MAX", "year": "2007", "price:": "564 990 ₽", "hp": "2.0 л (145 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "162 000 км"}

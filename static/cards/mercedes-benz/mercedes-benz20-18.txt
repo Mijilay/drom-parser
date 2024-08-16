@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/a-class/161792028.html", "image": "mercedes-benz20-18.jpg", "model": "Mercedes-Benz A-Class", "year": "2007", "price:": "509 000 ₽", "hp": "1.5 л (95 л.с.),", "engine": "бензин,", "transmission": "вариатор,", "drive": "передний,", "mileage": "138 000 км"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mercedes-benz/glk-class/123101284.html", "image": "mercedes-benz3-17.jpg", "model": "Mercedes-Benz GLK-Class", "year": "2013", "price:": "2 089 665 ₽", "hp": "3.5 л (249 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "4WD,", "mileage": "131 029 км"}

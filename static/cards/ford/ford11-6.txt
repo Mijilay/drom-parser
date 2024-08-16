@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/kuga/502598522.html", "image": "ford11-6.jpg", "model": "Ford Kuga", "year": "2011", "price:": "1 150 000 ₽", "hp": "2.0 л (136 л.с.),", "engine": "дизель,", "transmission": "робот,", "drive": "4WD,", "mileage": "200 000 км"}

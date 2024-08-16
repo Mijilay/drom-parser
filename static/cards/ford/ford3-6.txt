@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/focus_st/296363185.html", "image": "ford3-6.jpg", "model": "Ford Focus ST", "year": "2009", "price:": "1 350 000 ₽", "hp": "2.5 л (225 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "124 000 км"}

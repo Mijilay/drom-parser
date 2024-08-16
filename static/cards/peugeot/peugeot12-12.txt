@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/pskov/peugeot/2008/246021375.html", "image": "peugeot12-12.jpg", "model": "Peugeot 2008", "year": "2020", "price": "2 072 000 ₽", "engine": "1.5 л (130 л.с.),", "transmission": "дизель,", "drive": "АКПП,"}

@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/mazda/mazda3/831594451.html", "image": "mazda10-9.jpg", "model": "Mazda Mazda3", "year": "2012", "price:": "1 100 000 ₽", "hp": "1.6 л (105 л.с.),", "engine": "бензин,", "transmission": "АКПП,", "drive": "передний,", "mileage": "209 000 км"}

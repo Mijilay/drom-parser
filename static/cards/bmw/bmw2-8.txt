@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/x1/893456546.html", "image": "bmw2-8.jpg", "model": "BMW X1", "year": "2016", "price:": "2 399 099 ₽", "hp": "2.0 л (231 л.с.),", "engine": "бензин,", "transmission": "автомат,", "drive": "4WD,", "mileage": "101 130 км"}

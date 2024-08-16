@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/bmw/3-series/266445764.html", "image": "bmw13-9.jpg", "model": "BMW 3-Series", "year": "2017", "price:": "1 900 000 ₽", "hp": "2.0 л (136 л.с.),", "engine": "дизель,", "transmission": "механика,", "drive": "задний,", "mileage": "129 000 км"}

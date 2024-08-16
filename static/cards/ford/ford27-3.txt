@@ -1,1 +1,0 @@
-{"link": "https://auto.drom.ru/spb/ford/focus/925320120.html", "image": "ford27-3.jpg", "model": "Ford Focus", "year": "2007", "price:": "450 000 ₽", "hp": "1.8 л (125 л.с.),", "engine": "бензин,", "transmission": "механика,", "drive": "передний,", "mileage": "292 000 км"}
